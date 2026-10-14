@@ -19,9 +19,9 @@ original: |
 originalNote: "The fox's speech in 《狐生员劝人修仙》, Zibuyu juan 1 — the fullest statement of the cultivation economy in Qing zhiguai."
 notes:
   - term: "The fox examination"
-    text: "The idea that foxes sit a yearly exam set by a goddess, and are graded into licentiates and wild foxes, is one of the great inventions of Chinese fantasy: a civil service examination for animals, complete with pass marks and career consequences. Fail, and you are *yehu* — a wild fox, barred from cultivation forever."
+    text: "The idea that foxes sit a yearly exam set by a goddess, and are graded into licentiates and wild foxes, is one of the great inventions of Chinese fantasy: a civil service examination for animals, complete with pass marks and career consequences. Fail, and you are yehu — a wild fox, barred from cultivation forever."
   - term: "The Queen Mother of the Eastern Peak"
-    text: "泰山娘娘 is Bixia Yuanjun, the goddess of Mount Tai, who in popular religion also presides over birth and over the souls of the dead. She is *not* the Queen Mother of the West (西王母) of Kunlun and the peaches. Mount Tai's association with the dead made her the natural examiner of spirits who want to climb the ladder out of the animal condition."
+    text: "泰山娘娘 is Bixia Yuanjun, the goddess of Mount Tai, who in popular religion also presides over birth and over the souls of the dead. She is not the Queen Mother of the West (西王母) of Kunlun and the peaches. Mount Tai's association with the dead made her the natural examiner of spirits who want to climb the ladder out of the animal condition."
   - term: "The arithmetic of becoming immortal"
     text: "This is the most useful passage in the whole collection for anyone building a coherent system: 500 years to get from beast to human-shaped speaker; humans start 500 years ahead; the noble and the literate start another 300 ahead; a round thousand years to finish. It is a meritocracy, and it is rigged exactly as the human one is rigged."
   - term: "Coming in sideways"

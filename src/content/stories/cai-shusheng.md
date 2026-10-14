@@ -16,12 +16,12 @@ image: ""
 imageAlt: ""
 original: |
   杭州北关门外有一屋，鬼屡见，人不敢居，扃锁甚固。书生蔡姓者将买其宅。人危之，蔡不听。券成，家人不肯入。蔡亲自启屋，秉烛坐。至夜半，有女子冉冉来，颈拖红帛，向蔡伏拜，结绳于梁，伸颈就之。蔡无怖色。女子再挂一绳，招蔡。蔡曳一足就之。女子曰：「君误矣。」蔡笑曰：「汝误才有今日，我勿误也。」鬼大哭，伏地再拜去。自此，怪遂绝，蔡亦登第。
-originalNote: "Complete text of 《蔡书生》, Zibuyu juan 1 — one hundred and twenty characters. In the original the exchange turns on one word: *wu* 误, mistake."
+originalNote: "Complete text of 《蔡书生》, Zibuyu juan 1 — one hundred and twenty characters. In the original the exchange turns on one word: wu 误 — mistake."
 notes:
   - term: "Seeking a substitute"
     text: "The belief behind every Chinese hanging ghost: a person who dies by suicide cannot leave until someone else dies the same way in the same place. The ghost is not malice — it is a prisoner with one possible key, and it has to trick someone into turning it. Hence the beckoning, the second rope, the whole pantomime."
   - term: "Why 'I have made no mistake' wins"
-    text: "Cai's answer is not a spell, a talisman, or a sword. It is a logical objection. The trap requires the victim to *choose* the noose freely; Cai walks into it and then declines the premise, and the mechanism has nothing left to grip. Compare the rule quoted in 李通判 in the same collection: 死人还阳，须得替代 — for a dead man to return to the light, someone must take his place."
+    text: "Cai's answer is not a spell, a talisman, or a sword. It is a logical objection. The trap requires the victim to choose the noose freely; Cai walks into it and then declines the premise, and the mechanism has nothing left to grip. Compare the rule quoted in 李通判 in the same collection: 死人还阳，须得替代 — for a dead man to return to the light, someone must take his place."
   - term: "The red silk"
     text: "The trailing red silk (红帛) is the signature costume of the Chinese hanging ghost, and the colour is doing double duty: red is the wedding colour and the colour that repels demons, so the figure of the bride and the figure of the corpse are the same figure. In Chinese folklore the suicide ghost is conventionally young, female, and dressed for a wedding she will not have."
   - term: "Yuan Mei's compression"

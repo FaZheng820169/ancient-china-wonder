@@ -21,7 +21,7 @@ notes:
   - term: "Cold is the diagnostic"
     text: "In Chinese ghost fiction, cold is not atmosphere — it is evidence. A ghost is yin concentrated, and the first thing a living body notices is a drop in temperature. Yuan Mei makes it measurable: walnut, plate, half the mat, into the bone. It is an unusually physical attempt to describe what a ghost actually does to you."
   - term: "Breath as the weapon"
-    text: "The skull doesn't touch him for most of the scene; it *breathes* on him through the matting (张口隔席吹我). Qi — breath — is the medium by which yin and yang act on each other, which is why the attack is also a description: the skull is exhaling its own condition into him, and it spreads exactly as a cold draught would."
+    text: "The skull doesn't touch him for most of the scene; it breathes on him through the matting (张口隔席吹我). Qi — breath — is the medium by which yin and yang act on each other, which is why the attack is also a description: the skull is exhaling its own condition into him, and it spreads exactly as a cold draught would."
   - term: "A skull, not a skeleton"
     text: "骷髅 is the bare head. In Chinese lore the skull retains the last of the dead person's yin long after the rest of the body has gone, which is why skulls are a recurring nuisance rather than a symbol. This one is not haunting anyone for a reason — it is simply doing what skulls do, and the man got in the way."
   - term: "Why nobody digs"

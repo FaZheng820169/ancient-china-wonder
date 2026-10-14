@@ -21,9 +21,9 @@ notes:
   - term: "Fengdu, the capital of the dead"
     text: "Fengdu in Sichuan is the single most famous 'ghost city' in Chinese belief — a real town that by the Song had acquired the reputation of being the place where the living and the dead meet. Its temples still stage the whole apparatus of the underworld: the Bridge of Helplessness, the Nothing-To-Be-Done Bridge, the Ghost-Torturing Pass. Yuan Mei's story is one of the texts that made the reputation stick."
   - term: "Bao Zheng, judge of the dead"
-    text: "Bao Zheng was a real Song dynasty prefect (999–1062) so famous for incorruptibility that popular religion promoted him: he became the presiding judge of the underworld, the one authority no ghost can bribe. Note what he does here — he *agrees with the magistrate*. The god of death endorses the abolition of a tax paid to death."
+    text: "Bao Zheng was a real Song dynasty prefect (999–1062) so famous for incorruptibility that popular religion promoted him: he became the presiding judge of the underworld, the one authority no ghost can bribe. Note what he does here — he agrees with the magistrate. The god of death endorses the abolition of a tax paid to death."
   - term: "The question that kills"
-    text: "Li Shen asks Guan Yu where 'Lord Xuande' is — Xuande being the courtesy name of Liu Bei, Guan Yu's sworn brother and sovereign. Two offences at once: inquiring into classified heavenly matters, and naming a ruler by his *zi* (courtesy name), which is a violation of taboo. Guan Yu's hair stands up under his cap, and the sentence is lightning."
+    text: "Li Shen asks Guan Yu where 'Lord Xuande' is — Xuande being the courtesy name of Liu Bei, Guan Yu's sworn brother and sovereign. Two offences at once: inquiring into classified heavenly matters, and naming a ruler by his zi (courtesy name), which is a violation of taboo. Guan Yu's hair stands up under his cap, and the sentence is lightning."
   - term: "A story against superstition"
     text: "This is the key to reading Yuan Mei. The ghosts are real — and they are on the magistrate's side. Bao Zheng's speech denounces 'wicked monks and vile Daoists' who use gods as an excuse to ruin families. 子不语 is full of wonders and skeptical of the wonder-business at once; the supernatural is the instrument of the critique, not its object."
 related:

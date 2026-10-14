@@ -25,7 +25,7 @@ notes:
   - term: "Staffed like a corrupt court"
     text: "The guards below the hall are described as looking like 高力士 and 童贯 — the famous eunuchs Gao Lishi of the Tang and Tong Guan of the Song, as they appear on the opera stage. The palace at the end of the earth is manned in the costume of the worst imperial government in Chinese memory. Yuan Mei never says so; he just casts it."
   - term: "Sent back by post"
-    text: "The comedy is in the administration. A voice inside asks what the noise is; the guard goes in, comes back, and says wait for the order. Then it gets cold, the guards blame the visitor for their discomfort, and at dawn a bell rings and someone says the man kept yesterday is to be returned. He is *handed over* to the shepherds like a parcel — and one of them punches him into the river, which is how he wakes up."
+    text: "The comedy is in the administration. A voice inside asks what the noise is; the guard goes in, comes back, and says wait for the order. Then it gets cold, the guards blame the visitor for their discomfort, and at dawn a bell rings and someone says the man kept yesterday is to be returned. He is handed over to the shepherds like a parcel — and one of them punches him into the river, which is how he wakes up."
 related:
   - "fengdu-magistrate"
   - "lu-pan"

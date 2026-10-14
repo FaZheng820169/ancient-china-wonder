@@ -19,9 +19,9 @@ original: |
 originalNote: "The closing commentary of 《南昌士人》, Zibuyu juan 1 — the clearest single statement of the hun/po doctrine in Chinese fiction."
 notes:
   - term: "Hun and po — the two souls"
-    text: "The *hun* is the cloud-soul: yang, intelligent, light, the part that thinks and remembers and goes up. The *po* is the white-soul: yin, dull, heavy, bound to the flesh, the part that keeps the body's appetites. At death the hun disperses and the po stays with the corpse. Everything Chinese fiction does with walking corpses follows from this one distinction."
+    text: "The hun is the cloud-soul: yang, intelligent, light, the part that thinks and remembers and goes up. The po is the white-soul: yin, dull, heavy, bound to the flesh, the part that keeps the body's appetites. At death the hun disperses and the po stays with the corpse. Everything Chinese fiction does with walking corpses follows from this one distinction."
   - term: "Why the corpse starts to spoil"
-    text: "The horror is engineered precisely. While the hun is still present, the dead man is *his friend* — he speaks humanly, weeps, and is wept over. The instant his business is finished the hun scatters, and what is left standing in the room is the po wearing his face. The story dramatises the doctrine rather than explaining it, then lets a bystander explain it."
+    text: "The horror is engineered precisely. While the hun is still present, the dead man is his friend — he speaks humanly, weeps, and is wept over. The instant his business is finished the hun scatters, and what is left standing in the room is the po wearing his face. The story dramatises the doctrine rather than explaining it, then lets a bystander explain it."
   - term: "Moving corpses, running shadows"
     text: "移尸走影 — 'moving corpses, running shadows' — is the technical term for what happens in the last third of the tale, and it is the same idea behind the later Hunan legend of the corpse-drivers (赶尸), who marched the dead home over hundreds of miles. A body with the po still in it can travel; it just cannot be reasoned with."
   - term: "The three requests"

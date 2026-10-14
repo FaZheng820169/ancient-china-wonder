@@ -19,7 +19,7 @@ original: |
 originalNote: "From 《灵璧女借尸还魂》, Zibuyu juan 1. Yuan Mei ends with the date and nothing else — no comment, no consolation."
 notes:
   - term: "Borrowing a corpse to return the soul"
-    text: "借尸还魂 is the standard mechanism, and it is one of the very few ways Chinese lore lets a soul come back without a substitute dying in its place (contrast the rule in 李通判). The soul is not tied to its own body, only to *a* body — which is exactly the premise that later fantasy mines for everything it is worth."
+    text: "借尸还魂 is the standard mechanism, and it is one of the very few ways Chinese lore lets a soul come back without a substitute dying in its place (contrast the rule in 李通判). The soul is not tied to its own body, only to a body — which is exactly the premise that later fantasy mines for everything it is worth."
   - term: "A legal problem, not a miracle"
     text: "The interesting half of the story is the lawsuit. Two families claim the same woman — her parents, whose daughter was buried, and the farmer, whose wife's body she is wearing — and they go to law over her. Qing magistrates really did adjudicate cases like this. The supernatural arrives as a civil dispute over identity and marriage rights."
   - term: "Whose face is it"
