@@ -12,8 +12,8 @@ for fantasy readers, mythology lovers and TTRPG designers.
 
 | Section | Content |
 | --- | --- |
-| `/stories` | 31 classical tales translated from the public-domain originals (Liaozhai, Tang chuanqi, Soushen Ji, Youming Lu, Yuewei Caotang Biji, Shan Hai Jing…), each with the original Chinese text, cultural notes and source data |
-| `/worldview` | A 12-entry encyclopedia of the shared universe: the three realms, gods vs immortals, ghosts, fox spirits, the Courts of the Dead, cultivation rules, key figures |
+| `/stories` | 52 classical tales translated from the public-domain originals (Liaozhai, Tang chuanqi, Soushen Ji, Youming Lu, Yuewei Caotang Biji, Zibuyu, Shan Hai Jing…), each with the original Chinese text, cultural notes and source data |
+| `/worldview` | A 14-entry encyclopedia of the shared universe: the three realms, gods vs immortals, ghosts, hun and po, the Courts of the Dead, Fengdu, fox spirits, cultivation rules, key figures |
 | `/worldview/timeline` | An interactive timeline of the universe, from the creation myths to Pu Songling |
 | `/features` | Long-form essays (fox-spirit evolution, history of the underworld, Shan Hai Jing bestiary, the birth of wuxia) |
 | `/guides` | New-reader guides: what zhiguai is, the map of the universe, key concepts, translation method |
