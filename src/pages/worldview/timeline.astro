@@ -1,0 +1,87 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const stories = await getCollection('stories');
+const byId = Object.fromEntries(stories.map((s) => [s.id, s]));
+
+const eras = [
+  {
+    when: 'Age of Myth · pre-4th c. BCE',
+    title: 'The Creation Stratum',
+    text: 'Pangu separates heaven and earth; Nüwa fashions humanity and mends the sky. The Shan Hai Jing begins to be assembled — the catalogue of lands, gods and monsters that underlies everything after. The Queen Mother of the West is a tiger-toothed goddess of plague on the edge of the world.',
+    storyId: 'jingwei',
+  },
+  {
+    when: 'Han dynasty · 206 BCE – 220 CE',
+    title: 'The Underworld Gets a Registry',
+    text: 'The dead come under the jurisdiction of Mount Tai; grave-texts address the afterlife as a government. The nine-tailed fox attends the Queen Mother on tomb reliefs. The idea that everything has an entry in a ledger — the seed of the whole system — takes root.',
+    storyId: null,
+  },
+  {
+    when: 'Six Dynasties · 3rd–6th c.',
+    title: 'The Golden Age of Zhiguai',
+    text: 'Gan Bao compiles the Soushen Ji and founds the genre: Li Ji slays the serpent, Song Dingbo sells a ghost, Dong Yong is repaid by heaven, the lovers of Han Ping become two trees. Buddhism brings karma and hells; the afterlife becomes a court of law.',
+    storyId: 'li-ji',
+  },
+  {
+    when: 'Tang dynasty · 7th–10th c.',
+    title: 'The Chuanqi: Fiction Becomes Art',
+    text: 'The plain record becomes the polished tale. Nie Yinniang flies over rooftops; Liu Yi dives to the dragon palace; a scholar lives fifty years inside a pillow while the millet cooks. Miss Ren becomes the first great fox-wife. Everything modern Chinese fantasy descends from this century.',
+    storyId: 'liu-yi',
+  },
+  {
+    when: 'Song–Ming · 10th–17th c.',
+    title: 'The Great Casebooks',
+    text: 'Printing spreads the tales; the Taiping Guangji gathers the medieval heritage into one vast archive. The vernacular story and the novel grow out of the tradition. The folklore of fox-spirits, city gods and the Ten Kings settles into its classic form.',
+    storyId: null,
+  },
+  {
+    when: 'Qing dynasty · 17th–18th c.',
+    title: 'The Summit: Pu Songling and His Age',
+    text: 'Pu Songling writes the Liaozhai Zhiyi — Nie Xiaoqian, the Painted Skin, Yingning, the Cricket — nearly five hundred tales in which the genre learns tenderness, satire and heartbreak. Yuan Mei and Ji Yun follow with their own collections. The tradition reaches its acknowledged peak.',
+    storyId: 'nie-xiaoqian',
+  },
+  {
+    when: 'Today',
+    title: 'The Universe Expands',
+    text: 'Film, television and web-fiction rebuild the old cosmology at industrial scale; the cultivation novel exports xiulian to the world. This library is one small part of the same two-thousand-year project: recording the strange, and meaning it.',
+    storyId: null,
+  },
+];
+---
+
+<BaseLayout title="Timeline" description="An interactive timeline of the Chinese zhiguai universe — from the creation myths to Pu Songling and beyond, with the stories placed along it.">
+  <section class="section">
+    <div class="wrap-narrow">
+      <p class="kicker">Worldview · Timeline</p>
+      <h1>Two Thousand Years of Wonder</h1>
+      <p class="lede" style="max-width:62ch;">
+        The universe did not arrive at once. It accreted — myth by myth, dynasty by dynasty — into the
+        coherent world the stories assume. Follow it down the line.
+      </p>
+
+      <div class="timeline" style="margin-top:44px;">
+        {
+          eras.map((e) => {
+            const s = e.storyId ? byId[e.storyId] : null;
+            return (
+              <div class="tl-item">
+                <p class="tl-when">{e.when}</p>
+                <h3>{e.title}</h3>
+                <p>{e.text}</p>
+                {s && (
+                  <p class="small">
+                    <a class="pill pill-accent" href={`/stories/${s.id}`}>
+                      Read from this era: {s.data.title} &rarr;
+                    </a>
+                  </p>
+                )}
+              </div>
+            );
+          })
+        }
+      </div>
+    </div>
+  </section>
+</BaseLayout>

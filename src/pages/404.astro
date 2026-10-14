@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found" noindex={true}>
+  <section class="section">
+    <div class="wrap-narrow" style="text-align:center; padding:60px 24px;">
+      <p class="kicker">404</p>
+      <h1>This Page Has Become a Ghost</h1>
+      <p class="lede" style="max-width:48ch; margin:0 auto 30px;">
+        It may once have existed, but it has passed on — unburied, unindexed, and beyond the reach of
+        the courts below. Perhaps one of these living pages can help.
+      </p>
+      <div class="hero-actions" style="justify-content:center;">
+        <a class="btn btn-primary" href="/stories">Story Library</a>
+        <a class="btn btn-secondary" href="/">Back to the Living</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

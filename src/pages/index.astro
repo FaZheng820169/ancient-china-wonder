@@ -1,0 +1,167 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import StoryCard from '../components/StoryCard.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { SITE, BRANCHES } from '../consts';
+
+const stories = await getCollection('stories');
+const featured = stories
+  .filter((s) => s.data.featured)
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 6);
+const latest = [...stories].sort((a, b) => b.data.published.getTime() - a.data.published.getTime()).slice(0, 4);
+const features = (await getCollection('features')).sort((a, b) => a.data.order - b.data.order).slice(0, 3);
+const worldview = await getCollection('worldview');
+
+const branchOrder = ['cosmology', 'beings', 'figures', 'cultivation'] as const;
+---
+
+<BaseLayout title={SITE.name} description={SITE.description} ogImage="/images/og-default.jpg">
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-bg"><img src="/images/hero.jpg" alt="" aria-hidden="true" /></div>
+    <div class="wrap">
+      <p class="kicker">Ancient China Wonder · 志怪宇宙</p>
+      <h1>A universe of gods, ghosts, fox spirits and wonders from ancient China</h1>
+      <p class="lede">
+        For two thousand years, Chinese writers recorded the strange: fox-spirits who become faithful
+        wives, ghosts with unfinished business, swordsmen who fly over rooftops, and an underworld that
+        runs like a civil service. This site translates those stories and builds them into one coherent
+        world.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/stories">Explore Stories</a>
+        <a class="btn btn-secondary" href="/worldview">Browse the Worldview</a>
+      </div>
+      <div class="hero-stats">
+        <div><span class="n">{stories.length}</span><span class="l">Stories</span></div>
+        <div><span class="n">{worldview.length}</span><span class="l">Worldview Entries</span></div>
+        <div><span class="n">{features.length}+</span><span class="l">Features</span></div>
+        <div><span class="n">2,000</span><span class="l">Years of Wonder</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED STORIES -->
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="kicker">The Library</p>
+          <h2>Essential Tales</h2>
+        </div>
+        <a class="more" href="/stories">All {stories.length} stories &rarr;</a>
+      </div>
+      <div class="grid grid-3">
+        {
+          featured.map((s) => (
+            <StoryCard
+              href={`/stories/${s.id}`}
+              title={s.data.title}
+              titleZh={s.data.titleZh}
+              excerpt={s.data.excerpt}
+              meta={`${s.data.era} · ${s.data.sourceZh}`}
+              tags={s.data.tags}
+              image={s.data.image}
+              imageAlt={s.data.imageAlt}
+            />
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- WORLDVIEW -->
+  <section class="section" style="background:#fff; border-top:1px solid var(--rule); border-bottom:1px solid var(--rule);">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="kicker">The Universe</p>
+          <h2>One Coherent World</h2>
+        </div>
+        <a class="more" href="/worldview">Full worldview &rarr;</a>
+      </div>
+      <div class="grid grid-4">
+        {
+          branchOrder.map((key) => {
+            const b = BRANCHES[key];
+            const entries = worldview.filter((w) => w.data.branch === key).slice(0, 3);
+            return (
+              <div class="hub">
+                <svg class="hub-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                  <circle cx="12" cy="12" r="9" />
+                  <path d="M12 3 v18 M3 12 h18" opacity="0.5" />
+                </svg>
+                <h3><a href={`/worldview#${key}`}>{b.label}</a></h3>
+                <p class="small muted" style="margin-bottom:12px;">{b.zh}</p>
+                <p>{b.blurb}</p>
+                <div class="hub-links">
+                  {entries.map((w) => (
+                    <a href={`/worldview/${w.id}`}>{w.data.title}</a>
+                  ))}
+                </div>
+              </div>
+            );
+          })
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- LATEST + FEATURES -->
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="kicker">New Translations</p>
+          <h2>Latest Stories</h2>
+        </div>
+        <a class="more" href="/stories">Story library &rarr;</a>
+      </div>
+      <div class="grid grid-2">
+        {
+          latest.map((s) => (
+            <StoryCard
+              href={`/stories/${s.id}`}
+              title={s.data.title}
+              titleZh={s.data.titleZh}
+              excerpt={s.data.excerpt}
+              meta={`${s.data.era} · ${s.data.sourceZh}`}
+              tags={s.data.tags}
+              showTags={false}
+            />
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="section-tight" style="padding-top:0;">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="kicker">Long Reads</p>
+          <h2>Features</h2>
+        </div>
+        <a class="more" href="/features">All features &rarr;</a>
+      </div>
+      <div class="grid grid-3">
+        {
+          features.map((f) => (
+            <article class="card story-card">
+              <div class="body">
+                <div class="meta">Feature</div>
+                <h3><a href={`/features/${f.id}`}>{f.data.title}</a></h3>
+                <p class="excerpt">{f.data.excerpt}</p>
+                <div class="card-foot"><a class="pill pill-accent" href={`/features/${f.id}`}>Read &rarr;</a></div>
+              </div>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <Newsletter />
+</BaseLayout>

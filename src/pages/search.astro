@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Search" description="Search the stories, worldview entries, features and guides of Ancient China Wonder.">
+  <section class="section">
+    <div class="wrap-narrow">
+      <p class="kicker">Search</p>
+      <h1>Search the Library</h1>
+
+      <div style="margin-top:30px;">
+        <input id="search-box" class="search-input" type="search" placeholder="Try 'fox spirit', 'underworld', 'Nie Xiaoqian'…" autocomplete="off" />
+        <p class="search-hint" id="search-hint">Type at least two characters to search.</p>
+        <div id="search-results"></div>
+      </div>
+    </div>
+  </section>
+
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script is:inline>
+    const box = document.getElementById('search-box');
+    const hint = document.getElementById('search-hint');
+    const out = document.getElementById('search-results');
+    let pagefind = null;
+    let timer = null;
+
+    async function ensurePagefind() {
+      if (pagefind) return true;
+      try {
+        pagefind = await import('/pagefind/pagefind.js');
+        await pagefind.init();
+        return true;
+      } catch (e) {
+        hint.textContent = 'Search index not available yet — it is generated when the site is built.';
+        return false;
+      }
+    }
+
+    function render(results) {
+      out.innerHTML = '';
+      if (!results.length) {
+        hint.textContent = 'No results.';
+        return;
+      }
+      hint.textContent = results.length + (results.length === 1 ? ' result' : ' results');
+      for (const r of results.slice(0, 30)) {
+        const div = document.createElement('div');
+        div.className = 'search-result';
+        const title = r.meta?.title || r.url;
+        div.innerHTML =
+          '<h3><a href="' + r.url + '">' + title + '</a></h3>' +
+          '<div class="url">' + r.url + '</div>' +
+          '<p>' + r.excerpt + '</p>';
+        out.appendChild(div);
+      }
+    }
+
+    box?.addEventListener('input', () => {
+      const q = box.value.trim();
+      clearTimeout(timer);
+      if (q.length < 2) {
+        hint.textContent = 'Type at least two characters to search.';
+        out.innerHTML = '';
+        return;
+      }
+      timer = setTimeout(async () => {
+        const ok = await ensurePagefind();
+        if (!ok) return;
+        hint.textContent = 'Searching…';
+        const res = await pagefind.debouncedSearch(q);
+        if (!res) return;
+        const results = await Promise.all(res.results.map((r) => r.data()));
+        render(results);
+      }, 180);
+    });
+  </script>
+</BaseLayout>

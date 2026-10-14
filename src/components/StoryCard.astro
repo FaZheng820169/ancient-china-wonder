@@ -1,0 +1,72 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  titleZh: string;
+  excerpt: string;
+  meta: string;
+  tags?: string[];
+  image?: string;
+  imageAlt?: string;
+  showTags?: boolean;
+}
+
+const { href, title, titleZh, excerpt, meta, tags = [], image, imageAlt = '', showTags = true } = Astro.props;
+---
+
+<article class="card story-card">
+  <a href={href} class="thumb-link" aria-hidden="true" tabindex="-1">
+    {
+      image ? (
+        <div class="thumb">
+          <img src={image} alt={imageAlt || title} loading="lazy" width="640" height="400" />
+        </div>
+      ) : (
+        <div class="thumb thumb-plain">
+          <span class="thumb-zh">{titleZh}</span>
+        </div>
+      )
+    }
+  </a>
+  <div class="body">
+    <div class="meta">{meta}</div>
+    <h3><a href={href}>{title}</a></h3>
+    <p class="zh">{titleZh}</p>
+    <p class="excerpt">{excerpt}</p>
+    {
+      showTags && tags.length > 0 && (
+        <div class="card-foot">
+          {tags.slice(0, 3).map((t) => (
+            <span class="pill">{t}</span>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</article>
+
+<style>
+  .thumb-link {
+    display: block;
+  }
+  .thumb-plain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(160deg, #f0ece3 0%, #e6e1d5 100%);
+    position: relative;
+  }
+  .thumb-plain::after {
+    content: '';
+    position: absolute;
+    inset: 10px;
+    border: 1px solid rgba(166, 44, 33, 0.18);
+  }
+  .thumb-zh {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.14em;
+    color: #8d241b;
+    opacity: 0.75;
+  }
+</style>

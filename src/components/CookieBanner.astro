@@ -1,0 +1,33 @@
+---
+---
+
+<div class="cookie" id="cookie-banner" role="region" aria-label="Cookie notice">
+  <p>
+    This site uses a small amount of local storage to remember your cookie preference. No advertising
+    or tracking cookies are set. See the <a href="/privacy">privacy policy</a>.
+  </p>
+  <div class="row">
+    <button class="accept" type="button" data-action="accept">Accept</button>
+    <button type="button" data-action="decline">Decline</button>
+  </div>
+</div>
+
+<script>
+  const KEY = 'acw-cookie-choice';
+  const banner = document.getElementById('cookie-banner');
+  try {
+    if (!localStorage.getItem(KEY)) banner?.classList.add('show');
+  } catch (e) {
+    /* storage unavailable — leave banner hidden */
+  }
+  banner?.addEventListener('click', (ev) => {
+    const btn = (ev.target as HTMLElement)?.closest('button');
+    if (!btn) return;
+    try {
+      localStorage.setItem(KEY, btn.dataset.action === 'accept' ? 'accepted' : 'declined');
+    } catch (e) {
+      /* ignore */
+    }
+    banner.classList.remove('show');
+  });
+</script>

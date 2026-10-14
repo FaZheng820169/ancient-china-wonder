@@ -1,0 +1,146 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StoryCard from '../../components/StoryCard.astro';
+
+const stories = (await getCollection('stories')).sort((a, b) => a.data.order - b.data.order);
+
+const dynasties = [...new Set(stories.map((s) => s.data.dynasty))];
+const sources = [...new Set(stories.map((s) => s.data.sourceZh))];
+const tags = [...new Set(stories.flatMap((s) => s.data.tags))].sort();
+
+function count(list: typeof stories, key: 'dynasty' | 'sourceZh' | 'tags', val: string) {
+  if (key === 'tags') return list.filter((s) => s.data.tags.includes(val)).length;
+  return list.filter((s) => s.data[key] === val).length;
+}
+---
+
+<BaseLayout title="Story Library" description={`${stories.length} classical Chinese tales of the strange, translated from the originals: ghosts, fox spirits, immortals, monsters and the underworld.`}>
+  <section class="section">
+    <div class="wrap">
+      <p class="kicker">Story Library · 故事库</p>
+      <h1>Tales of the Strange</h1>
+      <p class="lede" style="max-width:64ch;">
+        Classical zhiguai and chuanqi, translated from the original texts — every story with its source,
+        its original Chinese, and notes on the world it came from. Filter by era, book, or creature.
+      </p>
+
+      <div class="filter-layout" style="margin-top:44px;">
+        <aside class="filters" aria-label="Filters">
+          <div class="filter-group">
+            <h4>Creature &amp; Theme</h4>
+            <div class="filter-list" data-filter-group="tag">
+              {
+                tags.map((t) => (
+                  <button class="filter-btn" type="button" data-value={t} aria-pressed="false">
+                    <span>{t}</span><span class="cnt">{count(stories, 'tags', t)}</span>
+                  </button>
+                ))
+              }
+            </div>
+          </div>
+          <div class="filter-group">
+            <h4>Source Text</h4>
+            <div class="filter-list" data-filter-group="source">
+              {
+                sources.map((s) => (
+                  <button class="filter-btn" type="button" data-value={s} aria-pressed="false">
+                    <span>{s}</span><span class="cnt">{count(stories, 'sourceZh', s)}</span>
+                  </button>
+                ))
+              }
+            </div>
+          </div>
+          <div class="filter-group">
+            <h4>Era</h4>
+            <div class="filter-list" data-filter-group="dynasty">
+              {
+                dynasties.map((d) => (
+                  <button class="filter-btn" type="button" data-value={d} aria-pressed="false">
+                    <span>{d}</span><span class="cnt">{count(stories, 'dynasty', d)}</span>
+                  </button>
+                ))
+              }
+            </div>
+          </div>
+          <button class="filter-reset" type="button" id="filter-reset">Clear all filters</button>
+        </aside>
+
+        <div>
+          <p class="count-line" id="count-line">Showing all {stories.length} stories</p>
+          <div class="grid grid-2" id="story-grid">
+            {
+              stories.map((s) => (
+                <div
+                  class="story-item"
+                  data-dynasty={s.data.dynasty}
+                  data-source={s.data.sourceZh}
+                  data-tags={s.data.tags.join('|')}
+                >
+                  <StoryCard
+                    href={`/stories/${s.id}`}
+                    title={s.data.title}
+                    titleZh={s.data.titleZh}
+                    excerpt={s.data.excerpt}
+                    meta={`${s.data.era} · ${s.data.sourceZh}`}
+                    tags={s.data.tags}
+                    image={s.data.image}
+                    imageAlt={s.data.imageAlt}
+                  />
+                </div>
+              ))
+            }
+          </div>
+          <p class="empty" id="empty-msg" hidden>No stories match these filters. <button class="filter-reset" type="button" onclick="document.getElementById('filter-reset').click()">Clear filters</button></p>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const state: Record<string, Set<string>> = { tag: new Set(), source: new Set(), dynasty: new Set() };
+  const items = Array.from(document.querySelectorAll<HTMLElement>('.story-item'));
+  const countLine = document.getElementById('count-line')!;
+  const emptyMsg = document.getElementById('empty-msg')!;
+
+  function apply() {
+    let shown = 0;
+    for (const el of items) {
+      const tags = (el.dataset.tags || '').split('|');
+      const okTag = state.tag.size === 0 || [...state.tag].every((t) => tags.includes(t));
+      const okSource = state.source.size === 0 || state.source.has(el.dataset.source || '');
+      const okDynasty = state.dynasty.size === 0 || state.dynasty.has(el.dataset.dynasty || '');
+      const show = okTag && okSource && okDynasty;
+      el.style.display = show ? '' : 'none';
+      if (show) shown++;
+    }
+    const total = items.length;
+    countLine.textContent = shown === total ? `Showing all ${total} stories` : `Showing ${shown} of ${total} stories`;
+    emptyMsg.hidden = shown !== 0;
+  }
+
+  document.querySelectorAll<HTMLElement>('.filter-list').forEach((list) => {
+    const group = list.dataset.filterGroup!;
+    list.addEventListener('click', (ev) => {
+      const btn = (ev.target as HTMLElement).closest('.filter-btn') as HTMLElement | null;
+      if (!btn) return;
+      const val = btn.dataset.value!;
+      const set = state[group];
+      if (set.has(val)) {
+        set.delete(val);
+        btn.setAttribute('aria-pressed', 'false');
+      } else {
+        set.add(val);
+        btn.setAttribute('aria-pressed', 'true');
+      }
+      apply();
+    });
+  });
+
+  document.getElementById('filter-reset')?.addEventListener('click', () => {
+    for (const k of Object.keys(state)) state[k].clear();
+    document.querySelectorAll('.filter-btn').forEach((b) => b.setAttribute('aria-pressed', 'false'));
+    apply();
+  });
+</script>

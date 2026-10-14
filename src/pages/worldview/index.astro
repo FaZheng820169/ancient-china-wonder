@@ -1,0 +1,65 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BRANCHES } from '../../consts';
+
+const entries = await getCollection('worldview');
+const branchOrder = ['cosmology', 'beings', 'figures', 'cultivation'] as const;
+---
+
+<BaseLayout title="Worldview" description="The encyclopedia of the Chinese zhiguai universe: the three realms, gods and immortals, ghosts, fox spirits, the Courts of the Dead, and the rules of cultivation.">
+  <section class="section">
+    <div class="wrap">
+      <p class="kicker">Worldview · 世界观</p>
+      <h1>One Coherent Universe</h1>
+      <p class="lede" style="max-width:64ch;">
+        Two thousand years of tales share a single map: three realms, a celestial bureaucracy, a ledger
+        of karma, and a second population of spirits living alongside humanity. This is that map —
+        every entry cross-linked to the stories that show it in action.
+      </p>
+
+      {
+        branchOrder.map((key) => {
+          const b = BRANCHES[key];
+          const list = entries.filter((e) => e.data.branch === key).sort((a, c) => a.data.order - c.data.order);
+          if (!list.length) return null;
+          return (
+            <div id={key} style="margin-top:56px;">
+              <div class="section-head">
+                <div>
+                  <p class="kicker">{b.zh}</p>
+                  <h2>{b.label}</h2>
+                </div>
+              </div>
+              <p class="muted" style="max-width:70ch; margin-top:-16px; margin-bottom:26px;">{b.blurb}</p>
+              <div class="grid grid-2">
+                {list.map((e) => (
+                  <article class="card story-card">
+                    {e.data.image && (
+                      <a href={`/worldview/${e.id}`} class="thumb-link" aria-hidden="true" tabindex="-1">
+                        <div class="thumb"><img src={e.data.image} alt={e.data.imageAlt || e.data.title} loading="lazy" width="640" height="400" /></div>
+                      </a>
+                    )}
+                    <div class="body">
+                      <h3><a href={`/worldview/${e.id}`}>{e.data.title}</a></h3>
+                      <p class="zh">{e.data.titleZh}</p>
+                      <p class="excerpt">{e.data.summary}</p>
+                      <div class="card-foot"><a class="pill pill-accent" href={`/worldview/${e.id}`}>Read &rarr;</a></div>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            </div>
+          );
+        })
+      }
+
+      <div style="margin-top:56px;">
+        <div class="source-note" style="display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap;">
+          <span><b>The Timeline.</b> From the creation myths to Pu Songling — see how the universe grew, era by era, with the stories placed along it.</span>
+          <a class="btn btn-secondary" href="/worldview/timeline">Open the timeline &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

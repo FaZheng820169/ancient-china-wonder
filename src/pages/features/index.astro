@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const features = (await getCollection('features')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<BaseLayout title="Features" description="Long-form essays on the Chinese zhiguai universe: the evolution of the fox spirit, the history of the underworld, the creatures of the Shan Hai Jing, and the birth of wuxia.">
+  <section class="section">
+    <div class="wrap-narrow">
+      <p class="kicker">Features · 专题</p>
+      <h1>Long Reads</h1>
+      <p class="lede" style="max-width:60ch;">
+        Deep essays that follow one thread — a creature, a place, an idea — through two thousand years
+        of stories.
+      </p>
+
+      <div style="margin-top:40px; display:flex; flex-direction:column; gap:22px;">
+        {
+          features.map((f) => (
+            <article class="card story-card">
+              <div class="body" style="padding:28px 30px;">
+                <div class="meta">Feature · {f.data.published.toLocaleDateString('en-US', { year: 'numeric', month: 'long' })}</div>
+                <h3 style="font-size:1.35rem;"><a href={`/features/${f.id}`}>{f.data.title}</a></h3>
+                {f.data.subtitle && <p class="zh" style="font-family:var(--font-serif); font-style:italic;">{f.data.subtitle}</p>}
+                <p class="excerpt" style="-webkit-line-clamp:4;">{f.data.excerpt}</p>
+                <div class="card-foot"><a class="pill pill-accent" href={`/features/${f.id}`}>Read the essay &rarr;</a></div>
+              </div>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const terms = [
+  ['Chuanqi (传奇)', "'Tales of the marvellous' — the polished literary short fiction of the Tang dynasty; zhiguai's sophisticated descendant."],
+  ['Difu (地府)', 'The Earth Administration: the underworld as civil service, with its Ten Kings and ledgers.'],
+  ['Diyu (地狱)', 'The earth prisons — the graded chambers of post-mortem punishment beneath the courts of the dead.'],
+  ['Gui (鬼)', 'A ghost: a human soul that failed to be processed into rebirth and lingers, off the register.'],
+  ['Jie (劫)', 'A tribulation: the ordeal heaven sends to test a being attempting a major promotion in kind.'],
+  ['Jing (精)', 'Essence — refined qi; also a woken thing (a plant- or object-spirit) that has accumulated enough of it.'],
+  ['Lanruo (兰若)', 'A Buddhist temple, from Sanskrit aranya; the classic liminal setting for ghostly encounters.'],
+  ['Long (龙)', 'The Chinese dragon: a water-god and celestial official, ruler of rain, rivers and seas — not a hoarding monster.'],
+  ['Meng Po (孟婆)', 'The Old Lady Meng, who serves the dead her broth of forgetfulness before rebirth.'],
+  ['Naihe Qiao (奈何桥)', 'The Bridge of Helplessness over the river of the dead; the virtuous cross, the guilty fall.'],
+  ['Qi (气)', 'The breath-stuff of which all things, solid and spirit, are made; the single substance of the universe.'],
+  ['Shen (神)', 'A god: an appointed official of the celestial bureaucracy.'],
+  ['Xia (侠)', 'The knight-errant: the swordsman bound by a personal code rather than an institution.'],
+  ['Xian (仙)', 'An immortal: a being self-made deathless through cultivation.'],
+  ['Xiulian (修炼)', 'Cultivation: the deliberate refinement of essence to change one\'s nature.'],
+  ['Yaoguai (妖怪)', 'Woken beings — animal, plant or object spirits; \'monster\' without the Western connotation of evil.'],
+  ['Yinguo (因果)', 'Karma: cause and effect, kept across lifetimes in a literal ledger.'],
+  ['Zhiguai (志怪)', "'Records of the strange' — the classical Chinese genre of supernatural reportage this site collects."],
+];
+---
+
+<BaseLayout title="Glossary" description="A working glossary of the Chinese zhiguai universe: qi, karma, tribulations, fox spirits, the underworld and more.">
+  <section class="section">
+    <div class="wrap-narrow">
+      <p class="kicker">Reference</p>
+      <h1>Glossary</h1>
+      <p class="lede" style="max-width:60ch;">
+        The working vocabulary of the universe, in one place. For longer explanations, see the
+        <a href="/guides/key-concepts">Key Concepts</a> guide.
+      </p>
+
+      <div class="notes-box" style="margin-top:36px;">
+        <dl>
+          {
+            terms.map(([t, def]) => (
+              <>
+                <dt>{t}</dt>
+                <dd>{def}</dd>
+              </>
+            ))
+          }
+        </dl>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
