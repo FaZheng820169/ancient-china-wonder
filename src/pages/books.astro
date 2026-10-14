@@ -1,0 +1,102 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const toc = [
+  'Nie Xiaoqian',
+  'The Painted Skin',
+  'The Taoist of Mount Lao',
+  'Yingning',
+  'Wang Liulang',
+  'The Peony Spirit',
+  'The Cricket',
+  'Xi Fangping Sues the Underworld',
+  'The Examination for City God',
+  'Abao',
+  'Jiaona',
+  'Judge Lu',
+];
+---
+
+<BaseLayout title="Books" description="Strange Tales from a Chinese Studio: twelve translations from Pu Songling's Liaozhai Zhiyi, with cultural notes. The first ebook from Ancient China Wonder.">
+  <section class="section">
+    <div class="wrap">
+      <p class="kicker">The Shop</p>
+      <h1>Books</h1>
+
+      <div class="book-grid">
+        <figure class="figure book-cover">
+          <img src="/images/books/cover.jpg" alt="Cover of Strange Tales from a Chinese Studio, an ebook from Ancient China Wonder" width="500" height="750" />
+          <figcaption>Cover design by the site. Illustration-free; typography and seal motif.</figcaption>
+        </figure>
+
+        <div class="book-info">
+          <p class="kicker">First Ebook</p>
+          <h2>Strange Tales from a Chinese Studio</h2>
+          <p class="title-zh" style="margin-bottom:14px;">聊齋志異 · Twelve Tales</p>
+          <p class="lede" style="font-size:1.05rem;">
+            Twelve of Pu Songling's best tales, translated directly from the classical Chinese, each
+            with the cultural notes that make a seventeenth-century story legible to a modern reader.
+            EPUB, reads on any device.
+          </p>
+
+          <div class="factbar" style="margin:26px 0 30px;">
+            <div class="fact"><b>Length</b>12 tales · 56 notes</div>
+            <div class="fact"><b>Format</b>EPUB (reflowable)</div>
+            <div class="fact"><b>Source</b>Public domain · original translation</div>
+            <div class="fact"><b>Price</b>$5</div>
+          </div>
+
+          <div class="hero-actions" style="margin-bottom:26px;">
+            <a class="btn btn-primary" href="https://ancientchinawonder.gumroad.com/l/liaozhai12" target="_blank" rel="noopener">Buy on Gumroad &rarr;</a>
+            <a class="btn btn-secondary" href="/downloads/liaozhai-sample.epub" download>Free sample (3 tales, EPUB)</a>
+          </div>
+          <p class="small muted" style="max-width:52ch;">
+            The sample contains <em>Nie Xiaoqian</em>, <em>The Painted Skin</em> and <em>Wang Liulang</em>,
+            free, so you can judge the translations before paying. If you like them, the whole library
+            of forty tales is on this site, free, forever.
+          </p>
+
+          <details class="fold" style="margin-top:30px;">
+            <summary>Table of contents · 目录</summary>
+            <div class="fold-body">
+              <ol style="margin:0; padding-left:1.4em; font-size:0.95rem; line-height:2;">
+                {toc.map((t) => <li>{t}</li>)}
+              </ol>
+            </div>
+          </details>
+
+          <div class="source-note" style="margin-top:26px;">
+            <b>Translation policy.</b> Translated from the original Chinese only — never adapted from
+            existing English versions. Source texts are public domain; translations and notes are
+            original work. <a href="/translation-policy">Full policy</a>.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .book-grid {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 48px;
+      margin-top: 40px;
+      align-items: start;
+    }
+    .book-cover img {
+      width: 100%;
+      border: 1px solid var(--rule);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+    @media (max-width: 820px) {
+      .book-grid {
+        grid-template-columns: 1fr;
+        gap: 28px;
+      }
+      .book-cover {
+        max-width: 280px;
+      }
+    }
+  </style>
+</BaseLayout>
