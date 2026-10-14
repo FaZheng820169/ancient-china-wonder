@@ -59,9 +59,9 @@ const ogURL = new URL(ogImage, Astro.site ?? SITE.url);
     />
   </head>
   <body class={bodyClass}>
-    <a class="skip" href="#main">Skip to content</a>
+    <a class="skip" href="#main" data-pagefind-ignore>Skip to content</a>
     <Header />
-    <main id="main">
+    <main id="main" data-pagefind-body>
       <slot />
     </main>
     <Footer />
