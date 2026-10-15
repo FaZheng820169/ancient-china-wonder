@@ -27,6 +27,7 @@ notes:
   - term: "Awarded to the farmer"
     text: "The magistrate settles it and gives her to the farmer — the man whose wife's body she is occupying. Yuan Mei reports the ruling without a word of judgement, which is what makes it cold. The tale is dated Qianlong 21, 1756, filed like a case note among hundreds of others."
 related:
+  - "the-body-outside"
   - "nanchang-scholar"
   - "li-hun-ji"
   - "tan-sheng"

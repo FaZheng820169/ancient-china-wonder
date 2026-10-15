@@ -29,6 +29,7 @@ notes:
   - term: "Thieves with the Odes"
     text: "诗礼发冢 in the Zhuangzi — grave-robbers who quote the Classic of Poetry over the corpse they are stripping. Shen Qifeng places his thief at the end of that line, and then demotes him: Dai Ruosi and Shi Chong went out at night with matchless talent and became great men; this one could only write verse, and so he stayed a petty thief."
 related:
+  - "the-girl-who-parodied-the-classics"
   - "poor-scholar-planchette"
   - "the-literate-dog"
   - "fox-debated-classics"

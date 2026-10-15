@@ -29,6 +29,8 @@ notes:
   - term: "The commendation"
     text: "旌表 — the state's arch or plaque for a chaste widow, petitioned for by the family and granted by the prefecture. The woman refuses it: 为妇尽节，皆分内事 — for a wife to keep chastity is what lies within her part, why this fuss? The irony of the ending is that the plaque is granted anyway, and recorded under the other woman's name."
 related:
+  - "the-merman-servant"
+  - "the-body-outside"
   - "the-dead-wife-keeps-house"
   - "borrowed-body"
   - "widow-tian"

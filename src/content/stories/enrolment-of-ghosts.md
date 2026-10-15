@@ -27,6 +27,7 @@ notes:
   - term: "The frame"
     text: "The whole thing is witnessed by a man who cannot stop laughing, and Shen Qifeng ends by declining to stand behind it: 此殆其游戲之談乎 — this is probably his joking talk. He reports the satire and distances himself from it in the same breath, which is how 谐铎 usually handles its most dangerous material."
 related:
+  - "the-examination-notice"
   - "gong-xianggong"
   - "seizing-surplus-ghost"
   - "demons-are-easier"

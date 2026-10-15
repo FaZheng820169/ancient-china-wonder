@@ -29,6 +29,8 @@ notes:
   - term: "Jiufang Gao"
     text: "九方皋 — the horse-judge of the Huainanzi, who when asked to describe a mare he had found said it was a yellow black, and was found to have brought a black yellow. He had seen the horse and missed the sex and colour. Ma's last question: without a Jiufang Gao, how is worth to be recognised beyond the mare's coat? He has just proven that nobody in the room is one."
 related:
+  - "the-girl-who-parodied-the-classics"
+  - "the-examination-notice"
   - "fox-debated-classics"
   - "the-thief-who-judged-verse"
   - "demons-are-easier"

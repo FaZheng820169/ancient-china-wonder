@@ -29,6 +29,7 @@ notes:
   - term: "First day of the month"
     text: "吉月，必朝服 — on the first day of the month he must put on court dress. Then 乞诸其邻，长一身有半 — he begs it from his neighbour, and it is half a body too long. Then 三月不知肉味，春秋祭于公，必熟而荐之 — three months without the taste of meat; at the spring and autumn sacrifice to the duke he is careful to have the offering properly cooked. The joke is that he gets to eat."
 related:
+  - "the-beggar-who-was-rebuilt"
   - "tumbler-official"
   - "poor-ghosts-rich-ghosts"
   - "one-eyed-five"

@@ -29,6 +29,7 @@ notes:
   - term: "Magu and the Old Man"
     text: "The closing comment says the immortals have a method for shrinking the earth but not for shrinking the years — and then points out that Magu's temples are already half frost, and the Old Man on the black ox is tottering on a staff. It closes by reversing Wang Xizhi's Preface to the Orchid Pavilion, which called the levelling of Pengzu with the dead child a vain invention. Shen: 洵非妄作 — truly not a vain invention."
 related:
+  - "the-body-outside"
   - "nan-ke"
   - "zhen-zhong"
   - "du-zi-chun"

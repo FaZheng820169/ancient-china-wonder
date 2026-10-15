@@ -27,6 +27,7 @@ notes:
   - term: "Everyone is punished except the victim"
     text: "The joker dies vomiting blood, the magistrate loses salary, the god's clay statue falls over for no reason. Only the man who was beaten survives, and only into another body. Yuan Mei is not merciful about practical jokes, and he makes the arithmetic add up."
 related:
+  - "the-examination-notice"
   - "fengdu-magistrate"
   - "guan-yu-false-verdict"
   - "li-tongpan"
