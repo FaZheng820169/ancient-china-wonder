@@ -6,6 +6,7 @@ summary: "The dead who failed to move on: what makes a ghost, what it wants, wha
 order: 2
 related:
   - "underworld"
+  - "marriage-across-the-border"
   - "three-realms"
   - "cultivation-system"
   - "nie-xiaoqian"

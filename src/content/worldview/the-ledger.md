@@ -8,6 +8,7 @@ image: "/images/stories/enrolment-of-ghosts.jpg"
 imageAlt: "Ink-wash illustration: clerks holding tall registers in a torchlit hall of judgment, a file of shackled ghosts passing between the colonnades."
 related:
   - "underworld"
+  - "marriage-across-the-border"
   - "how-souls-move-on"
   - "meng-po-forgetting"
   - "divine-careers"

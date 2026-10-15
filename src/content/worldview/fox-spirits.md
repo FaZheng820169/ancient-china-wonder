@@ -8,6 +8,7 @@ image: "/images/worldview/fox-spirit.jpg"
 imageAlt: "A nine-tailed fox spirit seated in a moonlit garden of plum blossoms, ink wash painting"
 related:
   - "cultivation-system"
+  - "marriage-across-the-border"
   - "monsters-and-yaoguai"
   - "queen-mother"
   - "fox-licentiate"
