@@ -27,9 +27,9 @@ notes:
   - term: "The moon as exile"
     text: "She becomes the toad or the moon-hare of later folklore, alone in a palace of cold light with a cassia tree and a pestle. Every Mid-Autumn Festival in China is, underneath the lanterns and the mooncakes, a festival about a woman who got what she wanted and cannot come back."
 related:
-  - "queen-mother"
-  - "kunlun"
   - "jingwei"
+  - "zhao-sanweng"
+  - "kuafu"
 ---
 
 In the age of Yao, ten suns rose in the sky at once, and the earth burned, and the crops died, and the people had nothing to eat.

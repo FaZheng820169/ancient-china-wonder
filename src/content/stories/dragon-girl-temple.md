@@ -27,9 +27,10 @@ notes:
   - term: "The scholar's argument"
     text: "韓元翁's case against moving is sentimental and practical at once: the graves and houses have been handed down for generations, and abandoning them would leave the heart uneasy. He proposes testing the god's willingness first, which is the correct bureaucratic move — consult the department with jurisdiction."
 related:
-  - "small-gods"
   - "shunji-king"
   - "ox-head-king"
+  - "city-god-drunk"
+  - "protector-general"
 ---
 
 The great river cuts through the Taihang range and flows east, with several dozen sheer rapids so violent that fish and turtles cannot stay. One of them is called the Seventh Girl Rapid. On the top of the mountain is a temple to the Dragon Girl, and below it a thousand households.

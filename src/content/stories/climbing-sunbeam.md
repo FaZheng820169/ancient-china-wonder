@@ -27,9 +27,10 @@ notes:
   - term: "Citing the classics at a marvel"
     text: "Asked what the lightning-struck become — earthworms — he cites the 化书, the Book of Transformations by the tenth-century Daoist Tan Qiao, which says a man killed by lightning can be revived with pounded earthworms on his navel. Yuan Mei's reflex of checking a wonder against a printed authority is the Enlightenment habit showing through the ghost story."
 related:
-  - "hun-and-po"
   - "palace-worlds-end"
   - "fengdu-magistrate"
+  - "hanging-ghost-and-po"
+  - "ghost-of-a-ghost"
 ---
 
 The planchette-spirit Lou Zichun announced himself as a friend of Wen Tianxiang, a doctor of the late Song. He said he had practised the art of shaping the body and had kept a teaching post for four hundred years in the house of the Messenger of the Nine Darknesses — whose master keeps the register of human life and death and ranks one grade below a prince. His predictions about mortal fortune and misfortune were very accurate.

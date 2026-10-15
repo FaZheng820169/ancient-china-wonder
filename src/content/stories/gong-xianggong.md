@@ -27,9 +27,11 @@ notes:
   - term: "The only qualification that counts"
     text: "The monk asks what good deeds Liu cultivated in life, and Liu can only say he was able to hold the Gaowang Guanyin Sutra. The monk answers: 只此是也 — that alone is enough. And then asks after his wife, who has had three days to wreck the house."
 related:
+  - "three-hundred-cash"
   - "shuming-hall"
-  - "divine-careers"
   - "climbing-sunbeam"
+  - "dead-father-paper"
+  - "protector-general"
 ---
 
 Liu the Fourth, a scholar of Luchong in Duchang county, Nankang, died suddenly in the eleventh month of the fourth year of the Shaoxing reign. Two bailiffs led him into the underworld, into the hall of the King of Hell.

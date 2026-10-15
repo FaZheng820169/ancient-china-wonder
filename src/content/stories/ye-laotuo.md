@@ -30,6 +30,7 @@ related:
   - "ghost-three-tricks"
   - "nanchang-scholar"
   - "skull-breath"
+  - "governing-ghosts-two-ways"
 ---
 
 There was a man called Ye the Unshod. Nobody knew where he came from. He went bareheaded and barefoot, wore the same cotton robe winter and summer, and carried a bamboo mat.

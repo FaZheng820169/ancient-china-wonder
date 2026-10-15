@@ -30,6 +30,7 @@ related:
   - "laoshan"
   - "huapi"
   - "fox-licentiate"
+  - "emperors-dew"
 ---
 
 North of Pingyang the Fan river has a waste garden, long known for its foxes. A scholar named Ning, of a scrupulous and unsociable disposition, was in his books all day. One hot month, stifled, he wanted to borrow a pavilion in the garden to rest in. A friend tried to stop him.

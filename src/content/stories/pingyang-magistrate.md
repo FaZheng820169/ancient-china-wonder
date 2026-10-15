@@ -30,6 +30,7 @@ related:
   - "ghost-three-tricks"
   - "fengdu-magistrate"
   - "widow-tian"
+  - "liu-rushi-ghost"
 ---
 
 Zhu Shuo, magistrate of Pingyang, was a cruel man. In the county he governed he had special thick cangues and heavy batons made. Whenever a case touched a woman, he would find some way to bring in an accusation of illicit sex.

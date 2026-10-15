@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import Newsletter from '../../components/Newsletter.astro';
+import { SITE } from '../../consts';
 
 export async function getStaticPaths() {
   const stories = await getCollection('stories');
@@ -14,15 +15,53 @@ const { Content } = await render(story);
 const d = story.data;
 
 const all = await getCollection('stories');
-const related = all
-  .filter((s) => d.related.includes(s.id) || (s.id !== story.id && s.data.tags.some((t) => d.tags.includes(t))))
-  .filter((s) => s.id !== story.id)
-  .slice(0, 3);
+const explicit = all.filter(
+  (s) => s.id !== story.id && (d.related.includes(s.id) || s.data.related.includes(story.id))
+);
+const byTag = all.filter(
+  (s) =>
+    s.id !== story.id &&
+    !explicit.some((e) => e.id === s.id) &&
+    s.data.tags.some((t) => d.tags.includes(t))
+);
+const related = [...explicit, ...byTag].slice(0, 3);
 
 const desc = d.excerpt;
+
+const site = (Astro.site ?? new URL(SITE.url)).toString().replace(/\/$/, '');
+const pageUrl = `${site}/stories/${story.id}/`;
+const abs = (u) => new URL(u, `${site}/`).toString();
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: d.title,
+    alternateName: d.titleZh,
+    description: d.excerpt,
+    image: d.image ? [abs(d.image)] : undefined,
+    datePublished: d.published,
+    dateModified: d.published,
+    inLanguage: 'en',
+    keywords: d.tags.join(', '),
+    author: { '@type': 'Organization', name: SITE.name, url: site },
+    isPartOf: { '@type': 'WebSite', name: SITE.name, url: site },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+    about: { '@type': 'Thing', name: d.sourceZh },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Stories', item: `${site}/stories/` },
+      { '@type': 'ListItem', position: 3, name: d.title, item: pageUrl },
+    ],
+  },
+];
 ---
 
-<BaseLayout title={d.title} description={desc} ogImage={d.image ?? '/images/og-default.jpg'}>
+<BaseLayout title={d.title} description={desc} ogImage={d.image ?? '/images/og-default.jpg'} jsonLd={jsonLd}>
   <div class="wrap-narrow">
     <header class="article-head">
       <p class="crumbs">

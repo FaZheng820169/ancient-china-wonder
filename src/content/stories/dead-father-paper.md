@@ -28,8 +28,9 @@ notes:
     text: "He appears to a former student in a rage, accusing the sons of unfiliality and announcing that he means to complain to God Above and have them punished. And then, at the shrine on the twenty-sixth of the third month, he is seen in person: a beautiful woman in the west gallery who is the dead minister, who has his youngest son thrown down and stripped by two ghosts in front of the whole crowd."
 related:
   - "shunji-king"
-  - "small-gods"
   - "soul-jar"
+  - "city-god-drunk"
+  - "ox-head-king"
 ---
 
 Zeng, a retired minister lodging at Changshu, had been dead a long time and had four sons. In the spring of the first year of the Chunxi era he appeared in a dream to his eldest, the county magistrate, and said: "I have received a celestial document appointing me Earth God of the Fushan mountain shrine. At the beginning of the handover the whole yamen of officials owes private gifts, and the rite cannot be dispensed with. In my eastern study, in the black kitchen, there are several thousand sheets of good paper. Take them all out, dye them yellow, print the Great Brahman Hidden Words, and burn them respectfully. Do not neglect my warning."

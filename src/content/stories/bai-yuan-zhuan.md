@@ -28,9 +28,11 @@ notes:
   - term: "The child"
     text: "The wife is pregnant, and the ape's dying request is that the child be cared for. The boy grows up to be the great calligrapher Ouyang Xun — and, the tale notes with relish, still looks faintly like an ape. The story is also the nastiest piece of literary gossip of the Tang: a political attack disguised as a monster story."
 related:
-  - "monsters-and-yaoguai"
+  - "yang-xian-shu-sheng"
   - "li-ji"
   - "huapi"
+  - "monster-feared-reason"
+  - "one-eyed-five"
 ---
 
 At the end of the Datong era of the Liang, the general Ouyang Ge was campaigning in the south, in the country beyond Guilin, and he had brought his wife with him — a slight, very fair woman, and beautiful.

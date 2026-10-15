@@ -12,6 +12,7 @@ interface Props {
   canonical?: string;
   bodyClass?: string;
   noindex?: boolean;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 const {
@@ -21,6 +22,7 @@ const {
   canonical,
   bodyClass = '',
   noindex = false,
+  jsonLd,
 } = Astro.props;
 
 const pageTitle = title === SITE.name ? title : `${title} — ${SITE.name}`;
@@ -47,6 +49,8 @@ const ogURL = new URL(ogImage, Astro.site ?? SITE.url);
     <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogURL} />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} is:inline />}
+    <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
 
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <meta name="theme-color" content="#F7F5F0" />

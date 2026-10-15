@@ -30,6 +30,7 @@ related:
   - "goddess-zigu"
   - "snake-in-the-prison"
   - "climbing-sunbeam"
+  - "enrolment-of-ghosts"
 ---
 
 Yang Shilun of Henan was the son of a great family, betrothed from childhood to his maternal cousin. His uncle was promoted to be prefect in Jiangnan, and Yang, by his mother's order, went to complete the marriage, and fell ill on the way at a travellers' lodge.

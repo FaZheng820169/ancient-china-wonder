@@ -18,12 +18,14 @@ for fantasy readers, mythology lovers and TTRPG designers.
 | `/features` | Long-form essays (fox-spirit evolution, history of the underworld, Shan Hai Jing bestiary, the birth of wuxia) |
 | `/guides` | New-reader guides: what zhiguai is, the map of the universe, key concepts, translation method |
 | `/search` | Full-text search (Pagefind, static index generated at build time) |
+| `/rss.xml` | RSS 2.0 feed of the 40 most recent tales |
 
 ## Tech
 
 - [Astro 5](https://astro.build) static site, content collections (Markdown + Zod schemas)
 - No database, no backend, no tracking — fully static
 - Pagefind for build-time full-text search
+- RSS 2.0 feed, sitemap, and JSON-LD (`Article` + `BreadcrumbList`) on every story and worldview page
 - Hand-rolled CSS design system (warm paper `#F7F5F0`, cinnabar `#A62C21`, pine green `#2D5016`)
 - Illustrations: AI-generated ink-wash, labelled as such on every page
 

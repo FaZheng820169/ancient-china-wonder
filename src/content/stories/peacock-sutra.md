@@ -27,6 +27,8 @@ notes:
   - term: "The foreman's errand"
     text: "呼幹僕饒山散買楮幣 — he calls his foreman Rao Shan and sends him to buy paper money wholesale, and burns it in a heap in the courtyard. The economics of the underworld are itemised down to the name of the servant who does the shopping."
 related:
+  - "three-hundred-cash"
+  - "tang-xianzu"
   - "plague-god"
   - "seizing-surplus-ghost"
   - "shunji-king"

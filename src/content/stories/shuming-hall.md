@@ -27,9 +27,11 @@ notes:
   - term: "The four painted horses"
     text: "舊繪馬四匹 — four horses painted long ago on the west wall. They leave the wall, are heard but not seen, and come back each carrying a man. Note that the governor's prayer asks specifically to be shown the punishment, and the answer is not a vision but an arrest."
 related:
+  - "tang-xianzu"
   - "fengdu-magistrate"
   - "shunji-king"
-  - "small-gods"
+  - "city-god-drunk"
+  - "copyists-four-seals"
 ---
 
 In the Zhenglong era of the Jin, Beishile, governor of Taian, arrived at the capital and went to pay his respects at the Eastern Peak temple, walking through all the shrines.

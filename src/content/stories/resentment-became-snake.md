@@ -30,6 +30,7 @@ related:
   - "soul-jar"
   - "jingwei"
   - "zombie-drank-blood"
+  - "man-became-tree"
 ---
 
 Gao, a provincial graduate of Bozhou, was rich and lived five li west of the city at a place called Little Town. His household had many bold servants, who relied on their master's power and ran wild in the district.

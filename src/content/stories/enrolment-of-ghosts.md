@@ -30,6 +30,7 @@ related:
   - "gong-xianggong"
   - "seizing-surplus-ghost"
   - "demons-are-easier"
+  - "hell-face-powder"
 ---
 
 Li Bao, a name of my district and a successful jinshi candidate, was magistrate of Huaining in Gansu and was transferred to be professor at the Anqing prefectural school, and went to his post alone. The previous incumbent's family had not returned, so he lodged for the time being under the colonnade of the Hall of the Ten Kings.

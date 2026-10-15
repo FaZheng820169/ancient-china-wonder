@@ -31,6 +31,7 @@ related:
   - "nie-yinniang"
   - "liu-yi"
   - "gan-jiang-mo-ye"
+  - "gu-jing-ji"
 ---
 
 In the household of Xue Song, the military governor of Luzhou, there was a maid named Red Thread. She played the ruan, and she had read the histories, and Xue Song put her in charge of his correspondence and called her his inner secretary.

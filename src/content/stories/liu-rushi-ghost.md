@@ -30,6 +30,7 @@ related:
   - "raksasa-bird"
   - "hanging-ghost-and-po"
   - "death-god-cangue"
+  - "pingyang-magistrate"
 ---
 
 The yamen of Zhaowen county in Suzhou was the former residence of Minister Qian of the Ming. The three rooms of the east wing, because Liu Rushi hanged herself there, have been sealed and unopened under every incumbent.

@@ -30,6 +30,7 @@ related:
   - "goddess-zigu"
   - "tan-sheng"
   - "song-dingbo"
+  - "jiangwan-widow"
 ---
 
 In the Qiandao era a certain official of Jiangxi went to the capital for a posting, and touring West Lake, tired from walking alone, rested at a commoner's house by the road. He saw a girl with double looped knots inside, dazzlingly beautiful, and did not stop looking at her; she also looked back and sent her feelings.

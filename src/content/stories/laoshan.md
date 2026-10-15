@@ -30,6 +30,7 @@ related:
   - "nie-yinniang"
   - "zhen-zhong"
   - "nan-ke"
+  - "emperors-dew"
 ---
 
 In our county there was a young man named Wang, the seventh son of an old family, and from boyhood he had been possessed by the idea of becoming an immortal. Hearing that Mount Lao was full of them, he shouldered a book-box and set off to look.

@@ -31,6 +31,7 @@ related:
   - "nie-xiaoqian"
   - "laoshan"
   - "gan-jiang-mo-ye"
+  - "gu-jing-ji"
 ---
 
 Nie Yinniang was the daughter of Nie Feng, a general of Weibo, and in the Zhenyuan era, when she was ten years old, a nun came begging at the gate. She saw the girl, and something in her face pleased her. "Give me your daughter," the nun said to the general, "and I will teach her."

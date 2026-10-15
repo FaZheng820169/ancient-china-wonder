@@ -30,6 +30,7 @@ related:
   - "zhang-furen"
   - "goddess-zigu"
   - "long-armed-demon"
+  - "west-lake-girl"
 ---
 
 Three li on, at Jiangwan, he lost his way, and asked a farmer, who said: "You may take the great road on the left." He had gone half a li when he passed a great house in a cypress wood with several horses tied outside, all fine and handsome animals.

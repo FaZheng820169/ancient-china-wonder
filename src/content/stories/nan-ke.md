@@ -30,6 +30,7 @@ related:
   - "zhen-zhong"
   - "laoshan"
   - "liu-yi"
+  - "a-day-is-a-year"
 ---
 
 Chunyu Fen of Dongping was a knight-errant of the Wu-Chu country — brave, hard-drinking, contemptuous of small rules, rich enough to keep a houseful of swordsmen and guests. He had once held a commission in the Huainan army and lost it by insulting his commander in his cups, and since then he had done nothing but drink under the great old ash tree south of his house at Guangling.

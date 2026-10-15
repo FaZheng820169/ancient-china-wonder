@@ -31,6 +31,7 @@ related:
   - "song-dingbo"
   - "nie-xiaoqian"
   - "dong-yong"
+  - "tan-sheng"
 ---
 
 There was a fisherman named Xu who lived outside the north wall of Zichuan. Every night he took a flask of wine down to the river, and drank while he fished, and before he drank he poured a cup out onto the ground. "For the drowned of this river," he would say. It was his habit.

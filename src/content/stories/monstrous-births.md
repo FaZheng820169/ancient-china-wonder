@@ -30,6 +30,7 @@ related:
   - "monk-donkey"
   - "skin-field-surgeon"
   - "peacock-sutra"
+  - "long-armed-demon"
 ---
 
 Yang Youcheng, a doctor of Jiankang, said he had witnessed three things with his own eyes, all monstrous births by women.

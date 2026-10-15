@@ -32,6 +32,7 @@ related:
   - "tumbler-official"
   - "poor-ghosts-rich-ghosts"
   - "one-eyed-five"
+  - "the-city-of-dung-beetles"
 ---
 
 At the Liuli Market in the capital an old man put up a placard in the street: *Can read the vapour and know a man's office.*

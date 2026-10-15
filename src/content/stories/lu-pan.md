@@ -30,6 +30,7 @@ related:
   - "xi-fangping"
   - "kao-chenghuang"
   - "huapi"
+  - "hell-face-powder"
 ---
 
 Zhu Erdian of Lingyang was a generous, loud, cheerful man — and, to put it plainly, a slow one. He studied hard and had never passed anything.

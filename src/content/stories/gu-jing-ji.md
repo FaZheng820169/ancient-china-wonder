@@ -29,7 +29,8 @@ notes:
 related:
   - "bai-yuan-zhuan"
   - "huapi"
-  - "fox-spirits"
+  - "fox-licentiate"
+  - "ren-shi"
 ---
 
 There was a scholar of Fenyin named Hou Sheng, one of the remarkable men of the Sui, and Wang Du served him as a master. On his deathbed Hou Sheng gave Wang Du an ancient mirror.

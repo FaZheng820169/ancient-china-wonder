@@ -30,6 +30,7 @@ related:
   - "goddess-zigu"
   - "fox-licentiate"
   - "widow-tian"
+  - "god-casual-unions"
 ---
 
 At the beginning of the dynasty a certain censor, young and a successful candidate, was making an inspection tour of Fujian. There was a man named Hu Tianbao who loved him for his beauty, and whenever the censor mounted his carriage or sat in court, Hu was sure to be watching and staring. The censor thought it strange and never worked out why, and his clerks dared not tell him.

@@ -27,9 +27,11 @@ notes:
   - term: "Why the old man is safe"
     text: "He is safe for the reason given in 叶老脱 and in 治鬼二妙: his heart does not terrify, so his hun does not leave his body. At over eighty, with death a matter of morning or evening, the threat has nothing to threaten him with. He says so, out loud."
 related:
+  - "yang-xian-shu-sheng"
   - "ghost-three-tricks"
   - "ye-laotuo"
   - "hanging-ghost-and-po"
+  - "governing-ghosts-two-ways"
 ---
 
 The rich old man Huang of Suzhou was over eighty and lived alone in an upper storey.

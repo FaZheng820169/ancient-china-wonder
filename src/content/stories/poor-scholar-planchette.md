@@ -32,6 +32,7 @@ related:
   - "fox-debated-classics"
   - "the-thief-who-judged-verse"
   - "demons-are-easier"
+  - "the-city-of-dung-beetles"
 ---
 
 Ma Dian of Wu could write verse and was a master of song and aria, but his name had never got beyond his own lane. Hunger drove him out and down; he drifted to Yangzhou and presented his poems to every man of consequence there, and in three years met with nothing at all.

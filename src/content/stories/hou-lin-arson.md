@@ -30,6 +30,7 @@ related:
   - "loufan-woman"
   - "laoshan"
   - "demons-are-easier"
+  - "xi-fangping"
 ---
 
 In the Shaoxing era a magistrate of Yihuang county in Fuzhou named Xu was hearing a case when an old man named Hou Lin came weeping and presented a petition, saying he lived beside the village altar, that the archer Xia Sheng had set fire to his house and burned it down, and that his three sons had gone to ashes with it.

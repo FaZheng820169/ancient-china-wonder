@@ -30,6 +30,7 @@ related:
   - "dong-yong"
   - "ren-shi"
   - "baishui-sunu"
+  - "ding-hun-dian"
 ---
 
 In the Yifeng era a scholar named Liu Yi, having failed the imperial examinations, was travelling home to the Xiang river when he turned aside to say farewell to a friend. On the road his horse shied at a bird and bolted, and when it stopped at last, Liu Yi found himself looking at a woman tending sheep by the roadside.

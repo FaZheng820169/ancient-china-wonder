@@ -30,6 +30,7 @@ related:
   - "cai-shusheng"
   - "death-god-cangue"
   - "fengdu-magistrate"
+  - "foolish-ghost-loved-wife"
 ---
 
 In Anyang county a man named Yang ran an inn. He had a daughter married to a Deng of Tangyin, a peddler with a poor family. Yang's wife, Du, often gave the Dengs money and goods.

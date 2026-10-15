@@ -32,6 +32,7 @@ related:
   - "ren-shi"
   - "nie-yinniang"
   - "song-dingbo"
+  - "foolish-ghost-loved-wife"
 ---
 
 Ning Caichen of Zhejiang was a generous, open-hearted man, and strict with himself. He used to say that in all his life he had never looked twice at a woman other than his wife. Travelling to Jinhua on business, he came to the northern wall of the city just as evening was falling, and unpacked his bags at a temple on the outskirts.

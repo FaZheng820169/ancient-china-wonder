@@ -27,9 +27,11 @@ notes:
   - term: "What follows"
     text: "He obeys, the god leads him through winding corridors and railed galleries, flowers and trees half hiding the view like a painting, and then sends him home with a following wind. A god's commission is not negotiable and does not flatter — compare 子不语娘娘, where a wooden doll is a better adviser than any scholar, and 掠剩鬼, where a damned soul runs an office competently."
 related:
+  - "tang-xianzu"
   - "dead-father-paper"
   - "ghost-borrows-rank"
-  - "small-gods"
+  - "dragon-girl-temple"
+  - "protector-general"
 ---
 
 In the autumn of the third year of the Daguan era, Lu Duanyun of Changle, Vice Minister of the Court of Imperial Sacrifices, was demoted for objecting to the ancestral temple and made magistrate of Ruijin in Qianzhou. His brother Duanao, who was in the capital bureau, was also dismissed and given the Chongyou Abbey on Mount Wuyi, and followed him to his post.

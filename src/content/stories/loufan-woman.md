@@ -27,9 +27,11 @@ notes:
   - term: "How the acquittal happens"
     text: "別選吏啟壙驗之但得朽木一片於柩中 — another official is sent, the grave is opened, and there is nothing in the coffin but a piece of rotten wood. The corpse was never a corpse. Note that they dig before they release him: the verdict rests on evidence rather than on a miracle."
 related:
+  - "three-hundred-cash"
   - "zombie-drank-blood"
   - "robber-ghost-confession"
   - "widow-tian"
+  - "hou-lin-arson"
 ---
 
 A villager of Feiyuan Fort in Yifang county, Lan prefecture, named Nan Yan, was on his way to Loufan county. Resting partway on the road, he met a woman in plain white with a high coil of hair, about twenty, who bowed and asked: "I have come from Loufan and am going to Lan prefecture. I am walking alone and have lost my way. Which way should I go?" He pointed the way for her, and they parted.

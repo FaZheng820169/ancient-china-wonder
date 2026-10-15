@@ -31,6 +31,7 @@ related:
   - "laoshan"
   - "zhen-zhong"
   - "nan-ke"
+  - "a-day-is-a-year"
 ---
 
 Du Zichun was a man of the Zhou-Sui border years, born to a good family and ruined by his own character. He drank, he idled, he spent everything, and when he had spent it his relatives, one after another, declined to know a man who did no work. By winter he was walking the streets of Chang'an in rags with nothing in his belly, and at the west gate of the eastern market he stood at dusk with hunger and cold written on his face and sighed at the sky.

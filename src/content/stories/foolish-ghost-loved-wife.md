@@ -30,6 +30,7 @@ related:
   - "ye-laotuo"
   - "ghost-of-a-ghost"
   - "tan-sheng"
+  - "nie-xiaoqian"
 ---
 
 In the capital there was an old woman who could see ghosts. She once told people: yesterday at a certain house I saw a ghost one could call the most foolish of all, and yet his state was pitiable, and it moved the heart.

@@ -31,6 +31,7 @@ related:
   - "nie-xiaoqian"
   - "baishui-sunu"
   - "huapi"
+  - "foolish-ghost-loved-wife"
 ---
 
 There was a man named Tan Sheng who was forty years old and had no wife, and who used to sit up late reading the Book of Songs and feeling sorry for himself.

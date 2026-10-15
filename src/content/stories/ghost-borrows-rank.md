@@ -30,6 +30,7 @@ related:
   - "seizing-surplus-ghost"
   - "lady-zibuyu"
   - "pingyang-magistrate"
+  - "liu-rushi-ghost"
 ---
 
 Zhang Yacheng, a scholar of Xinjian, played as a child by making helmets, armour and phoenix hairpins out of gold foil paper, and hid them in a small upper room, making them and playing with them alone and never showing anyone.

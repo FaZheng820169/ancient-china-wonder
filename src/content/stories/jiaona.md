@@ -31,6 +31,7 @@ related:
   - "yingning"
   - "ren-shi"
   - "xiangyu"
+  - "huapi"
 ---
 
 Kong Xueli was a descendant of Confucius, a scholar of elegant manner and good verse. A close friend had been appointed magistrate of Tiantai and wrote inviting him; Kong went, and arrived to find that his friend had just died, and he was stranded — no money, no way home — and lodged at the Putuo temple copying scriptures for the monks for his bread.

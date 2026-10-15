@@ -30,6 +30,7 @@ related:
   - "nie-yinniang"
   - "gan-jiang-mo-ye"
   - "cuizhi"
+  - "gu-jing-ji"
 ---
 
 In the Min country of the southeast there was a mountain range called Yongling, and in a hollow of its northwestern slope lived a serpent seventy or eighty feet long and thicker than a team of oxen. The people lived in terror of it. Officers sent to govern the district died of it. They offered it cattle and sheep and got no peace. Then it began to speak — through dreams, and through the mouths of shamans — and what it said was that it wanted a girl, twelve or thirteen years old, every year.

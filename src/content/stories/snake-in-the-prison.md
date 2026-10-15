@@ -30,6 +30,7 @@ related:
   - "loufan-woman"
   - "robber-ghost-confession"
   - "demons-are-easier"
+  - "monstrous-births"
 ---
 
 A poor man of Tanzhou died and his wife took his two daughters and remarried. When they were grown she sold them both as concubines.

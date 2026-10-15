@@ -30,6 +30,7 @@ related:
   - "shuming-hall"
   - "ox-head-king"
   - "seizing-surplus-ghost"
+  - "rich-mans-boats"
 ---
 
 In the twenty-sixth year of the Shaoxing reign the Huai and Song regions were about to harvest, the grain standing like cloud, when the locusts rose, flying so thick they pierced the sky. Whatever field they met was swept clean in a moment.

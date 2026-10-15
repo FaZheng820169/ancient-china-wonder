@@ -30,6 +30,7 @@ related:
   - "palace-worlds-end"
   - "fengdu-magistrate"
   - "kuafu"
+  - "gong-xianggong"
 ---
 
 The theory of the sphere says that heaven and earth are like a hen's egg. While the yolk and the white are still undivided, that is the primal chaos; once they are divided, that is the opening of the world. And a man cannot travel outside the shell of the egg. Which means the Daoist talk of thirty-three heavens remains, in the end, a vagueness.

@@ -29,9 +29,9 @@ notes:
   - term: "The long spade"
     text: "杜家白柄长镵，不锐于平章剑铓也 — do not say the Du family's white-handled long spade is less sharp than a chancellor's sword point. Du Fu wrote it himself: 长镵长镵白木柄，我生托子以为命 — long spade, long spade with the white wood handle, I entrust my life to you. It is the tool he dug for wild yams with while his children starved, and here it is his weapon."
 related:
-  - "small-gods"
-  - "divine-careers"
   - "city-god-drunk"
+  - "ox-head-king"
+  - "protector-general"
 ---
 
 The Temple of the Ten Aunts stands west of Duqu. Nobody knows in what age it was built. Its lintels are of iris and its beams of cassia, its walls peppered and its curtains of thoroughwort, and within are set up ten women in kingfisher plumes and bright ear-pendants, every one of them a beauty.

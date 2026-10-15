@@ -30,6 +30,7 @@ related:
   - "xi-fangping"
   - "kao-chenghuang"
   - "lu-pan"
+  - "hell-face-powder"
 ---
 
 Every year the people of Fengdu County in Sichuan burned some three thousand taels' worth of paper money and paper ingots and threw them into a well in the middle of the town. It was called *paying the grain tax of the underworld*. Anyone who was stingy about it, they said, would bring plague on the whole district.

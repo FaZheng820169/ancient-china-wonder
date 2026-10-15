@@ -27,9 +27,11 @@ notes:
   - term: "The spell he improvises"
     text: "The real 往生咒 is a fixed Sanskrit dhāraṇī, and Lü does not recite it. He makes up four lines on the spot ('What a great world, nothing in the way…') and the ghost is enlightened by them. Yuan Mei's point is unmissable: what she needed was not a purchased rite but the truth. Compare Bao Zheng denouncing paid rituals in 酆都知县."
 related:
+  - "yang-xian-shu-sheng"
   - "cai-shusheng"
   - "ye-laotuo"
   - "nanchang-scholar"
+  - "governing-ghosts-two-ways"
 ---
 
 Cai Weigong, a provincial graduate, used to say: **a ghost has three tricks.** The first is to beguile, the second is to block, the third is to frighten.

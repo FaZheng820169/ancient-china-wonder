@@ -29,7 +29,8 @@ notes:
 related:
   - "cai-shusheng"
   - "ghost-of-a-ghost"
-  - "hun-and-po"
+  - "climbing-sunbeam"
+  - "soul-jar"
 ---
 
 In Laijiang there were two scholars who were close friends. The older, A, was a grave man. B's wife called him "uncle", and they treated him as family.

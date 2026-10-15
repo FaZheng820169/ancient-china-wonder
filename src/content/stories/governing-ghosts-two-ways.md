@@ -30,6 +30,7 @@ related:
   - "ghost-three-tricks"
   - "ye-laotuo"
   - "skull-breath"
+  - "monster-feared-reason"
 ---
 
 Perfected Man Lu advised people not to fear a ghost when they met one. The method was always to breathe on it — to meet the formless with the formless. Ghosts fear breath more than they fear blades or clubs.

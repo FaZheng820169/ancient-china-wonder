@@ -30,6 +30,7 @@ related:
   - "li-tongpan"
   - "god-casual-unions"
   - "ghost-guarding-money"
+  - "dragon-diver"
 ---
 
 Chingtian county of Chuzhou once had a flood in which every house was drowned. A rich family of the place had several boats stored on the river bank, and the whole household got aboard and took refuge on high ground, and were saved.

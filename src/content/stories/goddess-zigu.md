@@ -29,7 +29,8 @@ notes:
 related:
   - "lady-zibuyu"
   - "climbing-sunbeam"
-  - "small-gods"
+  - "city-god-drunk"
+  - "rabbit-god"
 ---
 
 You Chen of Changsha was handsome when young. Passing the wilderness by Xiangxi he saw in a temple a statue of the goddess Zi Gu, very beautiful, and loved it. He stroked her face with his hand and wrote on the wall:

@@ -28,8 +28,8 @@ notes:
     text: "翻花腦痔 — a turning-flower brain ulcer. Zhang names it, says people with it are extremely few and his prescription books do not record a treatment, and leaves. The concubine dies in several tens of days. Hong Mai records the limits of the art as carefully as its successes."
 related:
   - "peacock-sutra"
-  - "monstrous-birth"
   - "plague-god"
+  - "monstrous-births"
 ---
 
 Zhang of Xiuchuan was a surgeon. He had been a constable in the prefecture.

@@ -30,6 +30,7 @@ related:
   - "shuming-hall"
   - "ox-head-king"
   - "protector-general"
+  - "rich-mans-boats"
 ---
 
 South of the Yellow River, the Yangwu embankment lies northwest of the capital and has been repeatedly destroyed by floods. Each repair uses several hundred thousand labourers.

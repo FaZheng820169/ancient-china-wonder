@@ -30,6 +30,7 @@ related:
   - "zombie-drank-blood"
   - "jingwei"
   - "fengdu-magistrate"
+  - "man-became-tree"
 ---
 
 One kind of drought demon looks like a beast. One kind is a zombie that has changed. Both can cause drought and stop rain.

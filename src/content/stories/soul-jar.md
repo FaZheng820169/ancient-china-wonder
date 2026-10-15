@@ -30,6 +30,7 @@ related:
   - "borrowed-body"
   - "li-tongpan"
   - "fengdu-magistrate"
+  - "mai-hu-fen-nu-zi"
 ---
 
 Sorcery with talismans is at its worst in Yunnan and Guizhou.

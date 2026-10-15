@@ -30,6 +30,7 @@ related:
   - "cai-shusheng"
   - "fengdu-magistrate"
   - "xi-fangping"
+  - "liu-rushi-ghost"
 ---
 
 Vice-Prefect Li of Guangxi was enormously rich. He kept seven concubines and his treasures were piled like a hill. He died of illness at twenty-seven.

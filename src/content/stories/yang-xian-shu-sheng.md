@@ -32,6 +32,7 @@ related:
   - "nan-ke"
   - "baishui-sunu"
   - "jingwei"
+  - "bai-yuan-zhuan"
 ---
 
 Xu Yan of Yangxian was walking through the Suian hills carrying a cage with two geese in it when he came on a young scholar of seventeen or eighteen lying by the roadside.

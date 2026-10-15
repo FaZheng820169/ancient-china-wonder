@@ -30,6 +30,7 @@ related:
   - "nie-xiaoqian"
   - "laoshan"
   - "yingning"
+  - "jiaona"
 ---
 
 Wang of Taiyuan was out early one morning when he overtook a girl hurrying along the road with a bundle, struggling under its weight. She was no more than sixteen and very beautiful, and Wang's heart went out to her. "Where are you off to so early, all alone?" he asked. She gave him a long, flat look. "A stranger on the road cannot help me with my troubles," she said, "so why trouble to ask?" But when he pressed her, she sighed and told him: her parents had sold her to a great house as a concubine, the first wife was vicious and beat her morning and night, and she was running for her life. Wang offered her shelter at his home, which was not far, and she went with him gladly.

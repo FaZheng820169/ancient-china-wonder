@@ -30,6 +30,7 @@ related:
   - "huapi"
   - "fox-licentiate"
   - "zhang-furen"
+  - "monstrous-births"
 ---
 
 Wang Yantai's family of Lin'an was very rich, with fine houses and everything at a word. He suddenly proposed to sail to the southern seas for trade in boats and cargo. The boats were ready, and because his wife Fang was young and beautiful he could not bear to leave her lightly, and it was a long time before he finally decided. Year after year he did not return, and letters stopped.

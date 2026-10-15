@@ -30,6 +30,7 @@ related:
   - "skull-breath"
   - "soul-jar"
   - "widow-tian"
+  - "man-became-tree"
 ---
 
 A Liu, a scholar of Wujiang, was tutoring in the Jiang family of Yuanhe county. At Qingming he asked leave to go and sweep his parents' graves, and when that was done he was returning to his post. He said to his wife: "Tomorrow I am going to see a friend at such-and-such a place, and then take a boat to Changmen. Get up early and cook."

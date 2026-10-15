@@ -31,6 +31,7 @@ related:
   - "baishui-sunu"
   - "xiangyu"
   - "han-ping"
+  - "tan-sheng"
 ---
 
 There was once a very rich family with a single son, and they indulged him in everything.

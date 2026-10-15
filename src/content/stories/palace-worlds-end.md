@@ -30,6 +30,7 @@ related:
   - "fengdu-magistrate"
   - "lu-pan"
   - "xi-fangping"
+  - "shell-of-heaven"
 ---
 
 Li Changming, a garrison captain in Baoding, died suddenly. After three days the body was still warm, and the family had not dared coffin it. Then the belly swelled up like a drum, he urinated, and came back.

@@ -30,6 +30,7 @@ related:
   - "xi-fangping"
   - "fengdu-magistrate"
   - "kao-chenghuang"
+  - "donghai-xiaofu"
 ---
 
 Xu Shilin, governor of Jiangsu, was a strictly upright man. When he was prefect of Anqing he was holding court one evening as the moon came up, and he saw a woman kneeling outside the gate of the yamen with a black cloth over her head, so that above the shoulders her face could not be made out, in the posture of one presenting a complaint.

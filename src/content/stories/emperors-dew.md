@@ -28,8 +28,9 @@ notes:
     text: "The whole answer to a casual question is a theory of the po: a po that enters the earth and touches water goes rank, and a po soaked in river mud produces the smell of sheep within seven days. And there is a clock on it — a river ghost with that smell cannot harm anyone, and only after five years, when the smell has gone, can it do anything."
 related:
   - "fox-licentiate"
-  - "hun-and-po"
   - "climbing-sunbeam"
+  - "hanging-ghost-and-po"
+  - "fox-debated-classics"
 ---
 
 Fang Yanji was skilled at the planchette. Every year his spirit-medium had to be a different immortal, and in the fifth year of the Qianlong reign the spirit who came was a Perfected Man named Chen, courtesy name the Old Bearded One, who liked to talk at length with people.

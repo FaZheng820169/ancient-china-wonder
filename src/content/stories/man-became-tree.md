@@ -30,6 +30,7 @@ related:
   - "resentment-became-snake"
   - "three-drought-demons"
   - "fox-licentiate"
+  - "zombie-drank-blood"
 ---
 
 The people of the foreign Wulute and the Muslim regions never will kill themselves. They say that one who kills himself is bound to become a tree, and a tree easily attracts cutting and lopping, so they are unwilling.
