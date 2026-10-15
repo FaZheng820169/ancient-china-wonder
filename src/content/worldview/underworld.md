@@ -8,6 +8,7 @@ image: "/images/worldview/underworld.jpg"
 imageAlt: "A solemn otherworldly court of judgment beneath the earth, ink wash painting"
 related:
   - "three-realms"
+  - "time-in-the-otherworld"
   - "ghosts"
   - "cultivation-system"
   - "fengdu-magistrate"

@@ -8,6 +8,7 @@ related:
   - "hun-and-po"
   - "ghosts"
   - "underworld"
+  - "time-in-the-otherworld"
   - "soul-jar"
   - "borrowed-body"
   - "climbing-sunbeam"

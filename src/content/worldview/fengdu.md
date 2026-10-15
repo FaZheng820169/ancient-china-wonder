@@ -6,6 +6,7 @@ summary: "A real town on the Yangtze that became the capital of the dead — wit
 order: 5
 related:
   - "underworld"
+  - "time-in-the-otherworld"
   - "three-realms"
   - "ghosts"
   - "fengdu-magistrate"
