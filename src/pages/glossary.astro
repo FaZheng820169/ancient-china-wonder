@@ -2,28 +2,40 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const terms = [
-  ['Chuanqi (传奇)', "'Tales of the marvellous' — the polished literary short fiction of the Tang dynasty; zhiguai's sophisticated descendant."],
-  ['Difu (地府)', 'The Earth Administration: the underworld as civil service, with its Ten Kings and ledgers.'],
+  ['Baijiao (杯珓)', 'A pair of wooden crescents thrown before a shrine to put a question to a god: one convex and one flat is yes, both flat is no, some throws are void. See <a href="/stories/guan-yu-false-verdict">the god who returned a false answer on purpose</a>.'],
+  ['Chenghuang (城隍)', 'The City God: the divine magistrate of a walled town, first stop after death and the local branch of the underworld bureaucracy. A post, not a being — see <a href="/worldview/divine-careers">how a god gets one</a>.'],
+  ['Chuanqi (传奇)', "'Tales of the marvellous' — the polished literary short fiction of the Tang dynasty; zhiguai's sophisticated descendant. See <a href=\"/guides/the-collections\">the collections</a>."],
+  ['Difu (地府)', 'The Earth Administration: the underworld as civil service, with its Ten Kings and ledgers. See <a href="/worldview/underworld">the Courts of the Dead</a>.'],
   ['Diyu (地狱)', 'The earth prisons — the graded chambers of post-mortem punishment beneath the courts of the dead.'],
-  ['Gui (鬼)', 'A ghost: a human soul that failed to be processed into rebirth and lingers, off the register.'],
-  ['Jie (劫)', 'A tribulation: the ordeal heaven sends to test a being attempting a major promotion in kind.'],
+  ['Fendie (焚牒)', 'The burned plaint: writing a complaint against a ghost and burning it at the City God\'s temple, which is how you file. See <a href="/features/suing-heaven">suing heaven</a>.'],
+  ['Fengdu (酆都)', 'A real town on the Yangtze that became the capital of the dead, complete with postcode and police. See <a href="/worldview/fengdu">Fengdu</a>.'],
+  ['Gui (鬼)', 'A ghost: a human soul that failed to be processed into rebirth and lingers, off the register. See <a href="/worldview/ghosts">ghosts</a>.'],
+  ['Hunpo (魂魄)', 'The two souls every person carries: the hun, intelligent and upward, and the po, dull and bound to the flesh. See <a href="/worldview/hun-and-po">hun and po</a>.'],
+  ['Jian (聻)', 'What a ghost becomes when a ghost dies. The character is written on doors as a charm, on the principle that what frightens a ghost is the thing a ghost turns into.'],
+  ['Jianxia (剑侠)', 'The swordsman of the wuxia type, whose blade acts of its own will. See <a href="/features/tang-swordsmen">immortals and swordsmen</a>.'],
+  ['Jie (劫)', 'A tribulation: the ordeal heaven sends to test a being attempting a major promotion in kind. See <a href="/worldview/cultivation-system">cultivation</a>.'],
   ['Jing (精)', 'Essence — refined qi; also a woken thing (a plant- or object-spirit) that has accumulated enough of it.'],
   ['Lanruo (兰若)', 'A Buddhist temple, from Sanskrit aranya; the classic liminal setting for ghostly encounters.'],
-  ['Long (龙)', 'The Chinese dragon: a water-god and celestial official, ruler of rain, rivers and seas — not a hoarding monster.'],
-  ['Meng Po (孟婆)', 'The Old Lady Meng, who serves the dead her broth of forgetfulness before rebirth.'],
+  ['Long (龙)', 'The Chinese dragon: a water-god and celestial official, ruler of rain, rivers and seas — not a hoarding monster. See <a href="/worldview/dragons">dragons</a>.'],
+  ['Meng Po (孟婆)', 'The Old Lady Meng, who serves the dead her broth of forgetfulness before rebirth. See <a href="/worldview/meng-po-forgetting">the forgetting brew</a>.'],
+  ['Minghun (冥婚)', 'A marriage contracted with or for the dead — or between a human and a spirit, which the tradition treats as an institution with terms. See <a href="/worldview/marriage-across-the-border">marrying across the border</a>.'],
   ['Naihe Qiao (奈何桥)', 'The Bridge of Helplessness over the river of the dead; the virtuous cross, the guilty fall.'],
   ['Qi (气)', 'The breath-stuff of which all things, solid and spirit, are made; the single substance of the universe.'],
-  ['Shen (神)', 'A god: an appointed official of the celestial bureaucracy.'],
+  ['Shen (神)', 'A god: an appointed official of the celestial bureaucracy. See <a href="/worldview/immortals-and-gods">gods and immortals</a>.'],
+  ['Shu (数)', 'The fixed number allotted to a life — of profit, of years, of souls to be fetched. Whatever you gain beyond it is surplus, and there is an office that seizes it. See <a href="/worldview/the-ledger">the ledger</a>.'],
+  ['Taiping Guangji (太平广记)', 'The great Song imperial anthology of 978, which copied Tang tales in wholesale and is why most of them survive at all.'],
   ['Xia (侠)', 'The knight-errant: the swordsman bound by a personal code rather than an institution.'],
   ['Xian (仙)', 'An immortal: a being self-made deathless through cultivation.'],
   ['Xiulian (修炼)', 'Cultivation: the deliberate refinement of essence to change one\'s nature.'],
-  ['Yaoguai (妖怪)', 'Woken beings — animal, plant or object spirits; \'monster\' without the Western connotation of evil.'],
-  ['Yinguo (因果)', 'Karma: cause and effect, kept across lifetimes in a literal ledger.'],
-  ['Zhiguai (志怪)', "'Records of the strange' — the classical Chinese genre of supernatural reportage this site collects."],
+  ['Xueshi (血食)', 'Meat offering — the sacrifice a god demands in exchange for a response. Refuse it and you have a breach of contract.'],
+  ['Yaoguai (妖怪)', 'Woken beings — animal, plant or object spirits; \'monster\' without the Western connotation of evil. See <a href="/worldview/monsters-and-yaoguai">sprites and strange beasts</a>.'],
+  ['Yinguo (因果)', 'Karma: cause and effect, kept across lifetimes in a literal ledger. See <a href="/worldview/the-ledger">the ledger</a>.'],
+  ['Yuexia Laoren (月下老人)', 'The Old Man of the Moonlight, who keeps the register of marriages and ties the ankles of a destined couple with red thread. See <a href="/stories/ding-hun-dian">the marriage shop</a>.'],
+  ['Zhiguai (志怪)', "'Records of the strange' — the classical Chinese genre of supernatural reportage this site collects. See <a href=\"/guides/what-is-zhiguai\">what zhiguai is</a>."],
 ];
 ---
 
-<BaseLayout title="Glossary" description="A working glossary of the Chinese zhiguai universe: qi, karma, tribulations, fox spirits, the underworld and more.">
+<BaseLayout title="Glossary" description="A working glossary of the Chinese zhiguai universe: qi, karma, tribulations, the City God, the burned plaint, marriage across the border, and more — every term cross-linked to the stories that show it.">
   <section class="section">
     <div class="wrap-narrow">
       <p class="kicker">Reference</p>
@@ -39,7 +51,7 @@ const terms = [
             terms.map(([t, def]) => (
               <>
                 <dt>{t}</dt>
-                <dd>{def}</dd>
+                <dd set:html={def} />
               </>
             ))
           }
