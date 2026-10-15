@@ -15,7 +15,7 @@ for fantasy readers, mythology lovers and TTRPG designers.
 | `/stories` | 136 classical tales translated from the public-domain originals (Liaozhai, Tang chuanqi, Soushen Ji, Youming Lu, Yuewei Caotang Biji, Zibuyu and Xu Zibuyu, Yijian Zhi, Xieduo, Shan Hai Jing…), each with the original Chinese text, cultural notes, a custom illustration and source data |
 | `/worldview` | A 20-entry encyclopedia of the shared universe: the three realms, gods vs immortals, ghosts, hun and po, how souls move on, how a god gets a post, how a shrine gets built, the small gods, the Courts of the Dead, Fengdu, the forgetting brew of Meng Po, the underworld examination, fox spirits, cultivation rules, key figures |
 | `/worldview/timeline` | An interactive timeline of the universe, from the creation myths to Pu Songling |
-| `/features` | 9 long-form essays (fox-spirit evolution, history of the underworld, Shan Hai Jing bestiary, the birth of wuxia, the economy of the afterlife, what a Chinese ghost can and cannot do, the rules of borrowed bodies, the price of immortality, the instrument cabinet of objects that do the work) |
+| `/features` | 10 long-form essays (fox-spirit evolution, history of the underworld, Shan Hai Jing bestiary, the birth of wuxia, the economy of the afterlife, what a Chinese ghost can and cannot do, the rules of borrowed bodies, the price of immortality, the instrument cabinet, women and the strange) |
 | `/guides` | New-reader guides: what zhiguai is, the map of the universe, key concepts, translation method |
 | `/search` | Full-text search (Pagefind, static index generated at build time) |
 | `/rss.xml` | RSS 2.0 feed of the 40 most recent tales |
