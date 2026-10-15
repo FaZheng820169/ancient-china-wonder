@@ -12,8 +12,8 @@ excerpt: "A scholar walking home at dusk finds a rope dropped in the road by a w
 featured: true
 order: 51
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/ghost-three-tricks.jpg"
+imageAlt: "A scholar walks calmly along a dusk road while a painted ghost with tongue out blocks his path beside a great tree"
 original: |
   我表弟吕某，松江廪生，性豪放，自号豁达先生。……吕取观，乃一条草索，嗅之，有阴霾之气，心知为缢死鬼。取藏怀中，径向前行。其女出树中，往前遮拦，左行则左拦，右行则右拦。吕心知俗所称「鬼打墙」是也，直冲而行。鬼无奈何，长啸一声，变作披发流血状，伸舌尺许，向之跳跃。吕曰：「汝前之涂眉画粉，迷我也；向前阻拒，遮我也；今作此恶状，吓我也。三技毕矣，我总不怕，想无他技可施。尔亦知我素名豁达先生乎？」
 originalNote: "Core of 《鬼有三技过此鬼道乃穷》, Zibuyu juan 4. The title is the doctrine: get past the three tricks and the ghost's road comes to an end."

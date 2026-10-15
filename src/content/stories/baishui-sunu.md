@@ -12,8 +12,8 @@ excerpt: "A poor farmer finds a great river snail and keeps it in a jar. Soon he
 featured: false
 order: 17
 published: 2026-01-20
-image: ""
-imageAlt: ""
+image: "/images/stories/baishui-sunu.jpg"
+imageAlt: "A pale-robed girl stirs a cooking pot in a thatched hut while a great snail shell glows on the windowsill"
 original: |
   晋安帝时，侯官人谢端，少丧父母，无有亲属，为邻人所养。至年十七八，恭谨自守，不履非法。始出居，未有妻，邻人共愍念之，规为娶妇，未得。端夜卧早起，躬耕力作，不舍昼夜。后于邑下得一大螺，如三升壶。以为异物，取以归，贮瓮中。畜之十数日。
   端每早至野还，见其户中有饭饮汤火，如有人为者。端谓邻人为之惠也。数日如此，便往谢邻人。邻人曰：「吾初不为是，何见谢也？」

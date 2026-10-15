@@ -12,8 +12,8 @@ excerpt: "Wang takes in a beautiful runaway girl and hides her in his study — 
 featured: false
 order: 3
 published: 2026-01-06
-image: ""
-imageAlt: ""
+image: "/images/stories/huapi.jpg"
+imageAlt: "A woman at a mirror brushing her hair while a scaly green demon skin lies peeled away beside her"
 original: |
   太原王生，早行，遇一女郎，抱袱独奔，甚艰于步。急走趁之，乃二八姝丽。心相爱乐，问：「何夙夜踽踽独行？」女曰：「行道之人，不能解愁忧，何劳相问。」生曰：「卿何愁忧？或可效力，不辞也。」女黯然曰：「父母贪赂，鬻妾朱门。嫡妒甚，朝骂而夕楚辱之，所弗堪也，将远遁耳。」问：「何之？」曰：「在亡之人，乌有定所。」生言：「敝庐不远，即烦枉顾。」女喜，从之。
 originalNote: "Opening of the original text."

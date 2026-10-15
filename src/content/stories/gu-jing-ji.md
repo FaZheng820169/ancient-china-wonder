@@ -12,8 +12,8 @@ excerpt: "A scholar inherits a bronze mirror eight inches across with a unicorn 
 featured: false
 order: 32
 published: 2026-04-03
-image: ""
-imageAlt: ""
+image: "/images/stories/gu-jing-ji.jpg"
+imageAlt: "A traveller holds up an ancient bronze mirror whose beam drives monstrous foxes and serpents back from a ruined hall"
 original: |
   隋汾阴侯生，天下奇士也。王度常以师礼事之。临终，赠度以古镜，曰：「持此则百邪远人。」度受而宝之。镜横径八寸，鼻作麒麟蹲伏之象，绕鼻列四方，龟龙凤虎，依方陈布。四方外又设八卦，卦外置十二辰位，而具畜焉。辰畜之外，又置二十四字，周绕轮廓，文体似隶，点画无缺，而非字书所有也。
 originalNote: "Opening of the original text. This is one of the earliest Chinese tales told as a first-person narrative."

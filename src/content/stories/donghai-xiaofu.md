@@ -12,8 +12,8 @@ excerpt: "A widow serves her mother-in-law faithfully for ten years and is execu
 featured: false
 order: 37
 published: 2026-04-08
-image: ""
-imageAlt: ""
+image: "/images/stories/donghai-xiaofu.jpg"
+imageAlt: "A bound woman kneels before an official as dark clouds and wind gather above the execution ground"
 original: |
   汉时，东海孝妇养姑甚谨。姑曰：「妇养我勤苦。我已老，何惜余年，久累年少？」遂自缢死。其女告官云：「妇杀我母。」官收系之，拷掠毒治。孝妇不堪苦楚，自诬服之。时于公为狱吏，曰：「此妇养姑十余年，以孝闻彻，必不杀也。」太守不听。于公争之弗得，乃抱其狱具，哭于府而去。自后郡中枯旱，三年不雨。
   后太守至，于公曰：「孝妇不当死，前太守枉杀之，咎当在此。」太守即时身祭孝妇冢，因表其墓。天立雨，岁大丰。

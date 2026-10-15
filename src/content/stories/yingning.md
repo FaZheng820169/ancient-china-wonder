@@ -12,8 +12,8 @@ excerpt: "A laughing girl with a branch of plum blossom steals a scholar's heart
 featured: false
 order: 4
 published: 2026-01-07
-image: ""
-imageAlt: ""
+image: "/images/stories/yingning.jpg"
+imageAlt: "A laughing girl scatters blossom from a wild pear tree while a young scholar smiles up at her"
 original: |
   王子服，莒之罗店人。早孤，绝慧，十四入泮。母最爱之，寻常不令游郊野。上元日，有舅氏子吴生，邀同眺瞩。方至村外，舅家仆来，招吴去。生见游女如云，乘兴独遨。有女郎携婢，捻梅花一枝，容华绝代，笑容可掬。生注目不移，竟忘顾忌。女过去数武，顾婢曰：「个儿郎目灼灼似贼！」遗花地上，笑语自去。
 originalNote: "Opening of the original text."

@@ -12,8 +12,8 @@ excerpt: "Dong Yong sells himself into servitude to pay for his father's burial.
 featured: false
 order: 14
 published: 2026-01-17
-image: ""
-imageAlt: ""
+image: "/images/stories/dong-yong.jpg"
+imageAlt: "A young man in coarse hemp kneels beside a fresh grave as a celestial maiden descends from clouds"
 original: |
   汉董永，千乘人。少偏孤，与父居，肆力田亩，鹿车载自随。父亡，无以葬，乃自卖为奴，以供丧事。主人知其贤，与钱一万，遣之。永行三年丧毕，欲还主人，供其奴职。道逢一妇人曰：「愿为子妻。」遂与之俱。主人谓永曰：「以钱与君矣。」永曰：「蒙君之惠，父丧收藏。永虽小人，必欲服勤致力，以报厚德。」
 originalNote: "Opening of the original text."

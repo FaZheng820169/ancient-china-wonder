@@ -12,8 +12,8 @@ excerpt: "A penniless strategist, an eloping palace girl with a whisk, and a red
 featured: true
 order: 4
 published: 2026-04-01
-image: ""
-imageAlt: ""
+image: "/images/stories/qiu-ran-ke.jpg"
+imageAlt: "A man with a sword sleeps on a couch in a ruined temple while a ghostly woman kneels at his feet sewing"
 original: |
   隋炀帝之幸江都，命司空杨素留守西京。素骄贵，又以时乱，天下之权重望崇者，莫我若也。奢贵自奉，礼异人臣。每公卿入言，宾客上谒，未尝不踞床而见，令美人捧出，侍婢罗列，颇僭于上，末年益甚。
   一日，卫公李靖以布衣上谒，献奇策。素亦踞见之。靖前揖曰：「天下方乱，英雄竞起。公为帝室重臣，须以收罗豪杰为心，不宜踞见宾客。」

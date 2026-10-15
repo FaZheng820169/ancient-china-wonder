@@ -12,8 +12,8 @@ excerpt: "The emperor loves cricket-fighting, so every district must supply figh
 featured: false
 order: 10
 published: 2026-01-13
-image: ""
-imageAlt: ""
+image: "/images/stories/cuizhi.jpg"
+imageAlt: "A fighting cricket on a bamboo arena while a thin boy sleeps, his spirit shimmering above his body"
 original: |
   宣德间，宫中尚促织之戏，岁征民间。此物故非西产；有华阴令欲媚上官，以一头进，试使斗而才，因责常供。令以责之里正。市中游侠儿得佳者笼养之，昂其直，居为奇货。里胥猾黠，假此科敛丁口，每责一头，辄倾数家之产。
 originalNote: "Opening of the original text."

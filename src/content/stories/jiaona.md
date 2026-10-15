@@ -12,8 +12,8 @@ excerpt: "A stranded scholar is taken in by a family who are not human. He falls
 featured: false
 order: 35
 published: 2026-04-06
-image: ""
-imageAlt: ""
+image: "/images/stories/jiaona.jpg"
+imageAlt: "A fox-spirit girl in pale green kneels beside an unconscious scholar holding a glowing red pellet to his lips"
 original: |
   孔生雪笠，圣裔也。为人蕴藉，工诗。有执友令天台，寄函招之。生往，令适卒，落拓不得归，寓菩陀寺，佣为寺僧抄录。寺西百余步，有单先生第。先生故公子，以大讼萧条，眷口寡，移而乡居，宅遂旷焉。
   一日，大雪崩腾，寂无行旅。偶过其门，一少年出，丰采甚都。见生，趋与为礼，略致慰问，即屈降临。生爱悦之，慨然从入。屋宇都不甚广，处处悉悬锦幕，壁上多古人书画。

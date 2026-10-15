@@ -12,8 +12,8 @@ excerpt: "A poor scholar falls in love with a beautiful woman of mysterious mean
 featured: false
 order: 7
 published: 2026-01-10
-image: ""
-imageAlt: ""
+image: "/images/stories/ren-shi.jpg"
+imageAlt: "A scholar releases a wild goose from a bamboo cage beneath a mountain pine while a farm girl stands behind him"
 original: |
   任氏，女妖也。有韦使君者，名崟，第九，信安王祎之外孙。少落拓，好饮酒。其从父妹婿曰郑六，不记其名。早习武艺，亦好酒色，贫而无家，托身于妻族。与崟相得，游处不间。
   天宝九年夏六月，崟与郑子偕行于长安陌中，将会饮于新昌里。至宣平之南，郑子辞有故，请间去，继至饮所。崟乘白马而东。郑子乘驴而南，入升平之北门。偶值三妇人行于道中，中有白衣者，容色姝丽。郑子见之惊悦，策其驴，忽先之，忽后之，将挑而未敢。白衣时时盼睐，意有所受。

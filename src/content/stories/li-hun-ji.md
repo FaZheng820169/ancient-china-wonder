@@ -12,8 +12,8 @@ excerpt: "Qianniang is betrothed to her cousin, then promised to another man. On
 featured: false
 order: 23
 published: 2026-03-06
-image: ""
-imageAlt: ""
+image: "/images/stories/li-hun-ji.jpg"
+imageAlt: "A young woman lies faint on a bed while her translucent double walks out through the doorway toward a boat"
 original: |
   天授三年，清河张镒，因官家于衡州。性简静，寡知友。无子，有女二人。其长早亡；幼女倩娘，端妍绝伦。镒外甥太原王宙，幼聪悟，美容范。镒常器重，每曰：「他时当以倩娘妻之。」后各长成，宙与倩娘常私感想于寤寐，家人莫知其状。
   后有宾寮之选者求之，镒许焉。女闻而郁抑；宙亦深恚恨。托以当调，请赴京，止之不可，遂厚遣之。宙阴恨悲恸，决别上船。

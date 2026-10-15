@@ -12,8 +12,8 @@ excerpt: "Four ghosts come into the room — a hanged woman with her eyes torn o
 featured: false
 order: 53
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/ye-laotuo.jpg"
+imageAlt: "A barefoot wanderer sits on a bamboo mat calmly pointing at himself while four grotesque ghosts kneel around him"
 original: |
   黄胖者曰：「凡吾辈之所以能摄人者，以其心怖而魂先出也。此人盖有道之士，心不怖，魂不离体，故仓猝不易得。」群鬼方彷徨四顾，叶乃起，坐席上，以手自表曰：「我在此。」群鬼惊悸，齐跪地下。
 originalNote: "The doctrinal centre of 《叶老脱》, Zibuyu juan 2. 心不怖，魂不离体 — the heart does not terrify, the hun does not leave the body."

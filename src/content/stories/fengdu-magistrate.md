@@ -12,8 +12,8 @@ excerpt: "A county magistrate abolishes the annual tax that his people pay to He
 featured: true
 order: 39
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/fengdu-magistrate.jpg"
+imageAlt: "A magistrate lowered head first down a well shaft into a glowing sunlit underworld city of walls and rooftops"
 original: |
   四川酆都县，俗传人鬼交界处。县中有井，每岁焚纸钱帛镪投之，约费三千金，名「纳阴司钱粮」。人或吝惜，必生瘟疫。国初，知县刘纲到任，闻而禁之，众论哗然。令持之颇坚。众曰：「公能与鬼神言明乃可。」令曰：「鬼神何在？」曰：「井底即鬼神所居，无人敢往。」令毅然曰：「为民请命，死何惜？吾当自行。」
 originalNote: "Opening of 《酆都知县》, Zibuyu juan 1. Yuan Mei names the official (Liu Gang) and places the story at the founding of the dynasty."

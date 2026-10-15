@@ -12,8 +12,8 @@ excerpt: "Sun Zichu is the most ridiculous scholar in the province — six finge
 featured: false
 order: 21
 published: 2026-03-04
-image: ""
-imageAlt: ""
+image: "/images/stories/a-bao.jpg"
+imageAlt: "A small parrot perches on a young woman’s shoulder while a pale scholar lies unconscious behind them, painted in ink wash"
 original: |
   粤西孙子楚，名士也。生有枝指；性迂讷，人诳之辄信为真。或值座有歌妓，则必遥望却走。或知其然，诱之来，使妓狎逼之，则赪颜彻颈，汗珠如雨，人皆笑之。貌其痴状，名之「孙痴」。
   邑大贾某翁，与王侯埒富，姻戚皆贵胄。有女阿宝，绝色也。日择良匹，大家儿争委禽妆，皆不当翁意。适有戏之者，劝孙通媒。孙殊不自揣，果从其教。翁素耳其名，而贫之。

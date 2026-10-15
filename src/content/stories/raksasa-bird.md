@@ -12,8 +12,8 @@ excerpt: "The bridal procession passes an old grave and a whirlwind comes out of
 featured: false
 order: 57
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/raksasa-bird.jpg"
+imageAlt: "Two identical brides stand side by side before a halted bridal chair while a huge black bird perches on the beam"
 original: |
   新娘登轿，后骑从簇拥。过一古墓，有飙风从冢间出，绕花轿者数次。……不料轿中复有一新娘掀帏自出，与先出者并肩立。众惊视之，衣妆彩色，无一异者，莫辨真伪。……梁上栖一大鸟，色灰黑而钩喙巨爪如雪。……相传墟墓间太阴，积尸之气，久化为罗刹鸟，如灰鹤而大，能变幻作祟，好食人眼，亦药叉、修罗、薜荔类也。
 originalNote: "From 《罗刹鸟》, Zibuyu juan 2. Yuan Mei ends by naming the class the creature belongs to: yaksha, asura, preta."

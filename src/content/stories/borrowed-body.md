@@ -12,8 +12,8 @@ excerpt: "A blind, dropsical farmer's wife dies. Her husband buys a coffin. By t
 featured: false
 order: 49
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/borrowed-body.jpg"
+imageAlt: "A magistrate’s court with two families in argument and a bewildered young woman between them, a fresh grave mound beyond the door"
 original: |
   妇坚拒，泣曰：「吾某村中王姑娘也，尚未婚嫁，何为至此？吾之父母姊妹，俱在何处？」其夫大骇，急告某村，则举家哭其幼女，尸已埋矣。……遂两家争此妇，鸣于官。砚庭为之作合，断归村农。乾隆二十一年事。
 originalNote: "From 《灵璧女借尸还魂》, Zibuyu juan 1. Yuan Mei ends with the date and nothing else — no comment, no consolation."

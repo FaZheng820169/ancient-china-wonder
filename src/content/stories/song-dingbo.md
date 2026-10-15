@@ -12,8 +12,8 @@ excerpt: "Walking at night, Song Dingbo meets a ghost on the road. Unafraid, he 
 featured: false
 order: 15
 published: 2026-01-18
-image: ""
-imageAlt: ""
+image: "/images/stories/song-dingbo.jpg"
+imageAlt: "A ferryman poles a small boat across misty water at dawn with a pale ghost woman in the stern"
 original: |
   南阳宋定伯，年少时，夜行逢鬼。问之，鬼言：「我是鬼。」鬼问：「汝复谁？」定伯诳之，言：「我亦鬼。」鬼问：「欲至何所？」答曰：「欲至宛市。」鬼言：「我亦欲至宛市。」遂行。数里，鬼言：「步行太迟，可共递相担，何如？」定伯曰：「大善。」鬼便先担定伯数里。鬼言：「卿太重，将非鬼也？」定伯言：「我新鬼，故身重耳。」
 originalNote: "Opening of the original text."

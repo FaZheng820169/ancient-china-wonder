@@ -12,8 +12,8 @@ excerpt: "A giant follows the sun across the sky, and drinks the Yellow River dr
 featured: false
 order: 30
 published: 2026-03-13
-image: ""
-imageAlt: ""
+image: "/images/stories/kuafu.jpg"
+imageAlt: "A giant figure runs across a burning plain beneath a huge sun, a grove of peach trees on the horizon"
 original: |
   夸父与日逐走，入日。渴欲得饮，饮于河、渭；河、渭不足，北饮大泽。未至，道渴而死。弃其杖，化为邓林。
 originalNote: "The complete entry from the Classic of the Regions Beyond the Seas: North. The whole myth is told in twenty-five characters."

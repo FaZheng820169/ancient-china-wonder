@@ -12,8 +12,8 @@ excerpt: "A magistrate holding court one evening under a bright moon sees a woma
 featured: false
 order: 50
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/widow-tian.jpg"
+imageAlt: "A prefect holds up a warrant under a full moon as a veiled woman kneels in the yamen courtyard"
 original: |
   徐公知为鬼，令吏卒持牌喝曰：「有冤者魂许进！」女子冉冉入，跪阶下，声嘶如小儿，吏卒不见，但闻其声。自言姓田，寡居守节，为其夫兄方德逼嫁谋产，致令缢死。徐公为拘夫兄，与鬼对质。初讯时，殊不服；回首见女子，大骇，遂吐情实。……然其事颇实，不能秘也。
 originalNote: "From 《田烈妻》, Zibuyu juan 1. Xu Shilin (1684–1741) was a real and celebrated official; Yuan Mei also records the rebuke he received for the case."

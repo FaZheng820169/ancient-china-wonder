@@ -12,8 +12,8 @@ excerpt: "A Daoist offers to bring a rich young official back from the dead. The
 featured: false
 order: 43
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/li-tongpan.jpg"
+imageAlt: "Two small black-haired demons lever open a coffin lid while an old servant hides on a roof beam and a golden dragon coils above"
 original: |
   我非靳尔主之复生也，阴司例：死人还阳，须得替代。恐尔家无人代死，吾是以去。……二鬼手摩其腹，口渐有声。老仆目之，形是家主，音则道士。……道士已为雷震死坛所，其尸上有硫磺大书「妖道炼法易形，图财贪色，天条决斩如律令」十七字。
 originalNote: "From 《李通判》, Zibuyu juan 1. The twist is carried by six characters: 形是家主，音则道士 — the shape is the master, the voice is the Daoist."

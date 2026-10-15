@@ -12,8 +12,8 @@ excerpt: "The King of Song takes the beautiful wife of his retainer Han Ping. Th
 featured: false
 order: 16
 published: 2026-01-19
-image: ""
-imageAlt: ""
+image: "/images/stories/han-ping.jpg"
+imageAlt: "Two great trees grow intertwined on either side of a ruined tomb with mandarin ducks perched in the branches"
 original: |
   宋康王舍人韩凭，娶妻何氏，美，康王夺之。凭怨，王囚之，论为城旦。妻密遗凭书，缪其辞曰：「其雨淫淫，河大水深，日出当心。」既而王得其书，以示左右，左右莫解其意。臣苏贺对曰：「其雨淫淫，言愁且思也；河大水深，不得往来也；日出当心，心有死志也。」俄而凭乃自杀。
 originalNote: "Opening of the original text."

@@ -12,8 +12,8 @@ excerpt: "Dared to carry a statue out of the temple of the Ten Kings at midnight
 featured: false
 order: 36
 published: 2026-04-07
-image: ""
-imageAlt: ""
+image: "/images/stories/lu-pan.jpg"
+imageAlt: "A gigantic bearded underworld judge at a desk writes in a ledger beside a sleeping scholar"
 original: |
   陵阳朱尔旦，字小明，性豪放，然素钝，学虽笃，尚未知名。一日，文社众饮，或戏之云：「君有豪名，能深夜赴十王殿，负得左廊判官来，众当醵作筵。」盖陵阳有十王殿，神鬼皆以木雕，妆饰如生。东庑有立判，绿面赤须，貌尤狞恶。或夜闻两廊拷讯声，入者毛皆森竖，故众以此难之。朱笑起，径去。居无何，门外大呼曰：「我请髯宗师至矣！」众皆起。
 originalNote: "Opening of the original text."

@@ -12,8 +12,8 @@ excerpt: "A scholar lodging in a temple falls in love with a woman in white — 
 featured: false
 order: 11
 published: 2026-01-14
-image: ""
-imageAlt: ""
+image: "/images/stories/xiangyu.jpg"
+imageAlt: "A sleeping warrior on a stone couch while a beautiful woman with a sword slips toward his writing desk"
 original: |
   劳山下清宫，耐冬高二丈，大数十围，牡丹高丈余，花时璀璨似锦。胶州黄生，舍读其中。一日，自窗中见女郎，素衣掩映花间。心疑观中焉得此。趋出，已遁去。自此屡见之。遂隐身丛树中，以伺其至。未几，女郎又偕一红裳者来，遥望之，艳丽双绝。行渐近，红裳者却退，曰：「此处有生人！」生暴起。二女惊奔，袖裙飘拂，香风洋溢，追过短墙，寂然已杳。
 originalNote: "Opening of the original text."

@@ -12,8 +12,8 @@ excerpt: "Red Thread is a palace maid who plays the lute and reads the histories
 featured: false
 order: 22
 published: 2026-03-05
-image: ""
-imageAlt: ""
+image: "/images/stories/hong-xian.jpg"
+imageAlt: "A maidservant with a short sword strides through a moonlit military camp of tents and banners"
 original: |
   红线，潞州节度使薛嵩家青衣。善弹阮咸，又通经史。嵩遣掌笺表，号曰「内记室」。时军中大宴，红线谓嵩曰：「羯鼓之音调颇悲，其击者必有事也。」嵩亦明晓音律，曰：「如汝所言。」乃召而问之，云：「某妻昨夜亡，不敢乞假。」嵩遽遣放归。
   时至德之后，两河未宁，初置昭义军，以釜、嵩、承嗣等分镇。田承嗣欲并潞州，募军中武勇十倍者得三千人，号「外宅男」，而厚恤养之。常令三百人夜直州宅，卜选良日，将并潞州。

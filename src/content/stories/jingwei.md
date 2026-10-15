@@ -12,8 +12,8 @@ excerpt: "The youngest daughter of the Flame Emperor drowns in the Eastern Sea. 
 featured: false
 order: 18
 published: 2026-01-21
-image: ""
-imageAlt: ""
+image: "/images/stories/jingwei.jpg"
+imageAlt: "A small crested bird flies over a stormy sea carrying a twig and a pebble to drop into the waves"
 original: |
   又北二百里，曰发鸠之山，其上多柘木。有鸟焉，其状如乌，文首、白喙、赤足，名曰精卫，其鸣自詨。是炎帝之少女，名曰女娃。女娃游于东海，溺而不返，故为精卫。常衔西山之木石，以堙于东海。
 originalNote: "The complete entry from the Northern Mountains chapter. The whole myth is told in these few lines."

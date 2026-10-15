@@ -12,8 +12,8 @@ excerpt: "In Shaanxi the ground sometimes splits open and a whole village drops 
 featured: false
 order: 60
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/shell-of-heaven.jpg"
+imageAlt: "A man floats in an empty sky above a fathomless shaft of water, reaching toward a second world below"
 original: |
   浑天之说：天地如鸡卵，卵中之黄白未分，是混沌也；卵中之黄白既分，是开辟也。人不能游于卵壳之外。……已而渐明，下视苍苍然，有天在下。细听之，人民鸡犬之声，因风而至。我意此是天壳之外天也……古衣冠者叱曰：「此两天分界处，万古神圣不破此关。」
 originalNote: "From 《天壳》, Zibuyu juan 2. Yuan Mei opens with the hún-tiān cosmogony — heaven and earth as a hen's egg — and closes by citing the Huainanzi."

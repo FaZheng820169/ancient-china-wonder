@@ -12,8 +12,8 @@ excerpt: "A son follows his murdered father into the Courts of the Dead and file
 featured: true
 order: 3
 published: 2026-03-01
-image: ""
-imageAlt: ""
+image: "/images/stories/xi-fangping.jpg"
+imageAlt: "A young man shouts an appeal outside the great gate of the underworld, holding papers aloft"
 original: |
   席方平，东安人。其父名廉，性戇拙。因与里中富室羊姓有隙，羊先死；数年，廉病垂危，谓人曰：「羊某今贿嘱冥使搒我矣。」俄而身赤肿，号呼遂死。
   席惨怛不食，曰：「我父朴讷，今见陵于强鬼；我将赴地下，代伸冤气矣。」自此不复言，时坐时立，状类痴，盖魂已离舍矣。

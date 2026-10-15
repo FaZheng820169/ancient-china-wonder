@@ -12,8 +12,8 @@ excerpt: "A chess player lies down in the east wing on a hot afternoon and feels
 featured: false
 order: 45
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/skull-breath.jpg"
+imageAlt: "A chess player lies unconscious on a summer couch while a pale skull exhales icy breath through the matting"
 original: |
   吾床上睡未熟，觉背间有一点冷，如胡桃大，渐至盘楪大，未几而半席皆冷，直透心骨，未得其故。闻床下咈咈然有声，俯视之，一骷髅张口隔席吹我，不觉骇绝，遂仆于地。骷髅竟以头击我。闻人来，始去。
 originalNote: "The victim's own account, 《骷髅吹气》, Zibuyu juan 1. Yuan Mei dates it to Yongzheng 5 and names every person present."

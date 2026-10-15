@@ -12,8 +12,8 @@ excerpt: "A governor-general is reading late when a fox comes in sideways throug
 featured: false
 order: 40
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/fox-licentiate.jpg"
+imageAlt: "A small fox in a scholar’s square cap and red shoes bows deeply to a seated official in a lamplit study"
 original: |
   生员狐仙也，居此百年，蒙诸大人俱许在此。公忽来读书，生员不敢抗天子之大臣，故来请示。……群狐蒙泰山娘娘考试，每岁一次。取其文理精通者为生员，劣者为野狐。生员可以修仙，野狐不许修仙。……先学人形，再学人语。学人语者，先学鸟语；学鸟语者，又必须尽学四海九州之鸟语；无所不能，然后能为人声，以成人形，其功已五百年矣。人学仙，较异类学仙少五百年功苦。若贵人、文人学仙，较凡人又省三百年功苦。大率学仙者，千年而成，此定理也。
 originalNote: "The fox's speech in 《狐生员劝人修仙》, Zibuyu juan 1 — the fullest statement of the cultivation economy in Qing zhiguai."

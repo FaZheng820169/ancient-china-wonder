@@ -12,8 +12,8 @@ excerpt: "General Ouyang Ge takes his beautiful wife on campaign. He locks her i
 featured: false
 order: 24
 published: 2026-03-07
-image: ""
-imageAlt: ""
+image: "/images/stories/bai-yuan-zhuan.jpg"
+imageAlt: "A towering white ape stands on a misty mountain crag with silk robes hanging from pine branches"
 original: |
   梁大同末，遣平南将军蔺钦南征，至于桂林，破诸溪洞。纥妻纤白甚美。其部人曰：「将军何为挈丽人经此？地有神，善窃少女，而美者尤所难免，宜谨护之。」纥甚疑惧，夜勒兵环其庐，匿妇密室中，谨闭甚固，而以女奴十余伺守之。
   尔夕，阴风晦黑，至五更，寂然无闻。守者怠而假寐，忽若有物惊悟者，即已失妻矣。关扃如故，莫知所出。

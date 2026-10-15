@@ -12,8 +12,8 @@ excerpt: "The City God sentences a rapist ghost to forty strokes and a public ca
 featured: false
 order: 56
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/ghost-of-a-ghost.jpg"
+imageAlt: "A city god on a tribunal bench while officers bind a writhing ghost and fan its remains into black smoke"
 original: |
   旁二隶请曰：「可准押往鸦鸣国为聻否？」城隍不许，曰：「此奴作鬼便害人，若作聻必又害鬼。可扬灭恶气，以断其根。」两隶呼长须者二人，各持大扇扇其尸，顷刻化为黑烟，散尽不见。
 originalNote: "The second judgement in 《城隍杀鬼不许为聻》, Zibuyu juan 3. The title states the ruling: the City God refuses to let him become a jian."

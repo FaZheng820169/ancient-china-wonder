@@ -12,8 +12,8 @@ excerpt: "A rich man's son buys face powder every day from a girl in the market,
 featured: false
 order: 27
 published: 2026-03-10
-image: ""
-imageAlt: ""
+image: "/images/stories/mai-hu-fen-nu-zi.jpg"
+imageAlt: "A young man kneels beside a woman’s body in a cosmetics shop, spreading face powder over her face"
 original: |
   有人家甚富，止有一男，宠恣过常。游市，见一女子美丽，卖胡粉，爱之。无由自达，乃托买粉，日往市，得粉便去，初无所言。积渐久，女乃深疑，谓曰：「君买此粉，将何所施？」答曰：「意相爱乐，不敢自达，然恒愿相见，故假此以观姿耳。」女怅然有感，乃相许以私，克以明夕。
   其夜，安寝，忽见女来，男不胜其悦，把臂曰：「所愿始获于此！」欢踊遂死。女惶惧，不知所以，因遁去，明还粉店。

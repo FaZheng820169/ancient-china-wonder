@@ -12,8 +12,8 @@ excerpt: "Asked how rebirth actually works, a spirit who has been dead four hund
 featured: false
 order: 55
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/climbing-sunbeam.jpg"
+imageAlt: "A single thread of golden light crosses a frozen dark mountain while ghostly figures climb along it"
 original: |
   有时被风吹至阴山下，寒冷异常，惟冬至日有阳光一线，流照阴山，群鬼蠕蠕然，僵而复动，攀日线而行，得至中国，复投人身。投做一人之身，常合群鬼而来，非止一人之魂也。其堕落于线外者，仍归阴山，再待来岁冬至矣。
 originalNote: "From 《鬼攀日线才能托生》, Zibuyu juan 8 — reported by a planchette-spirit calling himself Lou Zichun, a friend of Wen Tianxiang."

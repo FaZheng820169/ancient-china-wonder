@@ -12,8 +12,8 @@ excerpt: "On the seventh night the death-god comes for her husband's soul. Every
 featured: false
 order: 44
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/death-god-cangue.jpg"
+imageAlt: "A red-haired giant ghost with an iron fork leads a shrouded man into a lamplit room where a coffin stands"
 original: |
   故事：民间人死七日，则有迎煞之举，虽至戚，皆回避。妻独不肯，置子女于别室，己坐亡者帐中待之。至二鼓，阴风飒然，灯火尽绿。见一鬼红发圆眼，长丈馀，手持铁叉，以绳牵其夫从窗外入。见棺前设酒馔，便放叉解绳，坐而大啖。
 originalNote: "From 《煞神受枷》, Zibuyu juan 1. The custom is named in the text as 迎煞 — 'receiving the sha'."

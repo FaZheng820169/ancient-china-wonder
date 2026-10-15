@@ -12,8 +12,8 @@ excerpt: "The smith Gan Jiang forges two perfect swords for the King of Chu and 
 featured: false
 order: 13
 published: 2026-01-16
-image: ""
-imageAlt: ""
+image: "/images/stories/gan-jiang-mo-ye.jpg"
+imageAlt: "A white-haired blacksmith raises a hammer at a roaring forge while armoured soldiers wait in the shadows"
 original: |
   楚干将莫邪为楚王作剑，三年乃成。王怒，欲杀之。剑有雌雄。其妻重身当产。夫语妻曰：「吾为王作剑，三年乃成。王怒，往必杀我。汝若生子是男，大，告之曰：『出户望南山，松生石上，剑在其背。』」于是即将雌剑往见楚王。王大怒，使相之。剑有二，一雄一雌，雌来雄不来。王即怒杀之。
 originalNote: "Opening of the original text. The full tale is also known as The Tomb of the Three Kings."

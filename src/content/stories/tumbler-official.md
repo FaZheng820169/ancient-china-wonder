@@ -12,8 +12,8 @@ excerpt: "Something three inches tall in a black coat and a bailiff's cap crawls
 featured: false
 order: 62
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/tumbler-official.jpg"
+imageAlt: "A scholar holds up a tiny clay official between two fingers among scattered hairpins and silk"
 original: |
   少顷，数短人舁一官至，旗帜马车之类，历历如豆。官乌纱冠危坐，指蒋大詈，声细如蜂虿。蒋无怖色。官愈怒，小手拍地，麾众短人拘蒋。众短人牵鞋扯袜，竟不能动。官嫌其无勇，攘臂自起。蒋以手摄之，置于几上，细视之，世所卖不倒翁也。
 originalNote: "From 《不倒翁》, Zibuyu juan 2. The word 不倒翁 — the tumbler doll — is also a standing Chinese joke for an official who cannot be toppled."

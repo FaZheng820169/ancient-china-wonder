@@ -12,8 +12,8 @@ excerpt: "A Taoist master has almost made the elixir twice, and twice it failed.
 featured: false
 order: 34
 published: 2026-04-05
-image: ""
-imageAlt: ""
+image: "/images/stories/du-zi-chun.jpg"
+imageAlt: "A ragged man sits motionless in meditation while demonic visions of flame and armies rise around him"
 original: |
   杜子春者，盖周隋间人。少落魄，不事家产，然以志气闲旷，纵酒闲游。资产荡尽，投于亲故，皆以不事事见弃。方冬，衣破腹空，徒行长安中，日晚未得一食，徘徊不知所往。于东市西门，饥寒之色可掬，仰天长吁。
   有一老人策杖于前，问曰：「君子何叹？」子春言其心，且愤其亲戚之疏薄也，感激之气，发于颜色。老人曰：「几缗则丰用？」子春曰：「三五万则可以活矣。」老人曰：「未也，更言之。」「十万。」「未也。」乃言「百万」。亦曰：「未也。」曰：「三百万。」乃曰：「可矣。」

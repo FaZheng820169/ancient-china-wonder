@@ -12,8 +12,8 @@ excerpt: "On New Year's morning somebody paints the Plague God on paper and nail
 featured: false
 order: 59
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/plague-god.jpg"
+imageAlt: "A laughing man bows to a painted paper image of a fierce plague god nailed above a doorway"
 original: |
   耽老晨出开门，见而大笑，迎疫神归，延之上座，与共饮酒而烧化之。是年大疫，四邻病者为祀疫神。其病人辄作神语曰：「我元旦受苏耽老礼敬，愧无以报。欲禳我者，必请苏君陪我，我方去。」
 originalNote: "From 《苏耽老饮疫神》, Zibuyu juan 2. The whole tale is about two hundred characters, and the joke is the mechanism."

@@ -12,8 +12,8 @@ excerpt: "Having heard that Song Dingbo once sold a ghost for fifteen hundred ca
 featured: false
 order: 28
 published: 2026-03-11
-image: ""
-imageAlt: ""
+image: "/images/stories/gui-bi-jiang-san-mang.jpg"
+imageAlt: "A burly barefoot labourer swaggers down a moonlit lane while small ghosts cower on the rooftops"
 original: |
   景城有姜三莽者，勇而戆。一日，闻人说宋定伯卖鬼得钱事，大喜曰：「吾今乃知鬼可缚。如每夜缚一鬼，唾使变羊，晓而牵卖于屠市，足供一日酒肉资矣。」于是夜夜荷梃执绳，潜行墟墓间，如猎者之伺狐兔，竟不能遇。
   即素称有鬼之处，佯醉寝其侧，亦无一鬼至。一夕，隔林见数磷火，踊跃奔赴；未至间，已星散去。不得已，复返其处，徘徊困倦，四顾阒然，惟闻一鬼在林际大笑曰：「吾等今日真怯矣！」

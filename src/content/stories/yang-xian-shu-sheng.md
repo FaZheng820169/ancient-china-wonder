@@ -12,8 +12,8 @@ excerpt: "A scholar begs a lift inside a goose cage. He fits. Then, at dinner, h
 featured: false
 order: 25
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/yang-xian-shu-sheng.jpg"
+imageAlt: "A sleeping traveller in a lonely inn as a woman slides in through a narrow window gap"
 original: |
   阳羡许彦，于绥安山行，遇一书生，年十七八，卧路侧，云脚痛，求寄鹅笼中。彦以为戏言。书生便入笼，笼亦不更广，书生亦不更小，宛然与双鹅并坐，鹅亦不惊。彦负笼而去，都不觉重。
   前行息树下，书生乃出笼，谓彦曰：「欲为君薄设。」彦曰：「善。」书生乃口中吐一铜奁子，奁子中有馔。又于口中吐一女子，年可十五六，衣服绮丽，容貌殊绝，共坐宴。

@@ -13,7 +13,7 @@ featured: true
 order: 5
 published: 2026-01-08
 image: "/images/stories/liu-yi.jpg"
-imageAlt: "A Tang dynasty scholar at the shore of a misty lake as a woman in court dress rises from the water beside a dragon, ink wash painting"
+imageAlt: "A young scholar stands before a great dragon palace of coral and pearl gates, holding a letter aloft"
 original: |
   仪凤中，有儒生柳毅者，应举下第，将还湘滨。念乡人有客于泾阳者，遂往告别。至六七里，鸟起马惊，疾逸道左；又六七里，乃止。见有妇人，牧羊于道畔。毅怪视之，乃殊色也。然而蛾脸不舒，巾袖无光，凝听翔立，若有所伺。毅诘之曰：「子何苦而自辱如是？」妇始楚而谢，终泣而对曰：「贱妾不幸，今日见辱于长者。然而恨贯肌骨，亦何能愧避？幸一闻焉。」
 originalNote: "Opening of the original text."

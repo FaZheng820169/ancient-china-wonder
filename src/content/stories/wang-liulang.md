@@ -12,8 +12,8 @@ excerpt: "Every night a fisherman pours a cup of wine on the ground for the drow
 featured: false
 order: 20
 published: 2026-03-03
-image: ""
-imageAlt: ""
+image: "/images/stories/wang-liulang.jpg"
+imageAlt: "A fisherman pols a boat down a misty river while a dripping pale young ghost sits in the water at the bow"
 original: |
   许姓，家淄之北郭，业渔。每夜携酒河上，饮且渔。饮则酹地，祝云：「河中溺鬼得饮。」以为常。他人渔，迄无所获，而许独满筐。
   一夜，方独酌，有少年来，徘徊其侧。让之饮，慨与同酌。既而终夜不获一鱼，意颇失。少年起而言曰：「请于下流为君驱之。」遂飘然去。少间复返，曰：「鱼大至矣。」果闻唼呷有声。举网而得数头，皆盈尺。

@@ -12,8 +12,8 @@ excerpt: "The archer Yi obtains the elixir of immortality from the Queen Mother 
 featured: false
 order: 38
 published: 2026-04-09
-image: ""
-imageAlt: ""
+image: "/images/stories/chang-e.jpg"
+imageAlt: "A robed woman rises into a night sky toward an enormous pale moon, silk ribbons trailing"
 original: |
   羿请不死之药于西王母，姮娥窃以奔月，怅然有丧，无以续之。
 originalNote: "The complete passage from the Huainanzi — fifteen characters. Later versions, including the one in the Soushen Ji, expand it; the expanded form is what most readers know."

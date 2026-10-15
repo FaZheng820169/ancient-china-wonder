@@ -12,8 +12,8 @@ excerpt: "A Qing official sent to pray for rain finds a shrine to a beautiful yo
 featured: false
 order: 58
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/dong-xian-rain-god.jpg"
+imageAlt: "A beautiful young god in Han court robes on a cloud throne while a bald prisoner clutches a scroll under the whip"
 original: |
   余非孙郎，乃汉大司马董圣卿也。我为王莽所害，死甚惨。上帝怜我无罪，虽居高位、蒙盛宠，而在朝未尝害一士大夫，故封我为大郎神，管此方晴雨。……汝毋为班固所欺也，固作《哀皇帝本纪》，既言帝病痿，不能生子，又安能幸我耶？此自相矛盾语也。……此贼一生信《周礼》，虽死，犹抱持不放。受铁鞭时，犹以《周礼》护其背。
 originalNote: "From 《董贤为神》, Zibuyu juan 2. Yuan Mei names his own grand-uncle as the official who had the dream."

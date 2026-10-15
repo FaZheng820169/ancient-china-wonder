@@ -12,8 +12,8 @@ excerpt: "A young man waiting at an inn asks an old man reading by moonlight wha
 featured: false
 order: 33
 published: 2026-04-04
-image: ""
-imageAlt: ""
+image: "/images/stories/ding-hun-dian.jpg"
+imageAlt: "A white-bearded old man reads a great book beneath a moonlit tree with a coil of red thread beside him"
 original: |
   杜陵韦固，少孤，思早娶妇，多歧求婚，必无成而罢。元和二年，将游清河，旅次宋城南店。客有以前清河司马潘昉女为议者，来旦期于店西龙兴寺门。固以求之意切，旦往焉。斜月尚明，有老人倚布囊，坐于阶上，向月检书。固步觇之，不识其字，既非虫篆八分科斗之势，又非梵书。
   因问曰：「老父所寻者何书？少小苦学，世间之字，自谓无不识者；西国梵字，亦能读之。唯此书目所未觌，如何？」老人笑曰：「此非世间书，君因何得见？」固曰：「然则何书也？」曰：「幽冥之书。」

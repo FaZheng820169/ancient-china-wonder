@@ -12,8 +12,8 @@ excerpt: "A magistrate famous for his cruelty to women spends the night in a loc
 featured: false
 order: 52
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/pingyang-magistrate.jpg"
+imageAlt: "A magistrate draws his sword in a lamplit loft full of lying bodies as a white-bearded god bows to him"
 original: |
   案涉妇女，必引入奸情讯之。杖妓，去小衣，以杖抵其阴，使肿溃数月，曰：「看渠如何接客！」……妓之美者加酷焉，髡其发，以刀开其两鼻孔，曰：「使美者不美，则妓风绝矣。」逢同寅官，必自诧曰：「见色不动，非吾铁面冰心，何能如此！」
 originalNote: "Opening of 《平阳令》, Zibuyu juan 2. The last boast is 铁面冰心 — a face of iron and a heart of ice."

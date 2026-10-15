@@ -12,8 +12,8 @@ excerpt: "Chunyu Fen drinks himself to sleep under the old ash tree and wakes as
 featured: false
 order: 8
 published: 2026-01-11
-image: ""
-imageAlt: ""
+image: "/images/stories/nan-ke.jpg"
+imageAlt: "A drunken scholar sleeps beneath an ancient locust tree where a walled city of ants spreads below the roots"
 original: |
   东平淳于棼，吴楚游侠之士。嗜酒使气，不守细行。累巨产，养豪客。曾以武艺补淮南军裨将，因使酒忤帅，斥逐落魄，纵诞饮酒为事。家住广陵郡东十里。所居宅南有大古槐一株，枝干修密，清阴数亩。淳于生日与群豪大饮其下。
 originalNote: "Opening of the original text."

@@ -13,7 +13,7 @@ featured: true
 order: 1
 published: 2026-01-04
 image: "/images/stories/nie-xiaoqian.jpg"
-imageAlt: "A woman in white and pale blue robes standing in a moonlit ruined temple courtyard, painted in traditional Chinese ink wash style"
+imageAlt: "A ghost woman in pale robes at a scholar’s bedside in a ruined temple while a wild goose flies off into the dawn"
 original: |
   宁采臣，浙人。性慷爽，廉隅自重。每对人言：「生平无二色。」
   适赴金华，至北郭，解装兰若。寺中殿塔壮丽；然蓬蒿没人，似绝行踪。东西僧舍，双扉虚掩；惟南一小舍，扃键如新。又顾殿东隅，修竹拱把；阶下有巨池，野藕已花。意乐其幽杳。会学使案临，城舍价昂，思便留止，遂散步以待僧归。

@@ -12,8 +12,8 @@ excerpt: "A young guardsman falls in love with a concubine who signals him in a 
 featured: false
 order: 31
 published: 2026-04-02
-image: ""
-imageAlt: ""
+image: "/images/stories/kun-lun-nu.jpg"
+imageAlt: "A powerfully built servant leaps over a garden wall at night carrying a young woman on his back"
 original: |
   唐大历中，有崔生者，其父为显僚，与盖代之勋臣一品者熟。生是时为千牛，其父使往省一品疾。生少年，容貌如玉，性禀孤介，举止安详，发言清雅。一品命妓轴帘召生入室。生拜传父命。一品忻然爱慕，谓生曰：「郎君暇日，须一相访，无间疏也。」命红绡妓送出院。及生辞归，妓立三指，又反三掌者，然后指胸前小镜子云：「记取。」
 originalNote: "Opening of the original text."

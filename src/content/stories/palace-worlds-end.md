@@ -12,8 +12,8 @@ excerpt: "A garrison captain dies, finds the afterlife much more comfortable tha
 featured: false
 order: 47
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/palace-worlds-end.jpg"
+imageAlt: "A vast imperial hall with yellow glazed tiles floating in a deep yellow sky of flying sand"
 original: |
   既死，觉身体轻倩，颇佳于生时。所到处，天色深黄，无日色，飞沙茫茫。足不履地，一切屋舍人物，都无所见。……殿前有黄金扁额，书「地穷宫」三字。我玩视良久，袍带者怒，来逐我曰：「此何地，容尔立耶？」我素刚，不肯去，与之争。
 originalNote: "From 《地穷宫》, Zibuyu juan 1. 地穷宫 — 'the palace where the earth ends' — is named once in the text and never explained."

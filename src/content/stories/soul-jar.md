@@ -12,8 +12,8 @@ excerpt: "A bully is beaten to death and thrown in the river. Three days later h
 featured: false
 order: 61
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/soul-jar.jpg"
+imageAlt: "A poor widow carries a small earthenware jar into a yamen as a spirit wisp escapes from it"
 original: |
   此逆子藏魂坛也。逆子自知罪大恶极，故居家先将魂提出，炼藏坛内。官府所刑杀者，其血肉之体，非其魂也。以久炼之魂，治新伤之体，三日即能平复。……官如其言，杖毙之。而验其尸，不浃旬已臭腐。
 originalNote: "From 《藏魂坛》, Zibuyu juan 5. The proof at the end — 不浃旬已臭腐, rotting within ten days — is Yuan Mei's evidence standard in one clause."

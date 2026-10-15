@@ -12,8 +12,8 @@ excerpt: "A poor scholar of forty is reading the Book of Songs alone at midnight
 featured: false
 order: 29
 published: 2026-03-12
-image: ""
-imageAlt: ""
+image: "/images/stories/tan-sheng.jpg"
+imageAlt: "A scholar kneels beside an open coffin holding hands with a ghostly woman while purple light rises"
 original: |
   谈生者，年四十，无妇，常感激读《诗经》。夜半，有女子，年可十五六，姿颜服饰天下无双，来就生为夫妇。乃谓生曰：「我与人不同，勿以火照我也。三年之后，方可照。」与为夫妇，生一儿，已二岁。
   不能忍，夜伺其寝后，盗照视之。其腰以上生肉如人，腰以下但有枯骨。妇觉，遂言曰：「君负我！我垂生矣，何不能忍一岁而竟相照也？」生辞谢，涕泣不可复止。

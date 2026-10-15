@@ -12,8 +12,8 @@ excerpt: "A dead scholar comes back to his friend, says a proper goodbye, and as
 featured: false
 order: 42
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/nanchang-scholar.jpg"
+imageAlt: "A terrified scholar scrambles over a temple wall as a stiff blank-eyed corpse drapes over the coping"
 original: |
   人之魂善而魄恶，人之魂灵而魄愚。其始来也，一灵不泯，魄附魂以行；其既去也，心事既毕，魂一散而魄滞。魂在，则其人也；魂去，则非其人也。世之移尸走影，皆魄为之，惟有道之人为能制魄。
 originalNote: "The closing commentary of 《南昌士人》, Zibuyu juan 1 — the clearest single statement of the hun/po doctrine in Chinese fiction."

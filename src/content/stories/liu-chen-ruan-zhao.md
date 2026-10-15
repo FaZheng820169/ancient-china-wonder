@@ -12,8 +12,8 @@ excerpt: "Two men go into Mount Tiantai to gather bark, lose the path, and are f
 featured: false
 order: 26
 published: 2026-03-09
-image: ""
-imageAlt: ""
+image: "/images/stories/liu-chen-ruan-zhao.jpg"
+imageAlt: "Two travellers push aside peach branches at a mist-filled cave while fairy women wait inside"
 original: |
   汉明帝永平五年，剡县刘晨、阮肇共入天台山取谷皮，迷不得返。经十三日，粮食乏尽，饥馁殆死。遥望山上有一桃树，大有子实，而绝岩邃涧，永无登路。攀缘藤葛，乃得至。瞰之，有数枚桃，啖数枚，饥止体充。
   欲下山，以杯取水，见芜菁叶流下，甚鲜新。复一杯流出，中有胡麻饭糁。相谓曰：「此去人径不远矣。」乃共没水，逆流二三里，得度山，出一大溪。溪边有二女子，姿质妙绝。见二人持杯出，便笑曰：「刘、阮二郎，捉向所失流杯来。」

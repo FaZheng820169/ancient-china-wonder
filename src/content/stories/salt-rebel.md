@@ -12,8 +12,8 @@ excerpt: "The salt pools stop making salt. The merchants pray. Lord Guan appears
 featured: false
 order: 48
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/salt-rebel.jpg"
+imageAlt: "A temple interior with statues of two bearded war gods and a chained demonic woman dragged by a warrior"
 original: |
   汝盐池为蚩尤所据，故烧不成盐。我享血食，自宜料理。但蚩尤之魄，吾能制之；其妻名枭者，悍恶尤甚，我不能制，须吾弟张翼德来，始能擒服。……其夕风雷大作，朽木一根，已在铁练之上。次日，取水煮盐，成者十倍。始悟今所称「盐枭」，实始于此。
 originalNote: "From 《蒲州盐枭》, Zibuyu juan 1. The last line is the punchline: 盐枭 — the ordinary word for a salt smuggler — is given a literal origin."

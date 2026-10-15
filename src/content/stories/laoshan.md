@@ -12,8 +12,8 @@ excerpt: "A rich young man climbs Mount Lao to learn magic from a Taoist master,
 featured: true
 order: 2
 published: 2026-01-05
-image: ""
-imageAlt: ""
+image: "/images/stories/laoshan.jpg"
+imageAlt: "A would-be disciple strikes at a wall of rock on a misty sea mountain while Taoist adepts laugh behind him"
 original: |
   邑有王生，行七，故家子。少慕道，闻劳山多仙人，负笈往游。登一顶，有观宇，甚幽。一道士坐蒲团上，素发垂领，而神光爽迈。叩而与语，理甚玄妙。请师之。道士曰：「恐娇惰不能作苦。」答言：「能之。」其门人甚众，薄暮毕集。王俱与稽首，遂留观中。
 originalNote: "Opening of the original text."

@@ -12,8 +12,8 @@ excerpt: "At a roadside inn, a young scholar complaining about his failed life b
 featured: true
 order: 9
 published: 2026-01-12
-image: ""
-imageAlt: ""
+image: "/images/stories/zhen-zhong.jpg"
+imageAlt: "A scholar sleeps beneath a locust tree while translucent dream-figures of his whole life hover above him"
 original: |
   开元七年，道士有吕翁者，得神仙术，行邯郸道中，息邸舍，摄帽弛带，隐囊而坐。俄见旅中少年，乃卢生也。衣短褐，乘青驹，将适于田，亦止于邸中，与翁共席而坐，言笑殊畅。久之，卢生顾其衣装敝亵，乃长叹息曰：「大丈夫生世不谐，困如是也！」翁曰：「观子形体，无苦无恙，谈谐方适，而叹其困者，何也？」
 originalNote: "Opening of the original text."

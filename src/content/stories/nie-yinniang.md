@@ -13,7 +13,7 @@ featured: true
 order: 6
 published: 2026-01-09
 image: "/images/stories/nie-yinniang.jpg"
-imageAlt: "A female assassin in dark robes crouched on a tiled rooftop under a large moon, ink wash painting"
+imageAlt: "A woman with a small sword rides a donkey along a mountain track at dusk while an assassin rides a flying white marten"
 original: |
   聂隐娘者，贞元中魏博大将聂锋之女也。年方十岁，有尼乞食于锋舍，见隐娘，悦之，云：「问押衙乞取此女教。」锋大怒，叱尼。尼曰：「任押衙铁柜中盛，亦须偷去矣。」及夜，果失隐娘所向。锋大惊骇，令人搜寻，曾无影响。父母每思之，相对涕泣而已。
   后五年，尼送隐娘归，告锋曰：「教已成矣，子却领取。」尼欻亦不见。一家悲喜，问其所学。曰：「初但读经念咒，余无他也。」锋不信，恳诘。隐娘曰：「真说又恐不信，如何？」锋曰：「但真说之。」

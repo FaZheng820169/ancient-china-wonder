@@ -12,8 +12,8 @@ excerpt: "A poor yamen runner borrows seven ounces he can never repay, and tells
 featured: false
 order: 46
 published: 2026-03-08
-image: ""
-imageAlt: ""
+image: "/images/stories/debt-of-silver.jpg"
+imageAlt: "A monk in grey robes stands beside a newborn donkey foal as a merchant rides away through a gate"
 original: |
   每逢比期，辄向上人借贷，数年间，积至七两。上人知其无力偿还，不复取索。役颇感恩，相见必曰：「吾不能报上人恩，死当为驴马以报。」……客上鞍揽辔，笑曰：「吾诈和尚耳。我爱此驴，骑之未必即返。我已措价置汝几上，可归取之。」不顾而驰。上人无可奈何，入房视之，几上白金七两，如其所负之数。
 originalNote: "From 《大乐上人》, Zibuyu juan 1. 比期 is the deadline on which tax collection was audited; the word carries the whole pressure of the story."

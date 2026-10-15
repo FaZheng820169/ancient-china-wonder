@@ -12,8 +12,8 @@ excerpt: "A scholar is summoned in his sleep to sit an examination — but the p
 featured: false
 order: 19
 published: 2026-03-02
-image: ""
-imageAlt: ""
+image: "/images/stories/kao-chenghuang.jpg"
+imageAlt: "A scholar writes at an examination desk in a shadowed temple hall while ghostly candidates surround him"
 original: |
   予姊丈之祖，宋公讳焘，邑廪生。一日，病卧，见吏人持牒，牵白颠马来，云：「请赴试。」公言：「文宗未临，何遽得考？」吏不言，但敦促之。公力疾乘马从去。路甚生疏。至一城郭，如王者所居。
   既入，见诸公皆在，惟关壮缪可识。檐下设几、墩各二，先有一秀才坐其末，公便与连肩。几上各有笔札。俄题纸飞下。视之，八字云：「一人二人，有心无心。」

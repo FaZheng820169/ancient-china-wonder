@@ -13,7 +13,7 @@ featured: true
 order: 12
 published: 2026-01-15
 image: "/images/stories/li-ji.jpg"
-imageAlt: "A young girl with a long sword facing an enormous serpent coiled among cliffs and pines, ink wash painting"
+imageAlt: "A young girl carrying a sword and accompanied by a hound approaches a dark cave where a serpent coils above offerings"
 original: |
   东越闽中有庸岭，高数十里。其西北隰中，有大蛇，长七八丈，大十余围，土俗常惧。东冶都尉及属城长吏，多有死者。祭以牛羊，故不得福。或与人梦，或下谕巫祝，欲得啖童女年十二三者。都尉、令、长，并共患之。然气厉不息。共请求人家生婢子，兼有罪家女养之。至八月朝祭，送蛇穴口，蛇出吞啮之。累年如此，已用九女。
 originalNote: "Opening of the original text."

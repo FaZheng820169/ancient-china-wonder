@@ -12,8 +12,8 @@ excerpt: "A stolen chicken is judged by casting the moon-blocks at the shrine of
 featured: false
 order: 54
 published: 2026-03-15
-image: ""
-imageAlt: ""
+image: "/images/stories/guan-yu-false-verdict.jpg"
+imageAlt: "A village shrine where a drunken man holds a knife over his wife while a scholar stands accused beside a stolen chicken"
 original: |
   汝窃鸡，不过失馆；某妻窃鸡，立死刀下矣。我宁受不灵之名，以救生人之命。上帝念我能识政体，故超升三级。……今四海九州皆有关神庙，焉得有许多关神分享血食。凡村乡所立关庙，皆奉上帝命，择里中鬼平生正直者代司其事，真关神在帝左右，何能降凡耶？
 originalNote: "From 《关神断狱》, Zibuyu juan 2. The second answer is one of the most useful pieces of divine-administration lore in the collection."
