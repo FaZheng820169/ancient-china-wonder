@@ -19,7 +19,7 @@ const { href, title, titleZh, excerpt, meta, tags = [], image, imageAlt = '', sh
     {
       image ? (
         <div class="thumb">
-          <img src={image} alt={imageAlt || title} loading="lazy" width="640" height="400" />
+          <img src={image} alt={imageAlt || title} loading="lazy" decoding="async" width="600" height="400" />
         </div>
       ) : (
         <div class="thumb thumb-plain">

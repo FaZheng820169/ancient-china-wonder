@@ -66,7 +66,7 @@ const jsonLd = [
     <header class="article-head">
       <p class="crumbs">
         <a href="/stories">Stories</a><span class="breadcrumb-sep">/</span>
-        <a href={`/stories`}>{d.sourceZh}</a><span class="breadcrumb-sep">/</span>
+        <a href={`/stories?source=${encodeURIComponent(d.sourceZh)}`}>{d.sourceZh}</a><span class="breadcrumb-sep">/</span>
         <span>{d.title}</span>
       </p>
       <h1>{d.title}</h1>

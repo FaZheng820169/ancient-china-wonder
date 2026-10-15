@@ -67,7 +67,12 @@ function count(list: typeof stories, key: 'dynasty' | 'sourceZh' | 'tags', val: 
         </aside>
 
         <div>
-          <p class="count-line" id="count-line">Showing all {stories.length} stories</p>
+          <div class="count-row">
+            <p class="count-line" id="count-line">Showing all {stories.length} stories</p>
+            <button class="filter-reset" type="button" id="surprise" title="Open one of the stories currently shown, chosen at random">
+              Open one at random →
+            </button>
+          </div>
           <div class="grid grid-2" id="story-grid">
             {
               stories.map((s) => (
@@ -165,6 +170,16 @@ function count(list: typeof stories, key: 'dynasty' | 'sourceZh' | 'tags', val: 
       }
       apply();
     });
+  });
+
+  // "open one at random" picks from whatever is currently visible, so it respects the filters
+  document.getElementById('surprise')?.addEventListener('click', () => {
+    const links = Array.from(document.querySelectorAll<HTMLAnchorElement>('.story-item h3 a'));
+    const shown = links.filter((a) => (a.closest('.story-item') as HTMLElement).style.display !== 'none');
+    const pool = shown.length ? shown : links;
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+    const href = pick.getAttribute('href');
+    if (href) location.href = href;
   });
 
   document.getElementById('filter-reset')?.addEventListener('click', () => {

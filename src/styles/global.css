@@ -811,6 +811,21 @@ details.fold .fold-body {
   margin-bottom: 20px;
 }
 
+/* the "showing N stories" line and the random-pick button share a row */
+.count-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.count-row .count-line {
+  margin-bottom: 8px;
+}
+.count-row .filter-reset {
+  margin-bottom: 8px;
+}
+
 /* ---------- Timeline ---------- */
 
 .timeline {
