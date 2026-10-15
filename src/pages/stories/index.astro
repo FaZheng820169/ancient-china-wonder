@@ -118,7 +118,36 @@ function count(list: typeof stories, key: 'dynasty' | 'sourceZh' | 'tags', val: 
     const total = items.length;
     countLine.textContent = shown === total ? `Showing all ${total} stories` : `Showing ${shown} of ${total} stories`;
     emptyMsg.hidden = shown !== 0;
+
+    // keep the address bar shareable: /stories?source=...&tag=...&dynasty=...
+    const usp = new URLSearchParams();
+    for (const g of Object.keys(state)) {
+      if (state[g].size) usp.set(g, [...state[g]].join(','));
+    }
+    const qs = usp.toString();
+    history.replaceState(null, '', qs ? `${location.pathname}?${qs}` : location.pathname);
   }
+
+  // read ?source= / ?tag= / ?dynasty= on load, so filtered views can be linked to
+  (function initFromQuery() {
+    const params = new URLSearchParams(location.search);
+    let touched = false;
+    for (const group of Object.keys(state)) {
+      const raw = params.get(group);
+      if (!raw) continue;
+      for (const val of raw.split(',')) {
+        const btn = document.querySelector<HTMLElement>(
+          `.filter-list[data-filter-group="${group}"] .filter-btn[data-value="${CSS.escape(val)}"]`
+        );
+        if (btn) {
+          state[group].add(btn.dataset.value as string);
+          btn.setAttribute('aria-pressed', 'true');
+          touched = true;
+        }
+      }
+    }
+    if (touched) apply();
+  })();
 
   document.querySelectorAll<HTMLElement>('.filter-list').forEach((list) => {
     const group = list.dataset.filterGroup!;
