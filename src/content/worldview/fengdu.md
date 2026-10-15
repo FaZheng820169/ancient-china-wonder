@@ -8,6 +8,9 @@ related:
   - "underworld"
   - "three-realms"
   - "ghosts"
+  - "fengdu-magistrate"
+  - "lu-pan"
+  - "xi-fangping"
 ---
 
 Most underworlds are somewhere else. Fengdu is in Sichuan.

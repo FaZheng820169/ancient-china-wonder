@@ -10,6 +10,9 @@ related:
   - "cultivation-system"
   - "monsters-and-yaoguai"
   - "queen-mother"
+  - "fox-licentiate"
+  - "fox-debated-classics"
+  - "ren-shi"
 ---
 
 No creature in the Chinese supernatural has had a longer or stranger career than the **fox (狐, *hu*)**.

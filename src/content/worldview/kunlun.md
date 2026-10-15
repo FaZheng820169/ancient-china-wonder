@@ -10,6 +10,9 @@ related:
   - "queen-mother"
   - "penglai"
   - "three-realms"
+  - "kuafu"
+  - "jingwei"
+  - "zhao-sanweng"
 ---
 
 At the far western edge of the known world, the Shan Hai Jing places a mountain that is less a place than an axis: **Mount Kunlun**, the pillar between earth and heaven.

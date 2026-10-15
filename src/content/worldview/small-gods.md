@@ -5,9 +5,9 @@ branch: beings
 summary: "Below the Jade Emperor and below the Courts of the Dead there is a whole population of minor deities: door gods, earth gods, bridge gods, ceiling gods. They are not symbols. They are staff, and they have beats."
 order: 6
 related:
-  - "ghosts"
-  - "underworld"
-  - "fengdu"
+  - "city-god-drunk"
+  - "ox-head-king"
+  - "dead-father-paper"
 ---
 
 Chinese religion is usually described by its peaks — the Jade Emperor, the Queen Mother of the West, Guan Yu, Bao Zheng. But the tradition actually runs on a very large number of very small gods, and they are the ones who turn up in the stories.

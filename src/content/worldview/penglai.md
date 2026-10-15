@@ -8,6 +8,9 @@ related:
   - "kunlun"
   - "immortals-and-gods"
   - "cultivation-system"
+  - "liu-chen-ruan-zhao"
+  - "zhao-sanweng"
+  - "dong-yong"
 ---
 
 Far out in the Eastern Sea, the old geographies say, lie three islands — **Penglai, Fangzhang and Yingzhou** — where the immortals live.

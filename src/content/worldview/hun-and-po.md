@@ -8,6 +8,9 @@ related:
   - "ghosts"
   - "underworld"
   - "cultivation-system"
+  - "hanging-ghost-and-po"
+  - "li-hun-ji"
+  - "ghost-of-a-ghost"
 ---
 
 A living person in this universe is a composite. Two souls inhabit one body, and they have different natures, different appetites, and different destinations.

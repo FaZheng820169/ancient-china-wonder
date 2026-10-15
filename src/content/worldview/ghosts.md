@@ -8,6 +8,9 @@ related:
   - "underworld"
   - "three-realms"
   - "cultivation-system"
+  - "nie-xiaoqian"
+  - "song-dingbo"
+  - "ghost-three-tricks"
 ---
 
 A **ghost (鬼, *gui*)** in this universe is not a different species from a human. It is a human in the wrong state: a soul that, for some reason, did not get processed through the Courts of the Dead, and so lingers in the mortal realm — off the register, out of the queue, stuck.

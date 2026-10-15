@@ -18,6 +18,7 @@ const siblings = all.filter((e) => e.data.branch === d.branch && e.id !== entry.
 
 const stories = await getCollection('stories');
 const linkedStories = stories.filter((s) => d.related.includes(s.id)).slice(0, 3);
+const linkedEntries = all.filter((e) => e.id !== entry.id && d.related.includes(e.id)).slice(0, 4);
 const branch = BRANCHES[d.branch as keyof typeof BRANCHES];
 ---
 
@@ -62,6 +63,22 @@ const branch = BRANCHES[d.branch as keyof typeof BRANCHES];
       }
     </div>
   </div>
+
+  {
+    linkedEntries.length > 0 && (
+      <div class="wrap">
+        <div class="source-note">
+          <b>Related entries:</b>{' '}
+          {linkedEntries.map((e, i) => (
+            <>
+              {i > 0 && ' · '}
+              <a href={`/worldview/${e.id}`}>{e.data.title}</a>
+            </>
+          ))}
+        </div>
+      </div>
+    )
+  }
 
   {
     linkedStories.length > 0 && (

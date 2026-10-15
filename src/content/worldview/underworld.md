@@ -10,6 +10,9 @@ related:
   - "three-realms"
   - "ghosts"
   - "cultivation-system"
+  - "fengdu-magistrate"
+  - "kao-chenghuang"
+  - "enrolment-of-ghosts"
 ---
 
 Every soul in the Chinese universe passes, after death, through the **Difu (地府)** — the Earth Administration — and the first thing to understand about it is that it is an administration.

@@ -5,9 +5,9 @@ branch: beings
 summary: "Divinity in this universe is a career, not a state of being. Gods are appointed, promoted, deputised, impeached and dismissed — and a god who fails once on a countable promise can be smashed with a hoe."
 order: 7
 related:
-  - "small-gods"
-  - "underworld"
-  - "fengdu"
+  - "dead-father-paper"
+  - "protector-general"
+  - "ox-head-king"
 ---
 
 It is tempting to read the Chinese pantheon as a set of beings who simply *are* divine. The texts do not support it. In zhiguai and in the two great Song-Qing collections, divinity behaves exactly like an office in the imperial bureaucracy: it is granted, documented, transferred, audited, and revoked.

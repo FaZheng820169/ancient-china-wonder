@@ -8,6 +8,9 @@ related:
   - "fox-spirits"
   - "cultivation-system"
   - "ghosts"
+  - "one-eyed-five"
+  - "bai-yuan-zhuan"
+  - "monster-feared-reason"
 ---
 
 The mortal realm has a second population, mostly invisible, and its census categories matter.

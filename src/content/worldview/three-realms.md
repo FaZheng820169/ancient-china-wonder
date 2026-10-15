@@ -8,6 +8,9 @@ related:
   - "underworld"
   - "kunlun"
   - "immortals-and-gods"
+  - "kao-chenghuang"
+  - "enrolment-of-ghosts"
+  - "climbing-sunbeam"
 ---
 
 Every story in this library happens inside a three-storey universe.
