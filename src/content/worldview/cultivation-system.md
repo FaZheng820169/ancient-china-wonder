@@ -8,6 +8,7 @@ related:
   - "immortals-and-gods"
   - "fox-spirits"
   - "three-realms"
+  - "the-ledger"
   - "laoshan"
   - "fox-licentiate"
   - "zhao-sanweng"

@@ -8,6 +8,7 @@ image: "/images/stories/a-day-is-a-year.jpg"
 imageAlt: "Ink-wash illustration: a walled city where lotus blooms on one riverbank and plum flowers in snow on the other, a rider arriving at a pavilion."
 related:
   - "three-realms"
+  - "the-ledger"
   - "underworld"
   - "how-souls-move-on"
   - "fengdu"
