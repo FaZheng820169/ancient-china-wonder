@@ -33,6 +33,8 @@ related:
   - "enrolment-of-ghosts"
   - "poor-scholar-planchette"
   - "city-god-drunk"
+  - "the-advance-mourning"
+  - "dream-within-a-dream"
 ---
 
 Chen Yuesheng of Loudong built a retreat west of Lotus Bridge. The work was barely finished when the household began to clamour that there were ghosts. Chen thought it nonsense, and moved his bed in.

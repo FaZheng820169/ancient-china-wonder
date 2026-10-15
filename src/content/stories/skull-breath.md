@@ -30,6 +30,7 @@ related:
   - "nanchang-scholar"
   - "song-dingbo"
   - "gui-bi-jiang-san-mang"
+  - "the-exorcism-at-shangqing"
 ---
 
 Min Maojia of Hangzhou loved chess. His teacher, a man named Sun, often played with him.
