@@ -12,6 +12,9 @@ related:
   - "bai-yuan-zhuan"
   - "monster-feared-reason"
   - "the-red-snake-in-the-road"
+  - "the-one-legged-ghost"
+  - "shaggy-head"
+  - "the-woman-with-the-cat"
 ---
 
 The mortal realm has a second population, mostly invisible, and its census categories matter.

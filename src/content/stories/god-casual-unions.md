@@ -31,6 +31,7 @@ related:
   - "li-tongpan"
   - "huapi"
   - "ding-hun-dian"
+  - "the-one-legged-ghost"
 ---
 
 Jia Zhengjing of Qianzhong married a wife of the Tao family who was very beautiful.

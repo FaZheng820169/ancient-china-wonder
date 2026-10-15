@@ -39,6 +39,7 @@ related:
   - "the-face-wheel"
   - "enrolment-of-ghosts"
   - "climbing-sunbeam"
+  - "the-candle-flowers"
 ---
 
 Ye Peixiang of Jinping was a girl of inborn quickness. She was put to her books at seven and understood more than she was taught.

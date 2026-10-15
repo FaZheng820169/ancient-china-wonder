@@ -36,6 +36,7 @@ related:
   - "the-beggar-who-learned-to-flatter"
   - "debt-of-silver"
   - "poor-ghosts-rich-ghosts"
+  - "the-taoist-who-came-to-supper"
 ---
 
 There was a wealthy man of Jiangyin, the richest in his district, who had no son past forty, and so bought a concubine named Li; within the year she bore him a boy.

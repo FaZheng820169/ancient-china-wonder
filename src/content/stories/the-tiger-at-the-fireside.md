@@ -38,6 +38,7 @@ related:
   - "tiger-fool"
   - "ye-laotuo"
   - "gui-bi-jiang-san-mang"
+  - "the-woman-with-the-cat"
 ---
 
 In the winter of the fourth year of the Shaoxi era, Sun Yugong — son of Sun Dang, the Commissioner-in-Chief — was taking his family from Lin'an to Xiangyang, where he had a post on the staff of the Commander-in-Chief. Crossing through Ezhou they left the boat for the road, and put up for the night at a post station.

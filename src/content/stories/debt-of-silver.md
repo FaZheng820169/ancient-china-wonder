@@ -30,6 +30,7 @@ related:
   - "fengdu-magistrate"
   - "xi-fangping"
   - "han-ping"
+  - "the-lay-brother-who-became-a-pig"
 ---
 
 There was a monk at the Shuilu Convent in Luoyang, called Great Joy, who had money. His neighbour Zhou worked as a runner for the county yamen. He was poor, and the tax money he was sent to collect he spent.

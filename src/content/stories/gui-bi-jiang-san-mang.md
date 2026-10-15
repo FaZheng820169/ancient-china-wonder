@@ -31,6 +31,7 @@ related:
   - "song-dingbo"
   - "huapi"
   - "nie-xiaoqian"
+  - "shaggy-head"
 ---
 
 In Jingcheng there was a man named Jiang Sanmang, who was brave and extremely stupid.

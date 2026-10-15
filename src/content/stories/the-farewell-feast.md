@@ -36,6 +36,7 @@ related:
   - "kun-lun-nu"
   - "qiu-ran-ke"
   - "the-man-who-bound-tigers"
+  - "the-three-warriors"
 ---
 
 Lu of Zhijiang had an elder cousin who was a vice-prefect at Didao, and went out to join him — only to find that two months earlier the cousin had been promoted and moved on to be governor of Zhenxi. Lu had no travelling money. He lodged at the Shani post-station and, having learned something of the fighting arts as a boy, taught boxing and staff-work for a living.

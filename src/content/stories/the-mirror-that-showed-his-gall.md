@@ -36,6 +36,7 @@ related:
   - "the-henpecked-magistrate"
   - "the-painting-that-cured-jealousy"
   - "the-face-wheel"
+  - "one-pear-a-day"
 ---
 
 Feng Yehe of Wuhu was a man of real loyalty to his friends, and entirely governed by his wife. He had no son in middle life, bought a concubine, and was forbidden to share a bed with her. Once, in a corner where nobody was, he spoke to the girl privately — and his wife saw them from somewhere, and called on heaven and beat the ground, and cursed him in ten thousand ways.

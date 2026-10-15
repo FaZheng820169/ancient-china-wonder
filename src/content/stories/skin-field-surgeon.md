@@ -30,6 +30,7 @@ related:
   - "peacock-sutra"
   - "plague-god"
   - "monstrous-births"
+  - "one-pear-a-day"
 ---
 
 Zhang of Xiuchuan was a surgeon. He had been a constable in the prefecture.

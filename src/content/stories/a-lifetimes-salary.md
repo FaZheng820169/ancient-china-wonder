@@ -36,6 +36,7 @@ related:
   - "three-hundred-cash"
   - "seizing-surplus-ghost"
   - "copyists-four-seals"
+  - "the-clerk-who-died-twice"
 ---
 
 Guo Daren's clearing of the haunt at Hezhou is recorded in the geng division of this work.

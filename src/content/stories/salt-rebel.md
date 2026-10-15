@@ -30,6 +30,7 @@ related:
   - "fengdu-magistrate"
   - "jingwei"
   - "kuafu"
+  - "the-daughter-of-zhang-ten-thousand"
 ---
 
 Yue Shuixuan was passing the salt pools of Puzhou in Shanxi when he noticed something odd inside the temple of Lord Guan.

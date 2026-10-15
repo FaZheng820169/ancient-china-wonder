@@ -24,6 +24,8 @@ related:
   - "tan-sheng"
   - "death-god-cangue"
   - "the-litigation-writers"
+  - "the-clerk-who-died-twice"
+  - "the-hundred-meat-pies"
 ---
 
 There is a moment in a great many of these stories where somebody does something that looks, to a modern reader, like a genre error. A village walks out at dawn with banners and gongs, and **files a petition with a well**. A magistrate sentenced to death by a star is told to write a memorial and burn it. A medium who cannot get rid of a ghost does not pray harder; he transfers the case to another office. A woman is made to sign a statement.

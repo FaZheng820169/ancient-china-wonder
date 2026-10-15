@@ -32,6 +32,7 @@ related:
   - "soul-jar"
   - "peacock-sutra"
   - "a-lifetimes-salary"
+  - "the-lay-brother-who-became-a-pig"
 ---
 
 Xu Yuanhui of Lepo in Leping was a scholar. His father dreamed a guest in black came and said: "Yesterday I lent you three hundred cash. Today I return them."

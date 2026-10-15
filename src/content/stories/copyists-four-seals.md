@@ -31,6 +31,7 @@ related:
   - "zhao-sanweng"
   - "demons-are-easier"
   - "gong-xianggong"
+  - "the-candle-flowers"
 ---
 
 Dai Zhishao, courtesy name Caimei, was of Jizhou. As a youth he read a little and made no name, and being too poor to support himself he copied documents for a rich family in the district.

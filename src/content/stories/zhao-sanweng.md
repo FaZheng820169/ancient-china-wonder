@@ -30,6 +30,7 @@ related:
   - "laoshan"
   - "dragon-diver"
   - "lu-pan"
+  - "the-taoist-who-came-to-supper"
 ---
 
 Old Zhao the Third was named Jin, courtesy name Congxian, of Baisha town in Zhongmou county. He had been a Yellow River fascine soldier and had deserted. Meeting Sun Simiao in the jujube wood, Sun taught him the essentials of the Way. After a long time Sun left him, telling him not to leave the county territory, at Chunze village, and saying: "Do not on any account leave here. Without an imperial edict you may not go. Wait until I come again and I will return with you."

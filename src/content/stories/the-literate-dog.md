@@ -32,6 +32,7 @@ related:
   - "thirteen-cats"
   - "the-thief-who-judged-verse"
   - "monster-feared-reason"
+  - "the-wet-nurses-relics"
 ---
 
 When I was a child I kept a small dog called Jinsheng. When I began going to the village school I would carry him there in my arms and keep him with me. Once, when I had put him on the desk, he watched me read with his eyes fixed and his thoughts gathered, as though something were coming to him.

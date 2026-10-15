@@ -31,6 +31,7 @@ related:
   - "goddess-zigu"
   - "debt-of-silver"
   - "the-ghost-seer"
+  - "the-woman-with-the-cat"
 ---
 
 The father of Censor Wang of Jiangning had an old concubine, over seventy, who kept thirteen cats. She loved them like sons, and each had a milk-name, and they came when called.

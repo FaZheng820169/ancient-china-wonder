@@ -30,6 +30,7 @@ related:
   - "plague-god"
   - "li-tongpan"
   - "ghost-of-a-ghost"
+  - "the-one-legged-ghost"
 ---
 
 In Zhejiang there are five strange ghosts. Four of them are completely blind; only one has an eye, and the others rely on it to see. They are called the One-Eye and the Five Masters.
