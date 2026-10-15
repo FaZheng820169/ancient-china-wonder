@@ -15,6 +15,7 @@ related:
   - "the-one-legged-ghost"
   - "shaggy-head"
   - "the-woman-with-the-cat"
+  - "the-wildcat-wife"
 ---
 
 The mortal realm has a second population, mostly invisible, and its census categories matter.

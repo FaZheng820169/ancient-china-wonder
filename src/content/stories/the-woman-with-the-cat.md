@@ -42,6 +42,7 @@ related:
   - "thirteen-cats"
   - "loufan-woman"
   - "the-woman-who-followed-him-home"
+  - "the-wildcat-wife"
 ---
 
 From the islet at Ezhou to Xiangyang is seven hundred li. After the wars the long road was a waste, with no inhabitants anywhere. Only the garrison armies, every twenty li, had set up a flying-arrow horse post to carry documents; and every seventy or eighty li there was a rest-house for troops on the move, which travelling officials also lodged in.

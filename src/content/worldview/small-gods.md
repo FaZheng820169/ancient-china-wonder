@@ -11,6 +11,8 @@ related:
   - "the-warrant-that-sank-the-boat"
   - "the-crab-with-the-dipper"
   - "the-one-legged-ghost"
+  - "the-father-in-law-with-the-iron-ruler"
+  - "the-nine-young-dragons"
 ---
 
 Chinese religion is usually described by its peaks — the Jade Emperor, the Queen Mother of the West, Guan Yu, Bao Zheng. But the tradition actually runs on a very large number of very small gods, and they are the ones who turn up in the stories.

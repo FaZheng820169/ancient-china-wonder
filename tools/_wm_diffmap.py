@@ -6,7 +6,8 @@ from PIL import Image, ImageChops, ImageStat
 SRC = 'public/images/stories'
 BAK = 'tools/_src/wm_before'
 
-SLUGS = ['the-warrant-that-sank-the-boat', 'the-tiger-at-the-fireside',
+import sys
+SLUGS = sys.argv[1:] or ['the-warrant-that-sank-the-boat', 'the-tiger-at-the-fireside',
          'the-ghost-seer', 'the-wife-who-died-every-afternoon',
          'the-log-in-the-bed', 'the-red-snake-in-the-road']
 

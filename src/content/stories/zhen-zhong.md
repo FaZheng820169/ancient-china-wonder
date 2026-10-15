@@ -31,6 +31,7 @@ related:
   - "laoshan"
   - "dong-yong"
   - "a-day-is-a-year"
+  - "the-wine-pressed-from-bone-marrow"
 ---
 
 In the seventh year of Kaiyuan a Taoist known as Old Lü, who had the arts of the immortals, was travelling the Handan road and stopped to rest at a roadside inn. Presently a young man named Lu came in, riding a sorry grey colt and wearing a coarse short coat, on his way to look at his fields. He sat down near the old man, and they fell to talking, and the talk was good — until Lu looked down at his own shabby clothes and sighed from the bottom of his soul.

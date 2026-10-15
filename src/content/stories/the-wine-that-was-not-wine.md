@@ -36,6 +36,8 @@ related:
   - "emperors-dew"
   - "du-zi-chun"
   - "chang-e"
+  - "the-wine-pressed-from-bone-marrow"
+  - "twelve-years-and-little-red"
 ---
 
 There was an old man named Deng, whose surname is lost, who sold wine in the market at Handan.

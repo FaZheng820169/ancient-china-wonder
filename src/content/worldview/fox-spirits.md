@@ -14,6 +14,7 @@ related:
   - "fox-licentiate"
   - "fox-debated-classics"
   - "ren-shi"
+  - "the-widow-who-came-to-file-suit"
 ---
 
 No creature in the Chinese supernatural has had a longer or stranger career than the **fox (狐, *hu*)**.

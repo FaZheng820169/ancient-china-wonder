@@ -14,6 +14,7 @@ related:
   - "a-day-is-a-year"
   - "dream-within-a-dream"
   - "the-face-wheel"
+  - "the-wine-pressed-from-bone-marrow"
 ---
 
 In most Western fantasy, a dream is one of two things: a message from the gods, or an illusion to be seen through. Either way it is *about* the waking world, and it dissolves when you open your eyes. Chinese zhiguai does something stranger. Here the dream is a **place**. It has a border you cross, a distance in *li*, a calendar, a government, posts that can be given and taken away, marriages that produce children who grow old. It keeps running after you leave it. And when you try to prove it was only a dream, you dig under a tree and find it.

@@ -43,6 +43,7 @@ related:
   - "xi-fangping"
   - "the-litigation-writers"
   - "the-wizard-who-could-somersault"
+  - "the-wine-pressed-from-bone-marrow"
 ---
 
 Zhu Siyanze was magistrate of Lin'an county in the early Chunxi era. Auditing the government stores, he found that the chief clerk Gao had been pilfering from them; and Gao's wife was greedier still — she would take country people along to hand in their tax money, give them forged stamped receipts, and keep the money herself.

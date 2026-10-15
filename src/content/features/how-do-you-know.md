@@ -15,6 +15,8 @@ related:
   - "fox-debated-classics"
   - "the-warrant-that-sank-the-boat"
   - "death-god-cangue"
+  - "the-wine-pressed-from-bone-marrow"
+  - "twelve-years-and-little-red"
 ---
 
 The first question anyone asks about a ghost story is whether it is true. Chinese writers of the strange asked it themselves, at length, for about fourteen hundred years — and never once arrived at a common answer. What they produced instead is more interesting: four distinct, fully worked-out positions on what kind of knowledge a story about a ghost actually is.

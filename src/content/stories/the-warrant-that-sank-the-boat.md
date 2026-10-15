@@ -35,6 +35,7 @@ related:
   - "city-god-drunk"
   - "governing-ghosts-two-ways"
   - "the-litigation-writers"
+  - "the-father-in-law-with-the-iron-ruler"
 ---
 
 The Commander-in-Chief of Jiangdu, Zhao Shi, tells this.

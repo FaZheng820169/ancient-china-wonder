@@ -37,6 +37,8 @@ related:
   - "dong-xian-rain-god"
   - "shunji-king"
   - "three-drought-demons"
+  - "stabbing-the-spring"
+  - "the-nine-young-dragons"
 ---
 
 Two hundred li east of Changxi in Fuzhou there is a deep pool called Dragon Stream, on the border with Pingyang in Wenzhou. Above it is Dragon Well Mountain, and below is a great well, in which a divine dragon is said to live.

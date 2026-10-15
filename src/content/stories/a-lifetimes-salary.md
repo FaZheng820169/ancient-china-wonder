@@ -37,6 +37,7 @@ related:
   - "seizing-surplus-ghost"
   - "copyists-four-seals"
   - "the-clerk-who-died-twice"
+  - "twelve-years-and-little-red"
 ---
 
 Guo Daren's clearing of the haunt at Hezhou is recorded in the geng division of this work.
