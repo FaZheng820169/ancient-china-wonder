@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import Newsletter from '../../components/Newsletter.astro';
+import { SITE } from '../../consts';
 
 export async function getStaticPaths() {
   const features = await getCollection('features');
@@ -15,9 +16,38 @@ const d = feature.data;
 
 const stories = await getCollection('stories');
 const linked = stories.filter((s) => d.related.includes(s.id)).slice(0, 3);
+
+const site = (Astro.site ?? new URL(SITE.url)).toString().replace(/\/$/, '');
+const pageUrl = `${site}/features/${feature.id}/`;
+const abs = (u) => new URL(u, `${site}/`).toString();
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: d.title,
+    description: d.excerpt,
+    image: d.image ? [abs(d.image)] : undefined,
+    datePublished: d.published,
+    dateModified: d.published,
+    inLanguage: 'en',
+    author: { '@type': 'Organization', name: SITE.name, url: site },
+    isPartOf: { '@type': 'WebSite', name: SITE.name, url: site },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Features', item: `${site}/features/` },
+      { '@type': 'ListItem', position: 3, name: d.title, item: pageUrl },
+    ],
+  },
+];
 ---
 
-<BaseLayout title={d.title} description={d.excerpt} ogImage={d.image ?? '/images/og-default.jpg'}>
+<BaseLayout title={d.title} description={d.excerpt} ogImage={d.image ?? '/images/og-default.jpg'} jsonLd={jsonLd}>
   <div class="wrap-narrow">
     <header class="article-head">
       <p class="crumbs">
