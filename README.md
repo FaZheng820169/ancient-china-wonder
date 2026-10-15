@@ -23,9 +23,10 @@ for fantasy readers, mythology lovers and TTRPG designers.
 ## Tech
 
 - [Astro 5](https://astro.build) static site, content collections (Markdown + Zod schemas)
-- No database, no backend, no tracking — fully static
+- No database, no backend, no user accounts — fully static
 - Pagefind for build-time full-text search
 - RSS 2.0 feed, sitemap, and JSON-LD (`Article` + `BreadcrumbList`) on every story and worldview page
+- Vercel Web Analytics (cookieless, aggregate page views only)
 - Hand-rolled CSS design system (warm paper `#F7F5F0`, cinnabar `#A62C21`, pine green `#2D5016`)
 - Illustrations: AI-generated ink-wash, labelled as such on every page
 
