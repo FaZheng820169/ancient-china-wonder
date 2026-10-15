@@ -33,6 +33,7 @@ related:
   - "the-beggar-who-learned-to-flatter"
   - "tumbler-official"
   - "poor-ghosts-rich-ghosts"
+  - "the-mirror-that-showed-his-gall"
 ---
 
 A certain magistrate, base and vulgar, had served twelve years with no merit at all, reckoning only the currying of favour with superiors as his policy. A fellow townsman of his became Provincial Governor. The magistrate went to pay his respects; when announced, the fellow officials were all present. At the gate the magistrate called his own name, crawled on his knees to the hall, and kowtowed by the hundreds, his forehead lumping up like huge eggs. When done, from his sleeve he produced gold and pearls, secretly placed them under the seat, and lay prostrate, not rising.

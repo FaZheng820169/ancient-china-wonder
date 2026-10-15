@@ -42,6 +42,7 @@ related:
   - "a-day-is-a-year"
   - "liu-chen-ruan-zhao"
   - "the-bride-who-was-bait"
+  - "the-otters-offering"
 ---
 
 Old Mu of Taiyuan kept birds for a living. At seventy he was a widower, and took it into his head to look for a mate. He pressed every matchmaker he could find and not one brought him an answer. When he pressed further, they laughed at him.

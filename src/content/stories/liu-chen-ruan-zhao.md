@@ -31,6 +31,7 @@ related:
   - "nan-ke"
   - "zhao-sanweng"
   - "chang-e"
+  - "thorn-country"
 ---
 
 In the fifth year of the Yongping era of Emperor Ming of Han, two men of Shan county named Liu Chen and Ruan Zhao went into Mount Tiantai to gather bark for paper, and lost the path.

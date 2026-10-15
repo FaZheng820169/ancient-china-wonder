@@ -32,6 +32,7 @@ related:
   - "the-thief-who-judged-verse"
   - "poor-scholar-planchette"
   - "the-old-face-ghost"
+  - "insect-writing"
 ---
 
 Zheng Lanfen of Zhongzhou lost her father young. Her mother doted on her and had her sit in the schoolroom every day, with ivory book-tags and brocade rollers lying in heaps across the desk. Her mother used to tease her: "This is the thousand-li colt of our house — only it is a mare and not a stallion."

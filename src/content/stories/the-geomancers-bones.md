@@ -38,6 +38,7 @@ related:
   - "fengdu-magistrate"
   - "skull-breath"
   - "the-halo-of-seven-lives"
+  - "the-turtle-who-taught-a-fortune-teller"
 ---
 
 Wang Jin of Yuzhang took his family to the graves at Qingming. Behind their plot there was an old abandoned mound, its earth sunk level, its coffin wood rotted through, and no one knew whose it was. Wang had a boy, Zhaoqing, who saw wild flowers in full bloom on the ground there and ran over in play to pick them. His foot went through the coffin lid and the bones beneath snapped. He screamed in fright, and Wang pulled him out.

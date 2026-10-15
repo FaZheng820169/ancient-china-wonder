@@ -32,6 +32,7 @@ related:
   - "baishui-sunu"
   - "huapi"
   - "foolish-ghost-loved-wife"
+  - "the-bride-who-cast-her-coat"
 ---
 
 There was a man named Tan Sheng who was forty years old and had no wife, and who used to sit up late reading the Book of Songs and feeling sorry for himself.

@@ -33,6 +33,7 @@ related:
   - "the-hand-in-the-coffin"
   - "seizing-surplus-ghost"
   - "tumbler-official"
+  - "the-son-who-cost-a-fortune"
 ---
 
 A man of Nanchang, whose father was an instructor at the Imperial College, was living in the capital with his father's posting.

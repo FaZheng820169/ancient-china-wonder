@@ -31,6 +31,7 @@ related:
   - "kao-chenghuang"
   - "xi-fangping"
   - "donghai-xiaofu"
+  - "the-tomb-called-gratitude"
 ---
 
 Ma Feng of Liyang was a provincial graduate without office, tutoring in the house of a family named Li in the west village.

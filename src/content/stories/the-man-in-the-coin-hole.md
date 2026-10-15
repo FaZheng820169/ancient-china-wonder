@@ -37,6 +37,7 @@ related:
   - "seizing-surplus-ghost"
   - "poor-ghosts-rich-ghosts"
   - "ghost-guarding-money"
+  - "the-osmanthus-with-no-scent"
 ---
 
 At the City God temple of Lu'an prefecture in Shanxi there lodged a strange guest who called himself Master of the Five Peaks. By his accent he was a man of the Yan-Zhao country, and every day he amused himself by turning the flowers and trees of the four seasons upside down.
