@@ -59,7 +59,9 @@ Enormous, and almost unread outside China, which is a scandal. Hong Mai collecte
 
 Because the Song state ran on paperwork, the Song underworld runs on paperwork too: offices, registers, quotas, transfers, audits. If you want the machinery of [the Courts of the Dead](/worldview/underworld) at full detail, it is here rather than anywhere else.
 
-**Here (24 tales):** [The Woman on the Road to Loufan](/stories/loufan-woman) · [The Temple Boy Who Became a Donkey](/stories/monk-donkey) · [Three Hundred Cash](/stories/three-hundred-cash) · [The Dead Man's Paper](/stories/dead-father-paper) · [The Protector-General](/stories/protector-general) · [Old Zhao and the Five Arrows](/stories/zhao-sanweng) · [The Magistrate Who Practised the Five Thunder Method](/stories/tang-xianzu) · [The White Snake of Tongzhou](/stories/white-snake-tongzhou) · and sixteen more
+**Here (36 tales):** [The Warrant That Sank the Boat](/stories/the-warrant-that-sank-the-boat) · [The Wife Who Died Every Afternoon](/stories/the-wife-who-died-every-afternoon) · [The Log in the Bed](/stories/the-log-in-the-bed) · [The Bamboo That Gathered Treasure](/stories/the-bamboo-that-gathered-treasure) · [The Crab With the Dipper on Its Back](/stories/the-crab-with-the-dipper) · [A Lifetime's Salary](/stories/a-lifetimes-salary) · [The Wizard Who Could Somersault](/stories/the-wizard-who-could-somersault) · [The Ghost-Seer of Genshan Gate](/stories/the-ghost-seer) · [The Tiger at the Fireside](/stories/the-tiger-at-the-fireside) · [The Woman on the Road to Loufan](/stories/loufan-woman) · [Three Hundred Cash](/stories/three-hundred-cash) · [The Dead Man's Paper](/stories/dead-father-paper) · [Old Zhao and the Five Arrows](/stories/zhao-sanweng) · [The White Snake of Tongzhou](/stories/white-snake-tongzhou) · and twenty-two more
+
+If you read only one thing here, read [The Warrant That Sank the Boat](/stories/the-warrant-that-sank-the-boat). It is the Song underworld in a single scene: a summons performed correctly, a culprit produced, a defence of paperwork, and a ritual master with no statute left to stand on.
 
 ## 6. Liaozhai Zhiyi — the summit (《聊斋志异》)
 

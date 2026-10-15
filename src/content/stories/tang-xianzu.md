@@ -31,6 +31,7 @@ related:
   - "demons-are-easier"
   - "dead-father-paper"
   - "shuming-hall"
+  - "the-wizard-who-could-somersault"
 ---
 
 Tang Xianzu of Shidang in Chizhou was the grandson of Tang Yungong, Vice Minister of War. In the fifth year of the Shaoxing reign he was magistrate of Jing county.

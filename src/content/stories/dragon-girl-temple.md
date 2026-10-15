@@ -31,6 +31,7 @@ related:
   - "ox-head-king"
   - "city-god-drunk"
   - "protector-general"
+  - "the-bamboo-that-gathered-treasure"
 ---
 
 The great river cuts through the Taihang range and flows east, with several dozen sheer rapids so violent that fish and turtles cannot stay. One of them is called the Seventh Girl Rapid. On the top of the mountain is a temple to the Dragon Girl, and below it a thousand households.

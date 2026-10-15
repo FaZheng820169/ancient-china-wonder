@@ -38,6 +38,7 @@ related:
   - "fengdu-magistrate"
   - "city-god-drunk"
   - "robber-ghost-confession"
+  - "the-warrant-that-sank-the-boat"
 ---
 
 South of the Yangtze there are many who love a lawsuit, and in the Wu country most of all. There was a certain father and son, greedy and sharp by nature, expert at drafting plaints.

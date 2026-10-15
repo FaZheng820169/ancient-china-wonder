@@ -31,6 +31,7 @@ related:
   - "fengdu-magistrate"
   - "guan-yu-false-verdict"
   - "li-tongpan"
+  - "the-ghost-seer"
 ---
 
 Shen Fengyu of Hangzhou was on the staff of a magistrate at Wukang. A superior office had sent a document ordering the arrest of a great river-and-sea pirate named Shen Yufeng, and a colleague of his named Yuan, teasing Shen, wrote the three characters Shen Fengyu upside down in red ink and said: "They are looking for you everywhere now."

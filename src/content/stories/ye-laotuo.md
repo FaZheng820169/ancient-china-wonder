@@ -31,6 +31,7 @@ related:
   - "nanchang-scholar"
   - "skull-breath"
   - "governing-ghosts-two-ways"
+  - "the-tiger-at-the-fireside"
 ---
 
 There was a man called Ye the Unshod. Nobody knew where he came from. He went bareheaded and barefoot, wore the same cotton robe winter and summer, and carried a bamboo mat.

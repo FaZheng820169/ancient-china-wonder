@@ -8,6 +8,8 @@ related:
   - "city-god-drunk"
   - "ox-head-king"
   - "dead-father-paper"
+  - "the-warrant-that-sank-the-boat"
+  - "the-crab-with-the-dipper"
 ---
 
 Chinese religion is usually described by its peaks — the Jade Emperor, the Queen Mother of the West, Guan Yu, Bao Zheng. But the tradition actually runs on a very large number of very small gods, and they are the ones who turn up in the stories.

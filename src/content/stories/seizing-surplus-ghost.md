@@ -31,6 +31,7 @@ related:
   - "song-dingbo"
   - "climbing-sunbeam"
   - "the-city-of-dung-beetles"
+  - "a-lifetimes-salary"
 ---
 
 Min Chu, a monk of the Fayun Temple in Guangling, was often on close terms with a merchant named Zhang of Zhongshan. Zhang died, and Chu held fasts and recited scriptures for him for several months.

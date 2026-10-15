@@ -32,6 +32,7 @@ related:
   - "plague-god"
   - "seizing-surplus-ghost"
   - "shunji-king"
+  - "the-wife-who-died-every-afternoon"
 ---
 
 Zou Zhiming of Yihuang in Fuzhou had a family rich in goods and suddenly fell ill of a plague disease, unconscious and not knowing people. One day in a lucid interval he told his wife to invite his uncle — his uncle, that is, his father's cousin, who was a monk in charge of the Linjiang temple and could recite the Peacock King Sutra.

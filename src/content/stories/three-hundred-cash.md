@@ -31,6 +31,7 @@ related:
   - "seizing-surplus-ghost"
   - "soul-jar"
   - "peacock-sutra"
+  - "a-lifetimes-salary"
 ---
 
 Xu Yuanhui of Lepo in Leping was a scholar. His father dreamed a guest in black came and said: "Yesterday I lent you three hundred cash. Today I return them."

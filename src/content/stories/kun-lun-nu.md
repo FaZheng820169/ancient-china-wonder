@@ -30,6 +30,7 @@ related:
   - "hong-xian"
   - "nie-yinniang"
   - "qiu-ran-ke"
+  - "the-bamboo-that-gathered-treasure"
 ---
 
 In the Dali era of the Tang there was a young guardsman named Cui, whose father was a high official and friendly with the greatest minister of the age. When the minister fell ill, Cui's father sent the boy to enquire after him.

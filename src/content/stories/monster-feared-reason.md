@@ -32,6 +32,7 @@ related:
   - "ye-laotuo"
   - "hanging-ghost-and-po"
   - "governing-ghosts-two-ways"
+  - "the-wizard-who-could-somersault"
 ---
 
 The rich old man Huang of Suzhou was over eighty and lived alone in an upper storey.

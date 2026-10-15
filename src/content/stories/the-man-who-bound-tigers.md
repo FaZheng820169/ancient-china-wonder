@@ -37,6 +37,7 @@ related:
   - "kun-lun-nu"
   - "qiu-ran-ke"
   - "the-farewell-feast"
+  - "the-tiger-at-the-fireside"
 ---
 
 The hills of Yizhou are steep and dangerous, and so there are many fierce tigers in them; the district magistrate used to order the hunters out after them, and often the hunters were the ones who got eaten.

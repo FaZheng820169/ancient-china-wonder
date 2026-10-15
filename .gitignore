@@ -10,3 +10,5 @@ dist/
 !.env.example
 
 .vercel
+tools/_src/
+_yj_*.html

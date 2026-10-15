@@ -32,6 +32,7 @@ related:
   - "robber-ghost-confession"
   - "widow-tian"
   - "hou-lin-arson"
+  - "the-woman-who-followed-him-home"
 ---
 
 A villager of Feiyuan Fort in Yifang county, Lan prefecture, named Nan Yan, was on his way to Loufan county. Resting partway on the road, he met a woman in plain white with a high coil of hair, about twenty, who bowed and asked: "I have come from Loufan and am going to Lan prefecture. I am walking alone and have lost my way. Which way should I go?" He pointed the way for her, and they parted.

@@ -32,6 +32,7 @@ related:
   - "gan-jiang-mo-ye"
   - "song-dingbo"
   - "donghai-xiaofu"
+  - "the-wife-who-died-every-afternoon"
 ---
 
 Xi Fangping lived in Dong'an. His father, Xi Lian, was a plain, stubborn, honest man who had quarrelled once with a rich family named Yang. Old Yang died first. Some years later Xi Lian fell ill, and as he lay dying he cried out that Yang had bribed the officers of the dead to have him beaten. His body swelled red all over, and he howled, and he died.

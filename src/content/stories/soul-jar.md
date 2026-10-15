@@ -31,6 +31,7 @@ related:
   - "li-tongpan"
   - "fengdu-magistrate"
   - "mai-hu-fen-nu-zi"
+  - "the-log-in-the-bed"
 ---
 
 Sorcery with talismans is at its worst in Yunnan and Guizhou.

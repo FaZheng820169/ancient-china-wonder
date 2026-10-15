@@ -30,6 +30,7 @@ related:
   - "death-god-cangue"
   - "fengdu-magistrate"
   - "ye-laotuo"
+  - "the-log-in-the-bed"
 ---
 
 Su Danlao of Hangzhou was a joker and a great mocker, and people disliked him for it.

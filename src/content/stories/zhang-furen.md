@@ -31,6 +31,7 @@ related:
   - "huapi"
   - "jiangwan-widow"
   - "west-lake-girl"
+  - "the-tomb-at-the-drill-ground"
 ---
 
 Qian Lüdao, whose courtesy name was Jiazhen, was of Xianyang in the capital region. In the Huangtong era of the Jin he was travelling and studying in Shang and Guo, and passing Hu county he pressed on greedily with the stages, with one servant only. It grew dark and he could no longer make out the road, so he trusted his horse and rode on until he came to a great house, and knocked on the gate to ask for lodging.

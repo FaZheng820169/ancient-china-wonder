@@ -32,6 +32,7 @@ related:
   - "ghost-borrows-rank"
   - "dragon-girl-temple"
   - "protector-general"
+  - "the-crab-with-the-dipper"
 ---
 
 In the autumn of the third year of the Daguan era, Lu Duanyun of Changle, Vice Minister of the Court of Imperial Sacrifices, was demoted for objecting to the ancestral temple and made magistrate of Ruijin in Qianzhou. His brother Duanao, who was in the capital bureau, was also dismissed and given the Chongyou Abbey on Mount Wuyi, and followed him to his post.

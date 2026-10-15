@@ -35,6 +35,7 @@ related:
   - "the-hand-in-the-coffin"
   - "skull-breath"
   - "the-official-with-no-qi"
+  - "the-red-snake-in-the-road"
 ---
 
 In Wu commandery, east of the Sanmao Temple, lived a man named Di, a servant of a certain Minister Sima. The Minister's daughter was haunted by a demon; a hundred remedies could not drive it. So he wrote a note and sent Di to Longhu Mountain to beg the Heavenly Master to cure her.
