@@ -35,6 +35,7 @@ related:
   - "the-merman-servant"
   - "the-body-outside"
   - "the-dog-maid"
+  - "the-man-who-bound-tigers"
 ---
 
 A girl of Qinchuan named Huo Xiaoying was of extraordinary beauty. Her father quarrelled with a local magnate over a field boundary; the magnate framed him on another charge, and the old man died in prison. The mother wept: "We have no man in the house — who will avenge my husband? I fear his white bones will lie unjustly buried, a black gaol for a thousand autumns!"
