@@ -28,6 +28,7 @@ related:
   - "the-planchette-showed-the-questions"
   - "the-foxs-elixir"
   - "listening-for-the-omen"
+  - "the-perfected-man-of-fuling"
 ---
 
 The oracle of Western fantasy is a **warning**. A prophecy says the king will die by his grandson's hand, and the rest of the story is the king's attempt to prevent it — and the attempt is what kills him. The engine is the gap between knowing and being able to do anything about it.

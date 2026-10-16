@@ -23,6 +23,8 @@ related:
   - "qiuding-in-the-underworld"
   - "the-girl-ghost-who-filed-suits"
   - "the-ghost-who-bought-a-son"
+  - "the-judge-of-the-west-lake"
+  - "the-ghost-who-came-home"
 ---
 
 Every soul in the Chinese universe passes, after death, through the **Difu (地府)** — the Earth Administration — and the first thing to understand about it is that it is an administration.

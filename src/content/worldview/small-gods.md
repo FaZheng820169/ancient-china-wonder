@@ -28,6 +28,10 @@ related:
   - "the-goddess-of-the-favorable-winds"
   - "not-every-god-was-virtuous"
   - "the-headless-stone-men-of-waxie"
+  - "the-earth-god-who-bargained"
+  - "the-god-who-borrowed-two-horses"
+  - "the-timber-the-storm-delivered"
+  - "the-ghostly-battle-on-the-sandbar"
 ---
 
 Chinese religion is usually described by its peaks — the Jade Emperor, the Queen Mother of the West, Guan Yu, Bao Zheng. But the tradition actually runs on a very large number of very small gods, and they are the ones who turn up in the stories.
