@@ -32,6 +32,8 @@ related:
   - "the-god-who-borrowed-two-horses"
   - "the-timber-the-storm-delivered"
   - "the-ghostly-battle-on-the-sandbar"
+  - "the-girl-claimed-by-the-neighbor-shrine"
+  - "the-sorcerer-and-the-seaside-shrine"
 ---
 
 Chinese religion is usually described by its peaks — the Jade Emperor, the Queen Mother of the West, Guan Yu, Bao Zheng. But the tradition actually runs on a very large number of very small gods, and they are the ones who turn up in the stories.

@@ -33,6 +33,8 @@ related:
   - "the-girl-who-read-faces"
   - "the-soldier-who-kept-his-word"
   - "the-ghost-who-followed-him-through-three-lives"
+  - "the-wife-taken-by-the-lake-dragon"
+  - "the-wife-summoned-from-the-other-side"
 ---
 
 In Western fantasy the union between a human and a non-human is almost always a **transgression** — a forbidden love, or a fairy's test that the mortal fails. Either way the point is the crossing of the line, and the story is over when the line is crossed.

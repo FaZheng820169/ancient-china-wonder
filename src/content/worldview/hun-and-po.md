@@ -12,6 +12,10 @@ related:
   - "li-hun-ji"
   - "ghost-of-a-ghost"
   - "the-corpse-that-does-not-become-a-ghost"
+  - "the-ox-that-bore-his-name"
+  - "the-physician-who-burned-with-aconite"
+  - "the-general-who-punched-a-ghost"
+  - "the-girl-claimed-by-the-neighbor-shrine"
 ---
 
 A living person in this universe is a composite. Two souls inhabit one body, and they have different natures, different appetites, and different destinations.

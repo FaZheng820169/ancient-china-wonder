@@ -17,6 +17,10 @@ related:
   - "the-pavilion-of-the-great-turtle"
   - "the-bronze-bell-of-fuzhou"
   - "the-goddess-of-the-favorable-winds"
+  - "the-four-generals-and-the-river-dragon"
+  - "the-water-people-of-dingtao"
+  - "the-wife-taken-by-the-lake-dragon"
+  - "the-flood-that-rose-from-the-well"
 ---
 
 Forget the dragon of Western fantasy — the winged hoarder on a mountain of gold. The Chinese **long (龙)** is something else entirely: a **god of water**, and a member of the celestial civil service.

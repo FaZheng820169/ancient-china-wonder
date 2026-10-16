@@ -13,6 +13,9 @@ related:
   - "lu-pan"
   - "xi-fangping"
   - "the-iron-pill-of-the-king-of-hell"
+  - "the-scholar-who-returned-from-the-court-of-death"
+  - "the-brother-who-traded-a-sickness"
+  - "the-sorcerer-and-the-seaside-shrine"
 ---
 
 Most underworlds are somewhere else. Fengdu is in Sichuan.
