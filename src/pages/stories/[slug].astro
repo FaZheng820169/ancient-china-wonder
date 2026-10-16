@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { SITE } from '../../consts';
+import { inline } from '../../utils/inline';
 
 export async function getStaticPaths() {
   const stories = await getCollection('stories');
@@ -107,7 +108,7 @@ const jsonLd = [
             <summary>Original classical Chinese text · 原文</summary>
             <div class="fold-body">
               <p class="han">{d.original}</p>
-              {d.originalNote && <p class="han-note">{d.originalNote}</p>}
+              {d.originalNote && <p class="han-note" set:html={inline(d.originalNote)} />}
             </div>
           </details>
         )
@@ -121,7 +122,7 @@ const jsonLd = [
               {d.notes.map((n) => (
                 <>
                   <dt>{n.term}</dt>
-                  <dd>{n.text}</dd>
+                  <dd set:html={inline(n.text)} />
                 </>
               ))}
             </dl>

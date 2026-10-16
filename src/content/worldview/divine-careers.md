@@ -15,6 +15,7 @@ related:
   - "stabbing-the-spring"
   - "the-judge-answers-questions"
   - "the-god-nobody-could-name"
+  - "lord-qiu-becomes-a-water-god"
 ---
 
 It is tempting to read the Chinese pantheon as a set of beings who simply *are* divine. The texts do not support it. In zhiguai and in the two great Song-Qing collections, divinity behaves exactly like an office in the imperial bureaucracy: it is granted, documented, transferred, audited, and revoked.
@@ -47,7 +48,7 @@ So the same deity can be simultaneously:
 
 The 掠剩鬼 in 《掠剩鬼》 is not a god at all but a damned soul with an assignment: the profits of officials and merchants all have a fixed quota, and whatever is gained above it he claws back. He says plainly that there are many of his kind in the world of men, and points them out in the street.
 
- divinity here is a posting that can be given to the dead as punishment or as employment, and it comes with a remit, a quota and an address.
+So divinity here is a posting that can be given to the dead as punishment or as employment, and it comes with a remit, a quota and an address.
 
 ## Impeachment
 

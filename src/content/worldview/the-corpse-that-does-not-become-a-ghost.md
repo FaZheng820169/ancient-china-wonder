@@ -22,6 +22,7 @@ related:
   - "skull-breath"
   - "borrowed-body"
   - "the-wet-nurses-relics"
+  - "two-tales-of-corpse-fragrance"
 ---
 
 A modern reader arrives at the walking dead already knowing the rules: something bites someone, the condition spreads, and by the end of the film the question is how far it has got. Almost none of that transfers. In these tales nobody is turned. There is no bite, no agent, no incubation, and no way to catch it from a corpse — because what is standing up in the room is not a disease and was never contagious.

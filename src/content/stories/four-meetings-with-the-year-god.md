@@ -7,7 +7,7 @@ source: "Zibuyu (What the Master Would Not Discuss)"
 sourceZh: "子不语"
 author: "Yuan Mei"
 compiled: "c. 1788"
-tags: ["Small Gods", "Deity", "Fate", "Monsters"]
+tags: ["Small Gods", "Deity", "Fate", "Monster"]
 excerpt: "Four separate encounters with the same class of being. A man beats the Year God with a stick and passes his examination. A family digs one out of the ground while sinking a well and the head of the house dies. A red-faced god with three knives goes into a mourning house. A paper slip appears in a man's cap with one character on it."
 featured: false
 order: 225

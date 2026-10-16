@@ -12,6 +12,7 @@ related:
   - "chang-e"
   - "goddess-zigu"
   - "the-taoist-who-came-to-supper"
+  - "the-folding-immortal"
 ---
 
 Western readers tend to translate both words as 'god', and miss the distinction on which half the mythology runs. In this universe, a **shen (神)** and a **xian (仙)** are different kinds of being, arrived at by opposite roads.

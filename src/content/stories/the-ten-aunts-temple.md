@@ -7,7 +7,7 @@ source: "Xieduo (Harmonious Warnings)"
 sourceZh: "谐铎"
 author: "Shen Qifeng"
 compiled: "c. 1790"
-tags: ["Gods", "Satire", "Poetry"]
+tags: ["Deity", "Satire", "Poetry"]
 excerpt: "A temple near Duqu holds ten beautiful women. Nobody remembers that it was built for Du Fu, whose office of Reminder sounded to country ears like Ten Aunts."
 featured: true
 order: 119

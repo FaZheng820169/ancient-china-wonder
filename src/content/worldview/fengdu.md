@@ -12,6 +12,7 @@ related:
   - "fengdu-magistrate"
   - "lu-pan"
   - "xi-fangping"
+  - "the-iron-pill-of-the-king-of-hell"
 ---
 
 Most underworlds are somewhere else. Fengdu is in Sichuan.

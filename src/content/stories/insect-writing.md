@@ -7,7 +7,7 @@ source: "Xieduo (Harmonious Warnings)"
 sourceZh: "谐铎"
 author: "Shen Qifeng"
 compiled: "c. 1790"
-tags: ["Ghosts", "Underworld", "Poetry"]
+tags: ["Ghost", "Underworld", "Poetry"]
 excerpt: "A girl who was too clever to live dies at sixteen and is buried under a plane tree. Then green caterpillars come and eat characters into the leaves — and what they write is a guidebook to the land of the dead."
 featured: true
 order: 159

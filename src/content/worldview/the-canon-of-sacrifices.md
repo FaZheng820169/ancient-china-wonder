@@ -15,6 +15,7 @@ related:
   - "ox-head-king"
   - "the-fifth-young-lord"
   - "the-warrant-that-sank-the-boat"
+  - "lord-qiu-becomes-a-water-god"
 ---
 
 The gods of these stories are not all gods. Some of them are licensed and some are not, and the difference is administrative.
