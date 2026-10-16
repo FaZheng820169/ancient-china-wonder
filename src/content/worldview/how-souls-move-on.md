@@ -19,6 +19,7 @@ related:
   - "seventy-days-of-thunder"
   - "the-house-in-the-cypress-wood"
   - "the-man-from-before-pangu"
+  - "the-man-who-remembered-his-first-wife"
 ---
 
 Chinese fiction has no single account of what happens after death, because it never needed one. A story needs a *mechanism*, and across two thousand years the tradition built up a shelf of them. They do not contradict each other so much as they compete, and a good tale picks the one it needs.

@@ -35,6 +35,7 @@ related:
   - "the-woman-of-the-black-pine-valley"
   - "summoned-as-a-witness"
   - "the-ghost-who-sued-an-actor"
+  - "the-ghost-sealed-in-the-prison"
 ---
 
 There is a moment in a great many of these stories where somebody does something that looks, to a modern reader, like a genre error. A village walks out at dawn with banners and gongs, and **files a petition with a well**. A magistrate sentenced to death by a star is told to write a memorial and burn it. A medium who cannot get rid of a ghost does not pray harder; he transfers the case to another office. A woman is made to sign a statement.
