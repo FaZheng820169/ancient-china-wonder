@@ -16,6 +16,10 @@ related:
   - "shaggy-head"
   - "the-woman-with-the-cat"
   - "the-wildcat-wife"
+  - "the-collar-of-wood-and-iron"
+  - "the-man-from-before-pangu"
+  - "when-the-stones-spoke"
+  - "the-eye-on-its-back"
 ---
 
 The mortal realm has a second population, mostly invisible, and its census categories matter.

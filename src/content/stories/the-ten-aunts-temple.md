@@ -32,6 +32,7 @@ related:
   - "city-god-drunk"
   - "ox-head-king"
   - "protector-general"
+  - "the-god-nobody-could-name"
 ---
 
 The Temple of the Ten Aunts stands west of Duqu. Nobody knows in what age it was built. Its lintels are of iris and its beams of cassia, its walls peppered and its curtains of thoroughwort, and within are set up ten women in kingfisher plumes and bright ear-pendants, every one of them a beauty.

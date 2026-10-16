@@ -13,6 +13,7 @@ related:
   - "one-eyed-five"
   - "song-dingbo"
   - "gui-bi-jiang-san-mang"
+  - "the-eye-on-its-back"
 ---
 
 In most Western supernatural fiction, a ghost is a threat. It has power, you have none, and the story is about whether you survive it.

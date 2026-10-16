@@ -15,6 +15,7 @@ related:
   - "the-examination-notice"
   - "fox-licentiate"
   - "goddess-zigu"
+  - "the-register-of-the-unranked"
 ---
 
 In a Western horror film the person who meets the ghost is usually the one who moved into the wrong house, or wandered into the wrong wood. In the Chinese strange tale the person who meets the ghost is almost always **the scholar** — the man with a book open, a poem to write, a degree in hand. This is not a coincidence of plot. It is a structural fact about a universe in which **text is the medium of power**, and the literate man is the one who handles text.

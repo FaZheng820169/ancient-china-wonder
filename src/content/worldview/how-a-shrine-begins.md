@@ -8,6 +8,7 @@ related:
   - "the-ten-aunts-temple"
   - "ox-head-king"
   - "dragon-girl-temple"
+  - "the-god-nobody-could-name"
 ---
 
 The gods of the small pantheon — City God, Earth God, the Lady of the Ford, the General Who Protects the State — tend to be treated as fixtures. But a shrine is not a fixture. It is a decision, made by somebody, at a date, for a reason. And the texts preserve all four of the reasons, including the one that is a pure accident.

@@ -42,6 +42,7 @@ related:
   - "city-god-drunk"
   - "thirteen-cats"
   - "poor-ghosts-rich-ghosts"
+  - "the-judge-answers-questions"
 ---
 
 The business of Qingxi and the cat is recorded in the bing division of this work.

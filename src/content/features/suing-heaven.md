@@ -11,6 +11,10 @@ related:
   - "widow-tian"
   - "ox-head-king"
   - "robber-ghost-confession"
+  - "the-true-judge-bao-and-the-false"
+  - "the-footbinding-case"
+  - "intercession-in-the-underworld"
+  - "the-ghost-who-sued-an-actor"
 ---
 
 In most Western fantasy, when a god wrongs you, the story becomes a fight. You defy, you steal fire, you get punished, and the shape of the tale is rebellion.

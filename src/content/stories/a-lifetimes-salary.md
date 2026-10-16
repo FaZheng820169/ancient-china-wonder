@@ -38,6 +38,7 @@ related:
   - "copyists-four-seals"
   - "the-clerk-who-died-twice"
   - "twelve-years-and-little-red"
+  - "the-judge-answers-questions"
 ---
 
 Guo Daren's clearing of the haunt at Hezhou is recorded in the geng division of this work.

@@ -31,6 +31,7 @@ related:
   - "plague-god"
   - "city-god-drunk"
   - "dragon-girl-temple"
+  - "the-god-nobody-could-name"
 ---
 
 Zhuang Guangyu, a villager of Liyang, dreamed of a monster with horns growing out of its head, which knocked at the door and came in and said: "I am King Ox-Head. God has commanded me to be offered blood food in this region. Carve a statue of me and worship me, and there will certainly be a response."

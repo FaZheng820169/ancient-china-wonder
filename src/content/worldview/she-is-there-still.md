@@ -15,6 +15,7 @@ related:
   - "the-candle-flowers"
   - "twelve-years-and-little-red"
   - "the-clerk-who-died-twice"
+  - "when-the-stones-spoke"
 ---
 
 A modern reader comes to a ghost story expecting it to close. The thing will be driven off, or it will be exposed for what it is, or the man will die, and in any of the three cases the account is finished and can be put down. A very large class of classical Chinese strange tales declines to do this. They stop in the middle of things, and the last line is a date.

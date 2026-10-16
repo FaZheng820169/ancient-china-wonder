@@ -39,6 +39,7 @@ related:
   - "tang-xianzu"
   - "monster-feared-reason"
   - "the-official-with-no-qi"
+  - "the-collar-of-wood-and-iron"
 ---
 
 There was a medium called Zhang, in Huaijin township in Wuyuan, who was expert in bewitchments and had the power to bring calamity on people. He would demand cash and rice from rich households, and if they gave a little less than he wanted he would leap and caper about — it is called turning somersaults — and that household would at once come out in sores, and sometimes there would be a death. Everyone was in awe of him.

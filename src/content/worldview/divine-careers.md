@@ -12,6 +12,8 @@ related:
   - "the-clerk-who-died-twice"
   - "the-nine-young-dragons"
   - "stabbing-the-spring"
+  - "the-judge-answers-questions"
+  - "the-god-nobody-could-name"
 ---
 
 It is tempting to read the Chinese pantheon as a set of beings who simply *are* divine. The texts do not support it. In zhiguai and in the two great Song-Qing collections, divinity behaves exactly like an office in the imperial bureaucracy: it is granted, documented, transferred, audited, and revoked.

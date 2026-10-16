@@ -12,6 +12,7 @@ related:
   - "kao-chenghuang"
   - "enrolment-of-ghosts"
   - "climbing-sunbeam"
+  - "the-man-from-before-pangu"
 ---
 
 Every story in this library happens inside a three-storey universe.

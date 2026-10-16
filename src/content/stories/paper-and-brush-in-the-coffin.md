@@ -34,6 +34,7 @@ related:
   - "the-father-in-law-with-the-iron-ruler"
   - "xi-fangping"
   - "the-litigation-writers"
+  - "summoned-as-a-witness"
 ---
 
 Fang Yu of Poyang county was a clerk in the prefectural administration. He had a feud with a ruffian of the town, Yang the Fifth, who worked as a broker. Yu was forever being pushed around by him.

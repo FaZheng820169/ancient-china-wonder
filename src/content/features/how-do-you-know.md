@@ -17,6 +17,8 @@ related:
   - "death-god-cangue"
   - "the-wine-pressed-from-bone-marrow"
   - "twelve-years-and-little-red"
+  - "when-the-stones-spoke"
+  - "the-man-from-before-pangu"
 ---
 
 The first question anyone asks about a ghost story is whether it is true. Chinese writers of the strange asked it themselves, at length, for about fourteen hundred years — and never once arrived at a common answer. What they produced instead is more interesting: four distinct, fully worked-out positions on what kind of knowledge a story about a ghost actually is.
