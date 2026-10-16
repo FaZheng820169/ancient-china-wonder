@@ -26,6 +26,9 @@ const byTag = all.filter(
 );
 const related = [...explicit, ...byTag].slice(0, 3);
 
+const entries = await getCollection('worldview');
+const linkedEntries = entries.filter((e) => e.data.related.includes(story.id)).slice(0, 6);
+
 const desc = d.excerpt;
 
 const site = (Astro.site ?? new URL(SITE.url)).toString().replace(/\/$/, '');
@@ -131,6 +134,20 @@ const jsonLd = [
         {d.compiled && <>, {d.compiled}</>}. The original text is in the public domain; this English
         rendering and the accompanying notes are original work.
       </div>
+
+      {
+        linkedEntries.length > 0 && (
+          <div class="entry-links">
+            <b>Where this fits in the universe:</b>{' '}
+            {linkedEntries.map((e, i) => (
+              <>
+                {i > 0 && ' · '}
+                <a href={`/worldview/${e.id}`}>{e.data.title}</a>
+              </>
+            ))}
+          </div>
+        )
+      }
     </div>
   </div>
 

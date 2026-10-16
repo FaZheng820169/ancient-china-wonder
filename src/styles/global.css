@@ -645,6 +645,27 @@ a.pill:hover {
   color: var(--ink);
 }
 
+.entry-links {
+  background: var(--wash);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--cinnabar);
+  padding: 14px 20px;
+  font-size: 0.9rem;
+  color: var(--body);
+  margin: 0 0 34px;
+}
+.entry-links b {
+  color: var(--ink);
+}
+.entry-links a {
+  color: var(--cinnabar);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(166, 44, 33, 0.28);
+}
+.entry-links a:hover {
+  border-bottom-color: var(--cinnabar);
+}
+
 details.fold {
   border: 1px solid var(--rule);
   border-radius: var(--radius);
