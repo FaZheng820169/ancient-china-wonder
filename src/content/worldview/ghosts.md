@@ -37,6 +37,10 @@ related:
   - "the-torturer-and-the-life-taking-ghost"
   - "the-ghost-who-came-home"
   - "the-ghostly-battle-on-the-sandbar"
+  - "the-vet-who-treated-the-dead"
+  - "the-ghost-who-shrank-before-a-soldier"
+  - "the-ghost-tutor-of-broom-village"
+  - "the-poets-through-the-window"
 ---
 
 A **ghost (鬼, *gui*)** in this universe is not a different species from a human. It is a **human in the wrong state**: a soul that, for some reason, was never processed through the [Courts of the Dead](/worldview/underworld), and so lingers in the mortal realm — off the register, out of the queue, stuck.

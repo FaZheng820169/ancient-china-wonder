@@ -22,6 +22,7 @@ related:
   - "the-eye-on-its-back"
   - "the-chicken-footed-people"
   - "the-tiger-who-carried-wenchangs-head"
+  - "the-girl-with-the-lotus-root"
 ---
 
 The mortal realm has a **second population**, mostly invisible, and its census categories matter. Confuse them and a story loses its logic, because the three categories obey three different sets of rules.

@@ -4,6 +4,8 @@ subtitle: "A field guide to the Shan Hai Jing, the oldest and strangest bestiary
 excerpt: "Nine-headed birds, flying fish, an oracle-beast that knows every spirit's weakness, and a glutton with no body. Ten entries from the catalogue that invented the Chinese monster."
 published: 2026-02-10
 order: 3
+image: "/images/stories/shan-hai-jing-creatures.jpg"
+imageAlt: "An opened ancient Chinese bestiary with illustrations of mythical beasts drawn in the margin — a nine-tailed fox, a nine-headed bird, a one-legged ox, a qilin and a taotie mask — beside a map of mountains and seas, ink wash painting"
 related:
   - "monsters-and-yaoguai"
   - "fox-spirits"

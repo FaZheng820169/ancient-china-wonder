@@ -18,6 +18,8 @@ related:
   - "the-boys-who-chased-butterflies"
   - "the-thunder-god-and-his-fire-sword"
   - "the-perfected-man-of-fuling"
+  - "the-lotus-immortal-who-tested-a-son"
+  - "why-the-literary-star-god-is-blue"
 ---
 
 Western readers tend to translate both words as 'god', and miss the distinction on which half the mythology runs. In this universe, a **shen (神)** and a **xian (仙)** are different kinds of being, arrived at by opposite roads.

@@ -16,6 +16,7 @@ related:
   - "the-physician-who-burned-with-aconite"
   - "the-general-who-punched-a-ghost"
   - "the-girl-claimed-by-the-neighbor-shrine"
+  - "the-girl-with-the-lotus-root"
 ---
 
 A living person in this universe is a composite. Two souls inhabit one body, and they have different natures, different appetites, and different destinations.

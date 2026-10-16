@@ -25,6 +25,7 @@ related:
   - "the-ghost-who-bought-a-son"
   - "the-judge-of-the-west-lake"
   - "the-ghost-who-came-home"
+  - "the-vet-who-treated-the-dead"
 ---
 
 Nothing in this cosmos is less like a hell than the Chinese hell. There is no rebel angel, no war for souls, no eternity of fire for its own sake. There is an **administration**: a capital city, a chain of command, a filing system, an intake desk, a sentence with a release date, and an exit interview. The dead are not damned. They are **processed**.

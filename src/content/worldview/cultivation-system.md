@@ -15,6 +15,8 @@ related:
   - "the-folding-immortal"
   - "the-rite-of-the-whole-bones"
   - "lu-dongbin-tests-a-hermit"
+  - "the-ghost-who-shrank-before-a-soldier"
+  - "the-lotus-immortal-who-tested-a-son"
 ---
 
 Underneath the marvels, this universe runs on a coherent set of rules for how one kind of being becomes another. Later fantasy readers will find the system oddly familiar — Chinese web-novels made it famous — but its foundations are two thousand years old, and the classical stories all assume it.
