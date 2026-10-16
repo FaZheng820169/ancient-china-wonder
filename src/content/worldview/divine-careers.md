@@ -16,6 +16,7 @@ related:
   - "the-judge-answers-questions"
   - "the-god-nobody-could-name"
   - "lord-qiu-becomes-a-water-god"
+  - "the-land-god-of-jianju-abbey"
 ---
 
 It is tempting to read the Chinese pantheon as a set of beings who simply *are* divine. The texts do not support it. In zhiguai and in the two great Song-Qing collections, divinity behaves exactly like an office in the imperial bureaucracy: it is granted, documented, transferred, audited, and revoked.

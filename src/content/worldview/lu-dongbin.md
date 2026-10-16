@@ -13,6 +13,7 @@ related:
   - "zhao-sanweng"
   - "the-bone-of-arrogance"
   - "the-swordsman-who-came-for-the-judge"
+  - "lu-dongbin-tests-a-hermit"
 ---
 
 Of all the immortals, the Chinese have loved **Lü Dongbin (吕洞宾)** the longest and the most warmly — and the foundation myth of his cult is, essentially, the tale of *The World Inside a Pillow*.

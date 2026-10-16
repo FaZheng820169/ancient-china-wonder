@@ -14,6 +14,8 @@ related:
   - "the-taoist-who-came-to-supper"
   - "the-folding-immortal"
   - "the-gods-know-no-textual-criticism"
+  - "the-thunder-god-answers-a-memo"
+  - "the-boys-who-chased-butterflies"
 ---
 
 Western readers tend to translate both words as 'god', and miss the distinction on which half the mythology runs. In this universe, a **shen (神)** and a **xian (仙)** are different kinds of being, arrived at by opposite roads.

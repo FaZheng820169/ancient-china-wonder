@@ -19,6 +19,8 @@ related:
   - "the-clerk-who-died-twice"
   - "intercession-in-the-underworld"
   - "the-judge-answers-questions"
+  - "axu-in-the-underworld"
+  - "qiuding-in-the-underworld"
 ---
 
 Every soul in the Chinese universe passes, after death, through the **Difu (地府)** — the Earth Administration — and the first thing to understand about it is that it is an administration.
