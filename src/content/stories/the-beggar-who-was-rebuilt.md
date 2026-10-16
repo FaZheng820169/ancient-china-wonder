@@ -16,7 +16,7 @@ image: "/images/stories/the-beggar-who-was-rebuilt.jpg"
 imageAlt: "Ink-wash illustration: a ragged beggar asleep beneath the colonnade of the Hall of the Ten Kings."
 original: |
   人生等七尺耳。彼餍膏粱，衣文绣，日拥娇妻美妾以为乐，而我寒馁若此。何狠心阎老，不公一至此哉？……命鬼判先易其舌，曰：「是当日将军曲良翰用以啖驼峰炙者。」……又易其肩背，曰：「是当日昭王被青凤毛裘者。」……并命易其下体，曰：「是当日汉帝入温柔乡，占三千粉黛者。」……妻曰：「满身都换却，只未换得石季伦豪富命也。」
-originalNote: "From 《換形乞丐》, Xieduo juan 7. Told at a dinner party by the Hanlin scholar Li Mozhuang of Sichuan; Shen Qifeng records it as the man told it."
+originalNote: "From 《換形乞丐》, Xieduo juan 5. Told at a dinner party by the Hanlin scholar Li Mozhuang of Sichuan; Shen Qifeng records it as the man told it."
 notes:
   - term: "Where he sleeps"
     text: "He begs with his wife in Wu and sleeps under the left colonnade of the Hall of the Ten Kings. He is literally lodging in the courthouse where he means to file his complaint, and it takes one night for the court to answer him."

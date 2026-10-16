@@ -16,7 +16,7 @@ image: "/images/stories/heart-of-ice.jpg"
 imageAlt: "Ink-wash illustration: a scarred widow in coarse undyed mourning dress spinning by an oil lamp while a boy reads at a small table."
 original: |
   妾生长蓬门，亦知闺范。只因迈父无依，全孝不能保节。妾之不贞，命也！……高曰：「甑已破矣，尚夸完整，所谓强颜耳，曷足贵乎？」……淑荪曰：「若此，则我一生未了事，赖尔支持，虽死何憾焉？」……女曰：「迂儒目短，未可料人。实相告，妹即绣珠也！……故借女儿身，以明初志，使知不得已之破甑，未尝不同完整。」
-originalNote: "From 《蘸婦冰心》, Xieduo juan 10. 蘸 — to dip; a woman who dips the nuptial cup twice. The word for remarriage is the same word as for a second dipping."
+originalNote: "From 《蘸婦冰心》, Xieduo juan 9. 蘸 — to dip; a woman who dips the nuptial cup twice. The word for remarriage is the same word as for a second dipping."
 notes:
   - term: "The second dipping"
     text: "再蘸 is the ordinary word for a woman's remarriage, and 蘸 is to dip — the cup, the brush. Shen Qifeng chooses it as the title because it is a word about a surface touching a liquid, and not a word about desire. The whole tale turns on the difference between what a woman's body did and what she intended."

@@ -16,7 +16,7 @@ image: "/images/stories/the-face-wheel.jpg"
 imageAlt: "Ink-wash illustration: a three-bay hall with a gold plaque, a Daoist-robed scholar offering two albums of painted faces to a young man."
 original: |
   弟厌世久矣！因生前颇善绘事，被转轮王征作幕客，凡一切众生，先绘其耳目口鼻，然后降生人世。……赵先观第一册，签曰「贵者相」，状貌类皆丑拙；稍次者，亦麻胡黑胖。继观第二册，鉴曰「贱者相」，姣好如妇人女子……康哂曰：「兄何见之卑也？……惟贫贱者流，困乏不能自立，俾得一副好面目，上可以沐贵人光宠，下亦插身粉黛场中，窃断袖分桃之爱。此予救世之婆心，造形之善术也！」
-originalNote: "From 《面目輪迴》, Xieduo juan 3. The office named on the plaque — 面目轮回 — is not attested anywhere else; Shen Qifeng appears to have invented it."
+originalNote: "From 《面目輪迴》, Xieduo juan 6. The office named on the plaque — 面目轮回 — is not attested anywhere else; Shen Qifeng appears to have invented it."
 notes:
   - term: "The drawing office"
     text: "凡一切众生，先绘其耳目口鼻，然后降生人世 — for every living thing, the eyes, ears, mouth and nose are drawn first, and only then is it born into the world. Faces are not grown. They are **issued**, by a department, from a pattern book, before birth. This is the same administrative reading of the cosmos as in 神職 and 立廟."

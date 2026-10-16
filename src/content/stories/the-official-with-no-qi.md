@@ -16,7 +16,7 @@ image: "/images/stories/the-official-with-no-qi.jpg"
 imageAlt: "Ink-wash illustration: an old man at a market stall examining the breath of a standing official, with a queue of capped men behind him."
 original: |
   京都琉璃厂，有老翁揭榜于市，曰：「能望气识人官职。」于是登仕版者，肩摩而至。老翁延之坐，俱令嘘气，自乃从旁谛审之，曰：「此金气也，为翰苑；此木气也，为部曹；此水气也，为中翰；此火气也，为御史；此土气也，为国子监。」言之无不吻合者。忽一人，嘘气久之，老翁沉吟再四，似不解其何官，曰：「异哉！似金气而不秀，似木气而不旺，似水气而不清，似火气而不烈，似土气而不厚，其在不儒不吏之间欤！」
-originalNote: "From 《無氣官》, Xieduo juan 9. The closing comment is a comic essay stitched together entirely from phrases of the Four Books; a portion is translated below."
+originalNote: "From 《無氣官》, Xieduo juan 7. The closing comment is a comic essay stitched together entirely from phrases of the Four Books; a portion is translated below."
 notes:
   - term: "Reading the vapour"
     text: "望气 — the old physiognomy of vapour, used on cities before a siege and on men before an appointment. Here it is applied to the breath. The five vapours map to the five phases and, through them, to five kinds of office: metal is the Hanlin Academy, wood the ministries, water the drafting office, fire the censors, earth the Imperial College."

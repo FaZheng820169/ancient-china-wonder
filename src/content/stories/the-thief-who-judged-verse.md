@@ -16,7 +16,7 @@ image: "/images/stories/the-thief-who-judged-verse.jpg"
 imageAlt: "Ink-wash illustration: a ragged burglar with one hand flat on a lamp-lit desk of poems while the householder rises from bed."
 original: |
   长洲顾兰畹先生，居毛氏废园，杜门却客，吟诗自娱。一夕，薄饮而卧，闻击桌声甚厉，醒而视之，一人在灯下翻闽诗稿，吟咏再四，拍案起立曰：「妙哉！青莲、浣花之嗣音也。」……其人曰：「实相告：予北郭之偷儿也。亲老家贫，无以供甘旨。入先生室，冀有所获，适见案上诗，触予夙好，不觉狂吟，有惊台驾。」
-originalNote: "From 《能詩賊》, Xieduo juan 7. Complete translation; this is one of the shortest tales in the collection."
+originalNote: "From 《能詩賊》, Xieduo juan 6. Complete translation; this is one of the shortest tales in the collection."
 notes:
   - term: "Qinglian and Huanhua"
     text: "青莲、浣花 — the two by-names of Li Bai and Du Fu. Li Bai called himself the Master of Qinglian; Du Fu's cottage stood on Huanhua Brook in Chengdu. The thief does not flatter. He names the two greatest poets of the Tang, then immediately begins cutting lines."

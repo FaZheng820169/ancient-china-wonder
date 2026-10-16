@@ -20,7 +20,7 @@ original: |
   喜儿外朴内慧，善伺夫人意旨。夫人钟爱，几齿诸子女行。夜辄引以为戏，时出金缠臂，银约指，于黑夜搏弄，能辨其色高下。或取千钱散布暗室中，令喜儿往拾，不遗一钱。尝谓太常曰：“红线掌笺，芳姿咏扇，即刘家俊婢诵得《鲁灵光殿赋》，总不似我如愿儿，胜婆利市碧眼贾也。”
   一夕，太常秉烛内室，为吏部某公作墓志，急欲征事班、史，遣喜儿于书架上取第几部第几卷书。喜儿噭声而去，往返数次，徒手而来。诘之，痴立不语。大常曰：“暗中摸索，本非易事。”因自起持烛出外，拣之架上，其书宛然。笑谓夫人曰：“卿家碧眼贾，今亦迷五色哉？”夫人不解，但咎其懒。喜儿曰：“夫人误矣！昔阿娘中年不育，祈嗣杨太尉祠，命以座下犬托生为女。故婢子遍体贱骨，唯双眸独炯。但犬之为物，遇金银什物，虽黑夜能见之。若文章词翰，纵光天化日中，瞪目不知为何物，况于昏暮间求之乎？”夫人怃然为间曰：“弃人用犬，宜明于小而暗于犬也。自今以后，吾知悔矣。”太常曰：“不然！眼前碌碌，岂止若辈？凡遇财物则双眼俱明，遇文字则一丁不识，皆犬之种类耳。奴价倍婢，未是知言。”夫人乃大笑，而喜儿之宠不衰。
   铎曰：“朱氏金铃，梅花度曲，陆生黄耳，洛下传书。谁谓文章词翰，非畜类所敢近哉？但度曲而不知曲中之义，传书而未识书上之文，弃人用犬，终非长策。”
-originalNote: "From 《犬婢》, Xieduo juan 8. A maid reborn from a dog sees valuables in the dark but not books."
+originalNote: "From 《犬婢》, Xieduo juan 7. A maid reborn from a dog sees valuables in the dark but not books."
 notes:
   - term: "Hongxian and the clever maids (红线、刘家俊婢)"
     text: "The lady compares her maid to Hongxian, the legendary maid who stole a general's box to avert a war, and to a Liu household maid who could recite the Lu Lingguang Palace rhapsody. The joke is that her 'wonder-maid' outdoes them all at one trick: she sees coin and jewellery in the dark."

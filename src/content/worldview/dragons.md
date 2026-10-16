@@ -13,6 +13,7 @@ related:
   - "white-snake-tongzhou"
   - "the-crab-with-the-dipper"
   - "the-nine-young-dragons"
+  - "the-tortoise-under-the-stele"
 ---
 
 Forget the dragon of Western fantasy — the winged hoarder on a mountain of gold. The Chinese **long (龙)** is something else entirely: a **god of water**, and a member of the celestial civil service.

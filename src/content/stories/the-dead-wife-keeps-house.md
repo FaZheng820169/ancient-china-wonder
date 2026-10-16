@@ -16,7 +16,7 @@ image: "/images/stories/the-dead-wife-keeps-house.jpg"
 imageAlt: "Ink-wash illustration: a woman in plain dress at a window with embroidery in her hand, two children clutching their father gown, a withered peach stump beyond."
 original: |
   凡男子续娶后妇，与前妻即无结发情，故相见不复省识。……父曰：「欲保嗣续，在我贤妇。……即令新妇随儿去，借渠手足，料理家务。俟儿女婚嫁毕，再当来此。」……妇慨然曰：「人一朝谢事，百凡都听诸后人，真可痛也！」……妇曰：「妾在翁姑处，受教训者十二年，始知日前所为，俱失妇道。自今伊始，当恪遵阿姊成法，依赞数载，以赎前愆。」
-originalNote: "From 《鬼婦持家》, Xieduo juan 9. The underworld household here is not a court but a family: the dead parents keep a house, the dead servant acts as doorkeeper, the dead wife embroiders at the window."
+originalNote: "From 《鬼婦持家》, Xieduo juan 7. The underworld household here is not a court but a family: the dead parents keep a house, the dead servant acts as doorkeeper, the dead wife embroiders at the window."
 notes:
   - term: "The bond of the wedding hair"
     text: "结发情 — at the wedding the bride's and groom's hair were bound together and a lock cut and kept. The mother's explanation is one of the strangest laws in Chinese supernatural fiction: 凡男子续娶后妇，与前妻即无结发情，故相见不复省识 — once a man takes a later wife, the bond with the earlier is gone, and meeting, they no longer know each other. The bond is not in the memory. It is in the hair, and the hair has been recut."

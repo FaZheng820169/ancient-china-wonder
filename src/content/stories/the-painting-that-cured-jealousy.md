@@ -20,7 +20,7 @@ original: |
   尹有族弟名慧生，善绘事，闻之曰：“此心疾也，吾当以心药治之。”遂写海棠数十本，貌潘生科头其下。旁绘妖姬五六人：有拈花者，有嗅花者，有执花在手乞潘生代为插鬓者，有狎坐膝头戏以花瓣掷生面者。画毕，竟诣床头，询姊近状。尹流涕不言。
   慧生曰：“昔姊丈在时，曾浼弟画行乐图一卷；恐姊见嗔，久留弟处。今巳埋骨泉下，谅姊见原，特归赵璧。”因出图授尹。尹谛视久之，面忽发赪曰：“薄幸郎有是事耶？”慧生曰，“姊误矣！男儿离绣帏三尺，便当跳入云霄。是非粱伯鸾，谁能谨守眉案？况已往不咎，听之可也。”尹愤然作色曰，”若是，则死犹晚耳！吾何惜焉？”慧生佯劝而退。由是心疾渐解，不旬日，霍然竟愈。取其图投之于火，并督家人，各持斧锸前往别墅，尽伐去海棠之树。
   铎曰：“此袁倩医鄱阳王妃故智也。哀思乍平，妒心又起，海棠之伐，与阮宜妇砍桃何异？刘孝标之三同，王文穆之四畏，吾知泉下人犹为胆落。”
-originalNote: "From 《妙画代良医》, Xieduo juan 3. A grieving widow is cured of lovesickness when a painted rival stirs her jealousy instead."
+originalNote: "From 《妙画代良医》, Xieduo juan 2. A grieving widow is cured of lovesickness when a painted rival stirs her jealousy instead."
 notes:
   - term: "The flower that understands speech (解语花)"
     text: "Yin's name for the crabapple she holds — a classical idiom for a woman who is lovely and quick-witted (it was applied to Yang Guifei's favourite, the 'flower that understands speech'). By calling the tree 'Flower Minister' and Pan 'Censor of Flowers,' the jealous wife turns her husband's devotion into a little court of his own, which makes the later betrayal cut deeper."

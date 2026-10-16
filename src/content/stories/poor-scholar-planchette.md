@@ -16,7 +16,7 @@ image: "/images/stories/poor-scholar-planchette.jpg"
 imageAlt: "Ink-wash illustration: a planchette moving over a sand tray in a lantern-lit garden while kneeling guests applaud and a shabby scholar looks on."
 original: |
   吴中马颠，能诗，工词曲，而名不出里巷。饥驱潦倒，薄游于扬，以诗遍谒贵游，三载卒无所遇。……马排闼直入。众哗问为谁？马曰：「某吴中穷士，少习扶乩。今贵客满座，请献薄技。」……马拍案而起曰：「公等碌碌，真所谓井蛙谤海者也。……窃料近日名流，专于纱帽下求诗，故嫁名殿元，以使文章增价。……名下题诗，古今积习。是非九方皋安能赏识牝牡骊黄外哉？」
-originalNote: "From 《窮士扶乩》, Xieduo juan 4. The spirit impersonated is Kang Hai (1475–1540), a real Ming zhuangyuan. Condensed here; the original contains four satirical ballads, thirty matching lyrics, and a long dramatic song."
+originalNote: "From 《窮士扶乩》, Xieduo juan 3. The spirit impersonated is Kang Hai (1475–1540), a real Ming zhuangyuan. Condensed here; the original contains four satirical ballads, thirty matching lyrics, and a long dramatic song."
 notes:
   - term: "The planchette"
     text: "扶乩 — a forked stick or suspended sieve moved over a tray of sand by two operators; the spirit writes in the sand. Planchette divination was an ordinary parlour pastime among the educated. Its value here is that it makes a mouthpiece that cannot be interrupted: whatever appears in the sand is by definition not the man holding the stick. Ma Dian spends the whole tale exploiting exactly that gap."

@@ -16,7 +16,7 @@ image: "/images/stories/a-day-is-a-year.jpg"
 imageAlt: "Ink-wash illustration: a walled city where lotus blooms on one riverbank and plum flowers in snow on the other, a rider arriving at a pavilion."
 original: |
   吾郡去中华四万七千余里，名曰蟪蛄郡。以日为年，朝则春，昼则夏，晚则秋，夜则冬，无纪年书，视四时草木以为侯。今芙蕖出水，吾郡之新秋，中华之午牌后也。……郡主曰：「六十有二年。」……戴嗒焉若丧，低首筹思，忽怀乡土，因乞与郡主同归。
-originalNote: "From 《蟪蛄郡》, Xieduo juan 11. The story is told by Dai Li, grandson of the observer Fuozhai, and Shen Qifeng records it as his."
+originalNote: "From 《蟪蛄郡》, Xieduo juan 10. The story is told by Dai Li, grandson of the observer Fuozhai, and Shen Qifeng records it as his."
 notes:
   - term: "The cicada"
     text: "蟪蛄 is the small cicada of the Zhuangzi: 蟪蛄不知春秋 — the summer cicada does not know spring or autumn, because it is born and dies inside one season. Shen Qifeng names the whole country after it and inverts the joke. Here the creature that cannot see a year is the creature whose year is a day."

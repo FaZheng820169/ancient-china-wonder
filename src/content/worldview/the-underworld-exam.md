@@ -16,6 +16,7 @@ related:
   - "one-cash"
   - "the-judge-answers-questions"
   - "the-register-of-the-unranked"
+  - "top-of-the-list-by-accident"
 ---
 
 China invented the imperial civil service examination, and then, with characteristic thoroughness, projected it onto heaven and hell. In this universe the exam is not a human institution that stops at the grave. It is the **operating principle of reality**. There is always another hall, another paper, another grading rubric — and the dead are not exempt.

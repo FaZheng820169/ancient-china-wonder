@@ -16,7 +16,7 @@ image: "/images/stories/the-literate-dog.jpg"
 imageAlt: "Ink-wash illustration: a small dog sitting before a village school desk, head lowered before a strip of paper pasted on the corner."
 original: |
   孩时蓄一小犬，名进生。继入书塾，必提抱与俱。偶置案头，见予读书，辄注目凝想，若有所得。予奇之，戏书「进宝不许入塾」六字，粘诸座隅。犬审视良久，垂首丧气而出，三五日不敢入塾。予呼之始至。益奇之，增其字曰「慧儿」。犬摇尾踊跃，作感恩状，犹名士之爱呼表字也。
-originalNote: "From 《識字犬》, Xieduo juan 7. One of the few tales Shen Qifeng tells in the first person about his own household."
+originalNote: "From 《識字犬》, Xieduo juan 6. One of the few tales Shen Qifeng tells in the first person about his own household."
 notes:
   - term: "The courtesy name"
     text: "字 — a gentleman acquired a courtesy name at his capping, and to be addressed by it rather than by his childhood name was a mark of standing. Shen writes that the dog wagged and leapt at being given one, and adds 犹名士之爱呼表字也 — like a famous scholar who loves to be called by his courtesy name. The dog is not being praised."

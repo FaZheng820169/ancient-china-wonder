@@ -16,7 +16,7 @@ image: "/images/stories/the-city-of-dung-beetles.jpg"
 imageAlt: "Ink-wash illustration: a young man in pale robes pinching his nose at the gate of a dark earthen town swarming with beetles."
 original: |
   予铜臭翁孔氏，此名乳臭小儿。因慕洞天福地，自五浊村移家于此。蒙鲍鱼肆主人见爱，谓予臭味不殊，荐诸逐臭大夫，命司蜣螂城北门管钥。汝遍体恶气，若不早自敛藏，将流染村墟，郁为时疠，其奈之何！……忽大惊曰：「何顿芗泽若是，真化臭腐为神奇矣！」
-originalNote: "From 《蜣螂城》, Xieduo juan 11. 蜣螂 is the dung beetle, the insect that rolls its ball. The whole tale turns on one fact of classical Chinese: 臭 means smell, not necessarily stink."
+originalNote: "From 《蜣螂城》, Xieduo juan 10. 蜣螂 is the dung beetle, the insect that rolls its ball. The whole tale turns on one fact of classical Chinese: 臭 means smell, not necessarily stink."
 notes:
   - term: "Old Man Bronze-Stink"
     text: "铜臭 — the stink of copper, the standard term for money-corruption since the Later Han. 乳臭 is the smell of milk on an infant, as in 乳臭未干, wet behind the ears. Shen Qifeng gives them surnames and makes them a family: Kong, which is also the surname of Confucius, and a boy called Little Milk-Stink."

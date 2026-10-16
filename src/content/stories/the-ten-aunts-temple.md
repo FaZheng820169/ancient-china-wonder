@@ -16,7 +16,7 @@ image: "/images/stories/the-ten-aunts-temple.jpg"
 imageAlt: "Ink-wash illustration: ten elegantly dressed women seated round a lamp-lit table in a temple hall, an angry bearded poet driving them from the doorway."
 original: |
   十姨庙，在杜曲西，未知建于何代。芝楣桂栋，椒壁兰帷，中塑十女子，翠羽明珰，并皆殊色。……忽一人冠带而来，某乘机阁笔，十姨趋侍左右。其人据案而坐曰：「吾浣花溪杜拾遗也！自唐时庙祀于此，不意村俗无知，误『拾遗』为『十姨』，遂令巾帼者流，纷纷鸩踞。犹以汝辈稍知风雅，故尔暂容庑下。乃引逗白腹儿郎，以粪土污我墙壁。」
-originalNote: "From 《十姨廟》, Xieduo juan 10. Condensed: the original contains ten complete lampoon-verses built from collected Tang lines."
+originalNote: "From 《十姨廟》, Xieduo juan 8. Condensed: the original contains ten complete lampoon-verses built from collected Tang lines."
 notes:
   - term: "Reminder, Ten Aunts"
     text: "拾遗 was a real Tang office — Reminder, the censor whose job was to point out what the emperor had overlooked. Du Fu held it, and is called Du Shiyi to this day. 十姨, Ten Aunts, is exactly the same sound in a country mouth. The temple is not a mistake about a god; it is a mistake about a job title, and it ran for a thousand years with ten women in the shrine."
