@@ -34,6 +34,7 @@ related:
   - "seventy-days-of-thunder"
   - "dong-xian-rain-god"
   - "the-earth-god-who-told"
+  - "the-thunder-god-and-his-fire-sword"
 ---
 
 In the bingshen year of the Chunxi era, no rain fell at Guilin for months on end. As autumn turned to winter the market gardens were failing.

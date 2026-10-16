@@ -24,6 +24,12 @@ related:
   - "the-ghost-masters-of-guangxi"
   - "the-wronged-ghosts-mistook-their-man"
   - "qiuding-in-the-underworld"
+  - "the-ghost-who-bought-a-son"
+  - "the-ghost-who-brought-dumplings"
+  - "the-chaste-girl-who-cried-injustice"
+  - "the-girl-ghost-who-filed-suits"
+  - "two-tales-of-jealous-ghosts"
+  - "not-every-god-was-virtuous"
 ---
 
 A **ghost (鬼, *gui*)** in this universe is not a different species from a human. It is a human in the wrong state: a soul that, for some reason, did not get processed through the Courts of the Dead, and so lingers in the mortal realm — off the register, out of the queue, stuck.

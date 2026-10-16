@@ -34,6 +34,8 @@ related:
   - "gu-jing-ji"
   - "the-tortoise-under-the-stele"
   - "the-candle-flowers"
+  - "the-wooden-dog-that-barked"
+  - "the-bronze-actors-of-romance-of-the-west-chamber"
 ---
 
 The monastery of Qianming at Fuzhou is ringed with lake on all four sides.

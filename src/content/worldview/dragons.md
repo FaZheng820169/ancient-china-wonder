@@ -16,6 +16,7 @@ related:
   - "the-tortoise-under-the-stele"
   - "the-pavilion-of-the-great-turtle"
   - "the-bronze-bell-of-fuzhou"
+  - "the-goddess-of-the-favorable-winds"
 ---
 
 Forget the dragon of Western fantasy — the winged hoarder on a mountain of gold. The Chinese **long (龙)** is something else entirely: a **god of water**, and a member of the celestial civil service.

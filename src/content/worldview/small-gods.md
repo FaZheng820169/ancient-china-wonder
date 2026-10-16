@@ -24,6 +24,10 @@ related:
   - "the-seven-ladies"
   - "the-land-god-of-jianju-abbey"
   - "the-goddess-who-bought-the-woods"
+  - "the-lake-god-who-guarded-a-corpse"
+  - "the-goddess-of-the-favorable-winds"
+  - "not-every-god-was-virtuous"
+  - "the-headless-stone-men-of-waxie"
 ---
 
 Chinese religion is usually described by its peaks — the Jade Emperor, the Queen Mother of the West, Guan Yu, Bao Zheng. But the tradition actually runs on a very large number of very small gods, and they are the ones who turn up in the stories.
