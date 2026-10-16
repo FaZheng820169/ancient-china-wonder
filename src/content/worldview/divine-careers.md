@@ -5,6 +5,7 @@ branch: beings
 summary: "Divinity in this universe is a career, not a state of being. Gods are appointed, promoted, deputised, impeached and dismissed — and a god who fails once on a countable promise can be smashed with a hoe."
 order: 7
 related:
+  - "reading-the-fate"
   - "dead-father-paper"
   - "protector-general"
   - "ox-head-king"
