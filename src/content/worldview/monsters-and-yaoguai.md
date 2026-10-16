@@ -20,6 +20,8 @@ related:
   - "the-man-from-before-pangu"
   - "when-the-stones-spoke"
   - "the-eye-on-its-back"
+  - "the-chicken-footed-people"
+  - "the-tiger-who-carried-wenchangs-head"
 ---
 
 The mortal realm has a second population, mostly invisible, and its census categories matter.

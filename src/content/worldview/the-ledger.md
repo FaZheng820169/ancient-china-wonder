@@ -35,6 +35,8 @@ related:
   - "reading-the-fate"
   - "two-tales-of-corpse-fragrance"
   - "the-ghost-who-followed-him-through-three-lives"
+  - "the-scale-of-merit"
+  - "thunder-strikes-the-pickpockets"
 ---
 
 Read Chinese fantasy for long enough and you notice that nothing in it is ever merely *fated*. Things are **on file**. Someone's profit has a fixed ceiling. A death-date is entered in a register kept by an office with a rank. A debt of seven ounces is recovered to the ounce, thirty years and one rebirth later, through the hand of a man who cheats the creditor. And when Heaven executes a sorcerer, it writes the verdict on his corpse in brimstone and closes it with a phrase lifted from Han administrative language: 如律令 — **let it be done according to statute**.

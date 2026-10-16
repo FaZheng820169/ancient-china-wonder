@@ -13,6 +13,7 @@ related:
   - "fox-licentiate"
   - "zhao-sanweng"
   - "the-folding-immortal"
+  - "the-rite-of-the-whole-bones"
 ---
 
 Underneath the marvels, this universe runs on a coherent set of rules for how one kind of being becomes another. Later fantasy readers will find the system oddly familiar — Chinese web-novels made it famous — but its foundations are two thousand years old, and the classical stories all assume it.

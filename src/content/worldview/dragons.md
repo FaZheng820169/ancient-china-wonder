@@ -14,6 +14,7 @@ related:
   - "the-crab-with-the-dipper"
   - "the-nine-young-dragons"
   - "the-tortoise-under-the-stele"
+  - "the-pavilion-of-the-great-turtle"
 ---
 
 Forget the dragon of Western fantasy — the winged hoarder on a mountain of gold. The Chinese **long (龙)** is something else entirely: a **god of water**, and a member of the celestial civil service.

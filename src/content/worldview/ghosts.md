@@ -21,6 +21,8 @@ related:
   - "boiling-the-ghost-in-oil"
   - "the-coffin-lid-that-flew"
   - "the-major-who-carried-his-head"
+  - "the-ghost-masters-of-guangxi"
+  - "the-wronged-ghosts-mistook-their-man"
 ---
 
 A **ghost (鬼, *gui*)** in this universe is not a different species from a human. It is a human in the wrong state: a soul that, for some reason, did not get processed through the Courts of the Dead, and so lingers in the mortal realm — off the register, out of the queue, stuck.

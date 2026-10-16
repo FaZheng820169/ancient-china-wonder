@@ -19,6 +19,7 @@ related:
   - "four-meetings-with-the-year-god"
   - "the-clay-puppet"
   - "lord-qiu-becomes-a-water-god"
+  - "the-tiger-who-carried-wenchangs-head"
 ---
 
 Chinese religion is usually described by its peaks — the Jade Emperor, the Queen Mother of the West, Guan Yu, Bao Zheng. But the tradition actually runs on a very large number of very small gods, and they are the ones who turn up in the stories.

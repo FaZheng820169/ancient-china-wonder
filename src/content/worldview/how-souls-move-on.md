@@ -23,6 +23,7 @@ related:
   - "the-monk-who-lent-him-a-body"
   - "the-major-who-carried-his-head"
   - "the-ghost-who-followed-him-through-three-lives"
+  - "the-wronged-ghosts-mistook-their-man"
 ---
 
 Chinese fiction has no single account of what happens after death, because it never needed one. A story needs a *mechanism*, and across two thousand years the tradition built up a shelf of them. They do not contradict each other so much as they compete, and a good tale picks the one it needs.
